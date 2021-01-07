@@ -1,0 +1,8652 @@
+{
+	"5793016": {
+		"type": "planet",
+		"period": 18.4482544,
+		"number": 1
+	},
+	"5810063": {
+		"type": "planet",
+		"period": 2.9600672,
+		"number": 1
+	},
+	"5876391": {
+		"type": "planet",
+		"period": 11.1630696,
+		"number": 1
+	},
+	"5894173": {
+		"type": "planet",
+		"period": 4.6170173,
+		"number": 1
+	},
+	"5894829": {
+		"type": "planet",
+		"period": 4.8169732,
+		"number": 1
+	},
+	"5899259": {
+		"type": "planet",
+		"period": 9.2615634,
+		"number": 1
+	},
+	"5987506": {
+		"type": "planet",
+		"period": 16.5205586,
+		"number": 1
+	},
+	"5987506": {
+		"type": "planet",
+		"period": 16.7562697,
+		"number": 2
+	},
+	"5987506": {
+		"type": "planet",
+		"period": 4.95156,
+		"number": 3
+	},
+	"57907253": {
+		"type": "planet",
+		"period": 4.1344269,
+		"number": 1
+	},
+	"57995908": {
+		"type": "planet",
+		"period": 8.926346,
+		"number": 1
+	},
+	"58091672": {
+		"type": "planet",
+		"period": 10.7390503,
+		"number": 1
+	},
+	"58238314": {
+		"type": "planet",
+		"period": 0.827053,
+		"number": 1
+	},
+	"58359440": {
+		"type": "planet",
+		"period": 10.7010976,
+		"number": 1
+	},
+	"58402287": {
+		"type": "planet",
+		"period": 4.8198864,
+		"number": 1
+	},
+	"72035119": {
+		"type": "planet",
+		"period": 6.8767035,
+		"number": 1
+	},
+	"72335821": {
+		"type": "planet",
+		"period": 3.0804126,
+		"number": 1
+	},
+	"72412082": {
+		"type": "planet",
+		"period": 14.8582386,
+		"number": 1
+	},
+	"74092792": {
+		"type": "planet",
+		"period": 18.7547564,
+		"number": 1
+	},
+	"157513243": {
+		"type": "planet",
+		"period": 9.9578062,
+		"number": 1
+	},
+	"157539772": {
+		"type": "planet",
+		"period": 10.2112472,
+		"number": 1
+	},
+	"157684172": {
+		"type": "planet",
+		"period": 8.2905131,
+		"number": 1
+	},
+	"182024689": {
+		"type": "planet",
+		"period": 5.9171921,
+		"number": 1
+	},
+	"182085292": {
+		"type": "planet",
+		"period": 8.0521217,
+		"number": 1
+	},
+	"189910370": {
+		"type": "planet",
+		"period": 15.7381219,
+		"number": 1
+	},
+	"264180664": {
+		"type": "planet",
+		"period": 8.7210409,
+		"number": 1
+	},
+	"270572713": {
+		"type": "planet",
+		"period": 12.7996606,
+		"number": 1
+	},
+	"270670706": {
+		"type": "planet",
+		"period": 4.7896969,
+		"number": 1
+	},
+	"270688596": {
+		"type": "planet",
+		"period": 1.1363515,
+		"number": 1
+	},
+	"270797401": {
+		"type": "planet",
+		"period": 5.8983656,
+		"number": 1
+	},
+	"270828660": {
+		"type": "planet",
+		"period": 1.0399587,
+		"number": 1
+	},
+	"270917741": {
+		"type": "planet",
+		"period": 1.2972995,
+		"number": 1
+	},
+	"271001973": {
+		"type": "planet",
+		"period": 4.4104446,
+		"number": 1
+	},
+	"271130378": {
+		"type": "planet",
+		"period": 14.0464754,
+		"number": 1
+	},
+	"271246166": {
+		"type": "planet",
+		"period": 18.5801582,
+		"number": 1
+	},
+	"276802745": {
+		"type": "planet",
+		"period": 0.9871021,
+		"number": 1
+	},
+	"281264811": {
+		"type": "planet",
+		"period": 4.2270361,
+		"number": 1
+	},
+	"281391703": {
+		"type": "planet",
+		"period": 6.8627192,
+		"number": 1
+	},
+	"281455414": {
+		"type": "planet",
+		"period": 3.5211827,
+		"number": 1
+	},
+	"281684743": {
+		"type": "planet",
+		"period": 17.6890459,
+		"number": 1
+	},
+	"281842561": {
+		"type": "planet",
+		"period": 5.479581,
+		"number": 1
+	},
+	"281842961": {
+		"type": "planet",
+		"period": 8.9937438,
+		"number": 1
+	},
+	"281941695": {
+		"type": "planet",
+		"period": 9.2147197,
+		"number": 1
+	},
+	"281941695": {
+		"type": "planet",
+		"period": 1.0841384,
+		"number": 2
+	},
+	"282055743": {
+		"type": "planet",
+		"period": 1.3390075,
+		"number": 1
+	},
+	"282055976": {
+		"type": "planet",
+		"period": 17.5871771,
+		"number": 1
+	},
+	"282056031": {
+		"type": "planet",
+		"period": 4.4815087,
+		"number": 1
+	},
+	"283104484": {
+		"type": "planet",
+		"period": 3.8109305,
+		"number": 1
+	},
+	"283355148": {
+		"type": "planet",
+		"period": 16.2063456,
+		"number": 1
+	},
+	"291140402": {
+		"type": "planet",
+		"period": 17.8846582,
+		"number": 1
+	},
+	"296932181": {
+		"type": "planet",
+		"period": 4.4048713,
+		"number": 1
+	},
+	"296935311": {
+		"type": "planet",
+		"period": 0.8156301,
+		"number": 1
+	},
+	"296936594": {
+		"type": "planet",
+		"period": 1.7642287,
+		"number": 1
+	},
+	"297165505": {
+		"type": "planet",
+		"period": 6.6832108,
+		"number": 1
+	},
+	"315475193": {
+		"type": "planet",
+		"period": 5.3440391,
+		"number": 1
+	},
+	"318888921": {
+		"type": "planet",
+		"period": 16.9751358,
+		"number": 1
+	},
+	"318888921": {
+		"type": "planet",
+		"period": 7.6515506,
+		"number": 2
+	},
+	"318889001": {
+		"type": "planet",
+		"period": 0.8410374,
+		"number": 1
+	},
+	"318948330": {
+		"type": "planet",
+		"period": 18.4168933,
+		"number": 1
+	},
+	"323288106": {
+		"type": "planet",
+		"period": 17.924492,
+		"number": 1
+	},
+	"323321521": {
+		"type": "planet",
+		"period": 16.4956183,
+		"number": 1
+	},
+	"326927305": {
+		"type": "planet",
+		"period": 6.050922,
+		"number": 1
+	},
+	"326927407": {
+		"type": "planet",
+		"period": 7.1890564,
+		"number": 1
+	},
+	"337341171": {
+		"type": "planet",
+		"period": 1.8946695,
+		"number": 1
+	},
+	"362486362": {
+		"type": "planet",
+		"period": 18.8947253,
+		"number": 1
+	},
+	"369011118": {
+		"type": "planet",
+		"period": 10.0575467,
+		"number": 1
+	},
+	"369080491": {
+		"type": "planet",
+		"period": 9.6562165,
+		"number": 1
+	},
+	"20811153": {
+		"type": "planet",
+		"period": 15.3475819,
+		"number": 1
+	},
+	"46175111": {
+		"type": "planet",
+		"period": 4.0020253,
+		"number": 1
+	},
+	"168608319": {
+		"type": "planet",
+		"period": 8.2700795,
+		"number": 1
+	},
+	"168608319": {
+		"type": "planet",
+		"period": 5.0913964,
+		"number": 2
+	},
+	"176002827": {
+		"type": "planet",
+		"period": 3.9805965,
+		"number": 1
+	},
+	"188268973": {
+		"type": "planet",
+		"period": 8.6454519,
+		"number": 1
+	},
+	"193380501": {
+		"type": "planet",
+		"period": 19.747407,
+		"number": 1
+	},
+	"193381884": {
+		"type": "planet",
+		"period": 2.3002241,
+		"number": 1
+	},
+	"193439988": {
+		"type": "planet",
+		"period": 19.9815099,
+		"number": 1
+	},
+	"193441707": {
+		"type": "planet",
+		"period": 2.2033062,
+		"number": 1
+	},
+	"272517856": {
+		"type": "planet",
+		"period": 7.0215825,
+		"number": 1
+	},
+	"272517856": {
+		"type": "planet",
+		"period": 9.8867028,
+		"number": 2
+	},
+	"272593776": {
+		"type": "planet",
+		"period": 0.7575493,
+		"number": 1
+	},
+	"272672831": {
+		"type": "planet",
+		"period": 7.7343854,
+		"number": 1
+	},
+	"272751999": {
+		"type": "planet",
+		"period": 17.7164855,
+		"number": 1
+	},
+	"272847395": {
+		"type": "planet",
+		"period": 5.7803409,
+		"number": 1
+	},
+	"272852406": {
+		"type": "planet",
+		"period": 17.3632292,
+		"number": 1
+	},
+	"272871384": {
+		"type": "planet",
+		"period": 4.3429451,
+		"number": 1
+	},
+	"272874033": {
+		"type": "planet",
+		"period": 13.1494391,
+		"number": 1
+	},
+	"272921803": {
+		"type": "planet",
+		"period": 0.7612485,
+		"number": 1
+	},
+	"272989295": {
+		"type": "planet",
+		"period": 14.6405057,
+		"number": 1
+	},
+	"281150342": {
+		"type": "planet",
+		"period": 13.7851105,
+		"number": 1
+	},
+	"281186685": {
+		"type": "planet",
+		"period": 3.1511201,
+		"number": 1
+	},
+	"291033335": {
+		"type": "planet",
+		"period": 11.0805877,
+		"number": 1
+	},
+	"296740769": {
+		"type": "planet",
+		"period": 17.633202,
+		"number": 1
+	},
+	"296837389": {
+		"type": "planet",
+		"period": 1.9576222,
+		"number": 1
+	},
+	"296837389": {
+		"type": "planet",
+		"period": 8.2198297,
+		"number": 2
+	},
+	"296837389": {
+		"type": "planet",
+		"period": 6.9275483,
+		"number": 3
+	},
+	"301088769": {
+		"type": "planet",
+		"period": 9.081594,
+		"number": 1
+	},
+	"301088769": {
+		"type": "planet",
+		"period": 1.8583426,
+		"number": 2
+	},
+	"301088769": {
+		"type": "planet",
+		"period": 11.3743286,
+		"number": 3
+	},
+	"301089244": {
+		"type": "planet",
+		"period": 2.7394727,
+		"number": 1
+	},
+	"315607797": {
+		"type": "planet",
+		"period": 3.4345091,
+		"number": 1
+	},
+	"318469641": {
+		"type": "planet",
+		"period": 14.3315194,
+		"number": 1
+	},
+	"318469641": {
+		"type": "planet",
+		"period": 5.1259841,
+		"number": 2
+	},
+	"318470122": {
+		"type": "planet",
+		"period": 3.2641265,
+		"number": 1
+	},
+	"318496151": {
+		"type": "planet",
+		"period": 6.9990609,
+		"number": 1
+	},
+	"318624422": {
+		"type": "planet",
+		"period": 16.7738308,
+		"number": 1
+	},
+	"323138830": {
+		"type": "planet",
+		"period": 3.1479119,
+		"number": 1
+	},
+	"337282639": {
+		"type": "planet",
+		"period": 11.267017,
+		"number": 1
+	},
+	"350147941": {
+		"type": "planet",
+		"period": 11.3620642,
+		"number": 1
+	},
+	"371328795": {
+		"type": "planet",
+		"period": 5.5799324,
+		"number": 1
+	},
+	"371330416": {
+		"type": "planet",
+		"period": 3.0801625,
+		"number": 1
+	},
+	"371366416": {
+		"type": "planet",
+		"period": 0.9295461,
+		"number": 1
+	},
+	"371366416": {
+		"type": "planet",
+		"period": 0.6510076,
+		"number": 2
+	},
+	"371366416": {
+		"type": "planet",
+		"period": 0.6959347,
+		"number": 3
+	},
+	"393116102": {
+		"type": "planet",
+		"period": 4.7737996,
+		"number": 1
+	},
+	"393118169": {
+		"type": "planet",
+		"period": 18.8440733,
+		"number": 1
+	},
+	"393128314": {
+		"type": "planet",
+		"period": 8.2332841,
+		"number": 1
+	},
+	"446177776": {
+		"type": "planet",
+		"period": 7.1849597,
+		"number": 1
+	},
+	"446178336": {
+		"type": "planet",
+		"period": 16.1888983,
+		"number": 1
+	},
+	"446178336": {
+		"type": "planet",
+		"period": 5.346873,
+		"number": 2
+	},
+	"446178336": {
+		"type": "planet",
+		"period": 4.4631254,
+		"number": 3
+	},
+	"446182560": {
+		"type": "planet",
+		"period": 2.5994865,
+		"number": 1
+	},
+	"446190467": {
+		"type": "planet",
+		"period": 0.5247347,
+		"number": 1
+	},
+	"460429770": {
+		"type": "planet",
+		"period": 3.9340198,
+		"number": 1
+	},
+	"460430741": {
+		"type": "planet",
+		"period": 7.8411441,
+		"number": 1
+	},
+	"460467253": {
+		"type": "planet",
+		"period": 16.9822625,
+		"number": 1
+	},
+	"460467253": {
+		"type": "planet",
+		"period": 13.4370978,
+		"number": 2
+	},
+	"460467909": {
+		"type": "planet",
+		"period": 19.7900984,
+		"number": 1
+	},
+	"461369186": {
+		"type": "planet",
+		"period": 5.464292,
+		"number": 1
+	},
+	"461374139": {
+		"type": "planet",
+		"period": 5.4883192,
+		"number": 1
+	},
+	"461390009": {
+		"type": "planet",
+		"period": 9.3762216,
+		"number": 1
+	},
+	"462159266": {
+		"type": "planet",
+		"period": 17.510007,
+		"number": 1
+	},
+	"462176735": {
+		"type": "planet",
+		"period": 4.3812139,
+		"number": 1
+	},
+	"462179476": {
+		"type": "planet",
+		"period": 1.4380774,
+		"number": 1
+	},
+	"462179476": {
+		"type": "planet",
+		"period": 8.2612439,
+		"number": 2
+	},
+	"462184536": {
+		"type": "planet",
+		"period": 16.530946,
+		"number": 1
+	},
+	"462244069": {
+		"type": "planet",
+		"period": 9.702592,
+		"number": 1
+	},
+	"462277936": {
+		"type": "planet",
+		"period": 17.4104811,
+		"number": 1
+	},
+	"462286905": {
+		"type": "planet",
+		"period": 8.9861889,
+		"number": 1
+	},
+	"462309011": {
+		"type": "planet",
+		"period": 0.9266866,
+		"number": 1
+	},
+	"462317419": {
+		"type": "planet",
+		"period": 3.7643302,
+		"number": 1
+	},
+	"462317419": {
+		"type": "planet",
+		"period": 2.0835311,
+		"number": 2
+	},
+	"471012464": {
+		"type": "planet",
+		"period": 13.4313256,
+		"number": 1
+	},
+	"20809934": {
+		"type": "planet",
+		"period": 16.5443819,
+		"number": 1
+	},
+	"20887449": {
+		"type": "planet",
+		"period": 8.520548,
+		"number": 1
+	},
+	"20899133": {
+		"type": "planet",
+		"period": 12.2635214,
+		"number": 1
+	},
+	"20980934": {
+		"type": "planet",
+		"period": 1.7814753,
+		"number": 1
+	},
+	"32285930": {
+		"type": "planet",
+		"period": 14.4277491,
+		"number": 1
+	},
+	"32309405": {
+		"type": "planet",
+		"period": 3.4424545,
+		"number": 1
+	},
+	"32312351": {
+		"type": "planet",
+		"period": 9.1676924,
+		"number": 1
+	},
+	"32367988": {
+		"type": "planet",
+		"period": 17.9160221,
+		"number": 1
+	},
+	"32428441": {
+		"type": "planet",
+		"period": 9.0118433,
+		"number": 1
+	},
+	"32543161": {
+		"type": "planet",
+		"period": 0.295826,
+		"number": 1
+	},
+	"36939604": {
+		"type": "planet",
+		"period": 8.1216063,
+		"number": 1
+	},
+	"36940665": {
+		"type": "planet",
+		"period": 8.9730938,
+		"number": 1
+	},
+	"36949836": {
+		"type": "planet",
+		"period": 3.9127447,
+		"number": 1
+	},
+	"36951651": {
+		"type": "planet",
+		"period": 0.5838288,
+		"number": 1
+	},
+	"36985301": {
+		"type": "planet",
+		"period": 12.3091878,
+		"number": 1
+	},
+	"37017599": {
+		"type": "planet",
+		"period": 11.1522177,
+		"number": 1
+	},
+	"37069037": {
+		"type": "planet",
+		"period": 9.7670961,
+		"number": 1
+	},
+	"37072220": {
+		"type": "planet",
+		"period": 3.0044992,
+		"number": 1
+	},
+	"37127625": {
+		"type": "planet",
+		"period": 2.2282962,
+		"number": 1
+	},
+	"37147987": {
+		"type": "planet",
+		"period": 9.541677,
+		"number": 1
+	},
+	"37151179": {
+		"type": "planet",
+		"period": 4.0395629,
+		"number": 1
+	},
+	"37174533": {
+		"type": "planet",
+		"period": 2.3888164,
+		"number": 1
+	},
+	"37174533": {
+		"type": "planet",
+		"period": 18.5314013,
+		"number": 2
+	},
+	"37174533": {
+		"type": "planet",
+		"period": 14.5780988,
+		"number": 3
+	},
+	"46148382": {
+		"type": "planet",
+		"period": 6.505002,
+		"number": 1
+	},
+	"46150012": {
+		"type": "planet",
+		"period": 7.2175977,
+		"number": 1
+	},
+	"46151187": {
+		"type": "planet",
+		"period": 6.4179032,
+		"number": 1
+	},
+	"46251419": {
+		"type": "planet",
+		"period": 18.2837068,
+		"number": 1
+	},
+	"46251419": {
+		"type": "planet",
+		"period": 7.5537556,
+		"number": 2
+	},
+	"46254630": {
+		"type": "planet",
+		"period": 8.9854429,
+		"number": 1
+	},
+	"46254642": {
+		"type": "planet",
+		"period": 5.7438432,
+		"number": 1
+	},
+	"46300025": {
+		"type": "planet",
+		"period": 9.9881004,
+		"number": 1
+	},
+	"46300025": {
+		"type": "planet",
+		"period": 3.1743889,
+		"number": 2
+	},
+	"46358337": {
+		"type": "planet",
+		"period": 7.9618612,
+		"number": 1
+	},
+	"46374953": {
+		"type": "planet",
+		"period": 9.626523,
+		"number": 1
+	},
+	"46375184": {
+		"type": "planet",
+		"period": 4.92951,
+		"number": 1
+	},
+	"49520418": {
+		"type": "planet",
+		"period": 14.888038,
+		"number": 1
+	},
+	"49660197": {
+		"type": "planet",
+		"period": 9.4216434,
+		"number": 1
+	},
+	"49660197": {
+		"type": "planet",
+		"period": 14.9581007,
+		"number": 2
+	},
+	"49660197": {
+		"type": "planet",
+		"period": 1.6523888,
+		"number": 3
+	},
+	"49661682": {
+		"type": "planet",
+		"period": 6.1781221,
+		"number": 1
+	},
+	"49685431": {
+		"type": "planet",
+		"period": 8.2391547,
+		"number": 1
+	},
+	"49729253": {
+		"type": "planet",
+		"period": 2.2356178,
+		"number": 1
+	},
+	"54505343": {
+		"type": "planet",
+		"period": 3.3054827,
+		"number": 1
+	},
+	"54536596": {
+		"type": "planet",
+		"period": 17.9206263,
+		"number": 1
+	},
+	"54612770": {
+		"type": "planet",
+		"period": 1.1927942,
+		"number": 1
+	},
+	"54653344": {
+		"type": "planet",
+		"period": 18.0439989,
+		"number": 1
+	},
+	"54769305": {
+		"type": "planet",
+		"period": 4.3949955,
+		"number": 1
+	},
+	"54773017": {
+		"type": "planet",
+		"period": 18.3711452,
+		"number": 1
+	},
+	"79401361": {
+		"type": "planet",
+		"period": 10.051937,
+		"number": 1
+	},
+	"79401361": {
+		"type": "planet",
+		"period": 9.7518963,
+		"number": 2
+	},
+	"79401361": {
+		"type": "planet",
+		"period": 11.0955976,
+		"number": 3
+	},
+	"79402496": {
+		"type": "planet",
+		"period": 3.873999,
+		"number": 1
+	},
+	"79443154": {
+		"type": "planet",
+		"period": 3.7745322,
+		"number": 1
+	},
+	"168536036": {
+		"type": "planet",
+		"period": 5.2827515,
+		"number": 1
+	},
+	"168575864": {
+		"type": "planet",
+		"period": 8.9572241,
+		"number": 1
+	},
+	"176014811": {
+		"type": "planet",
+		"period": 11.2214622,
+		"number": 1
+	},
+	"180334811": {
+		"type": "planet",
+		"period": 3.26333,
+		"number": 1
+	},
+	"180347844": {
+		"type": "planet",
+		"period": 8.0198609,
+		"number": 1
+	},
+	"180421166": {
+		"type": "planet",
+		"period": 6.2803094,
+		"number": 1
+	},
+	"180421166": {
+		"type": "planet",
+		"period": 12.6473416,
+		"number": 2
+	},
+	"180421437": {
+		"type": "planet",
+		"period": 10.5570976,
+		"number": 1
+	},
+	"187316508": {
+		"type": "planet",
+		"period": 5.024901,
+		"number": 1
+	},
+	"187316586": {
+		"type": "planet",
+		"period": 19.6721756,
+		"number": 1
+	},
+	"187382340": {
+		"type": "planet",
+		"period": 2.349227,
+		"number": 1
+	},
+	"187407960": {
+		"type": "planet",
+		"period": 11.9130993,
+		"number": 1
+	},
+	"187410382": {
+		"type": "planet",
+		"period": 1.8965192,
+		"number": 1
+	},
+	"187449742": {
+		"type": "planet",
+		"period": 16.7340184,
+		"number": 1
+	},
+	"187449857": {
+		"type": "planet",
+		"period": 19.516791,
+		"number": 1
+	},
+	"188294562": {
+		"type": "planet",
+		"period": 7.9629332,
+		"number": 1
+	},
+	"188296573": {
+		"type": "planet",
+		"period": 14.7332635,
+		"number": 1
+	},
+	"193377271": {
+		"type": "planet",
+		"period": 8.6896466,
+		"number": 1
+	},
+	"203302785": {
+		"type": "planet",
+		"period": 12.5885047,
+		"number": 1
+	},
+	"203302785": {
+		"type": "planet",
+		"period": 9.978983,
+		"number": 2
+	},
+	"290562681": {
+		"type": "planet",
+		"period": 3.4627024,
+		"number": 1
+	},
+	"294848183": {
+		"type": "planet",
+		"period": 3.6735677,
+		"number": 1
+	},
+	"294944836": {
+		"type": "planet",
+		"period": 14.1170456,
+		"number": 1
+	},
+	"294989595": {
+		"type": "planet",
+		"period": 9.1205048,
+		"number": 1
+	},
+	"294989595": {
+		"type": "planet",
+		"period": 8.1275174,
+		"number": 2
+	},
+	"347980962": {
+		"type": "planet",
+		"period": 2.9687274,
+		"number": 1
+	},
+	"386964660": {
+		"type": "planet",
+		"period": 5.4955996,
+		"number": 1
+	},
+	"386964660": {
+		"type": "planet",
+		"period": 6.1091486,
+		"number": 2
+	},
+	"386964660": {
+		"type": "planet",
+		"period": 4.8329479,
+		"number": 3
+	},
+	"410459144": {
+		"type": "planet",
+		"period": 8.1935801,
+		"number": 1
+	},
+	"40849632": {
+		"type": "planet",
+		"period": 9.6280635,
+		"number": 1
+	},
+	"40849632": {
+		"type": "planet",
+		"period": 12.3176886,
+		"number": 2
+	},
+	"49874010": {
+		"type": "planet",
+		"period": 7.1838897,
+		"number": 1
+	},
+	"52400876": {
+		"type": "planet",
+		"period": 1.0957996,
+		"number": 1
+	},
+	"52798869": {
+		"type": "planet",
+		"period": 1.4953047,
+		"number": 1
+	},
+	"52798869": {
+		"type": "planet",
+		"period": 5.3435303,
+		"number": 2
+	},
+	"52989986": {
+		"type": "planet",
+		"period": 9.1218249,
+		"number": 1
+	},
+	"53091388": {
+		"type": "planet",
+		"period": 5.4033061,
+		"number": 1
+	},
+	"57911833": {
+		"type": "planet",
+		"period": 12.4218023,
+		"number": 1
+	},
+	"58361807": {
+		"type": "planet",
+		"period": 13.4255903,
+		"number": 1
+	},
+	"72223988": {
+		"type": "planet",
+		"period": 7.0863603,
+		"number": 1
+	},
+	"72302411": {
+		"type": "planet",
+		"period": 1.5487321,
+		"number": 1
+	},
+	"135570812": {
+		"type": "planet",
+		"period": 4.7155917,
+		"number": 1
+	},
+	"135655630": {
+		"type": "planet",
+		"period": 5.8491289,
+		"number": 1
+	},
+	"135655630": {
+		"type": "planet",
+		"period": 15.2561137,
+		"number": 2
+	},
+	"135720696": {
+		"type": "planet",
+		"period": 15.3526766,
+		"number": 1
+	},
+	"135819633": {
+		"type": "planet",
+		"period": 6.5756847,
+		"number": 1
+	},
+	"135820332": {
+		"type": "planet",
+		"period": 5.7643925,
+		"number": 1
+	},
+	"135820332": {
+		"type": "planet",
+		"period": 12.5643569,
+		"number": 2
+	},
+	"135888652": {
+		"type": "planet",
+		"period": 1.0598348,
+		"number": 1
+	},
+	"135888652": {
+		"type": "planet",
+		"period": 19.4434165,
+		"number": 2
+	},
+	"135938790": {
+		"type": "planet",
+		"period": 2.8580757,
+		"number": 1
+	},
+	"135938790": {
+		"type": "planet",
+		"period": 15.3674462,
+		"number": 2
+	},
+	"136020790": {
+		"type": "planet",
+		"period": 5.6285196,
+		"number": 1
+	},
+	"136020790": {
+		"type": "planet",
+		"period": 14.7546679,
+		"number": 2
+	},
+	"136020790": {
+		"type": "planet",
+		"period": 2.9230356,
+		"number": 3
+	},
+	"152672220": {
+		"type": "planet",
+		"period": 1.4700106,
+		"number": 1
+	},
+	"152754732": {
+		"type": "planet",
+		"period": 3.4323495,
+		"number": 1
+	},
+	"152859121": {
+		"type": "planet",
+		"period": 0.8204824,
+		"number": 1
+	},
+	"152954421": {
+		"type": "planet",
+		"period": 13.4701805,
+		"number": 1
+	},
+	"152954421": {
+		"type": "planet",
+		"period": 11.2925276,
+		"number": 2
+	},
+	"153074619": {
+		"type": "planet",
+		"period": 9.5187289,
+		"number": 1
+	},
+	"153324388": {
+		"type": "planet",
+		"period": 1.3604712,
+		"number": 1
+	},
+	"153447677": {
+		"type": "planet",
+		"period": 1.0926171,
+		"number": 1
+	},
+	"153527487": {
+		"type": "planet",
+		"period": 8.6836691,
+		"number": 1
+	},
+	"153528763": {
+		"type": "planet",
+		"period": 7.5783915,
+		"number": 1
+	},
+	"153601274": {
+		"type": "planet",
+		"period": 14.8359748,
+		"number": 1
+	},
+	"153716169": {
+		"type": "planet",
+		"period": 1.2072239,
+		"number": 1
+	},
+	"153721179": {
+		"type": "planet",
+		"period": 12.0746933,
+		"number": 1
+	},
+	"163625814": {
+		"type": "planet",
+		"period": 1.4825592,
+		"number": 1
+	},
+	"163686058": {
+		"type": "planet",
+		"period": 2.8624176,
+		"number": 1
+	},
+	"163849199": {
+		"type": "planet",
+		"period": 9.2601884,
+		"number": 1
+	},
+	"163912878": {
+		"type": "planet",
+		"period": 11.1022458,
+		"number": 1
+	},
+	"163912878": {
+		"type": "planet",
+		"period": 6.9595442,
+		"number": 2
+	},
+	"181279902": {
+		"type": "planet",
+		"period": 0.3720682,
+		"number": 1
+	},
+	"181279902": {
+		"type": "planet",
+		"period": 7.5763216,
+		"number": 2
+	},
+	"181279902": {
+		"type": "planet",
+		"period": 15.4696377,
+		"number": 3
+	},
+	"181281878": {
+		"type": "planet",
+		"period": 3.7332284,
+		"number": 1
+	},
+	"181292297": {
+		"type": "planet",
+		"period": 0.3534506,
+		"number": 1
+	},
+	"181363363": {
+		"type": "planet",
+		"period": 6.3502682,
+		"number": 1
+	},
+	"181520368": {
+		"type": "planet",
+		"period": 4.6021845,
+		"number": 1
+	},
+	"181520368": {
+		"type": "planet",
+		"period": 4.1159142,
+		"number": 2
+	},
+	"181521190": {
+		"type": "planet",
+		"period": 1.5239154,
+		"number": 1
+	},
+	"181609153": {
+		"type": "planet",
+		"period": 0.7031673,
+		"number": 1
+	},
+	"182088574": {
+		"type": "planet",
+		"period": 8.3363742,
+		"number": 1
+	},
+	"193512223": {
+		"type": "planet",
+		"period": 8.052022,
+		"number": 1
+	},
+	"203586768": {
+		"type": "planet",
+		"period": 1.3593482,
+		"number": 1
+	},
+	"301678255": {
+		"type": "planet",
+		"period": 13.7514395,
+		"number": 1
+	},
+	"301730477": {
+		"type": "planet",
+		"period": 7.2847949,
+		"number": 1
+	},
+	"362492090": {
+		"type": "planet",
+		"period": 3.956308,
+		"number": 1
+	},
+	"398423049": {
+		"type": "planet",
+		"period": 2.2299716,
+		"number": 1
+	},
+	"398576549": {
+		"type": "planet",
+		"period": 0.4626622,
+		"number": 1
+	},
+	"398576549": {
+		"type": "planet",
+		"period": 6.9110821,
+		"number": 2
+	},
+	"398576549": {
+		"type": "planet",
+		"period": 14.2969804,
+		"number": 3
+	},
+	"409180069": {
+		"type": "planet",
+		"period": 8.6315461,
+		"number": 1
+	},
+	"410970053": {
+		"type": "planet",
+		"period": 1.7588215,
+		"number": 1
+	},
+	"410970053": {
+		"type": "planet",
+		"period": 8.0422357,
+		"number": 2
+	},
+	"410994115": {
+		"type": "planet",
+		"period": 17.3076615,
+		"number": 1
+	},
+	"411034469": {
+		"type": "planet",
+		"period": 8.9311268,
+		"number": 1
+	},
+	"413592833": {
+		"type": "planet",
+		"period": 13.288715,
+		"number": 1
+	},
+	"413845475": {
+		"type": "planet",
+		"period": 2.1350943,
+		"number": 1
+	},
+	"413933423": {
+		"type": "planet",
+		"period": 1.5615952,
+		"number": 1
+	},
+	"413935673": {
+		"type": "planet",
+		"period": 11.7520408,
+		"number": 1
+	},
+	"413945758": {
+		"type": "planet",
+		"period": 7.987094,
+		"number": 1
+	},
+	"414010935": {
+		"type": "planet",
+		"period": 18.8830055,
+		"number": 1
+	},
+	"414070454": {
+		"type": "planet",
+		"period": 5.2586385,
+		"number": 1
+	},
+	"414223971": {
+		"type": "planet",
+		"period": 8.9608503,
+		"number": 1
+	},
+	"414342863": {
+		"type": "planet",
+		"period": 5.4777495,
+		"number": 1
+	},
+	"420896193": {
+		"type": "planet",
+		"period": 17.9994844,
+		"number": 1
+	},
+	"457949301": {
+		"type": "planet",
+		"period": 0.8810957,
+		"number": 1
+	},
+	"21745087": {
+		"type": "planet",
+		"period": 2.033175,
+		"number": 1
+	},
+	"43337176": {
+		"type": "planet",
+		"period": 3.2980473,
+		"number": 1
+	},
+	"150444897": {
+		"type": "planet",
+		"period": 6.138726,
+		"number": 1
+	},
+	"150486675": {
+		"type": "planet",
+		"period": 2.2823493,
+		"number": 1
+	},
+	"150598854": {
+		"type": "planet",
+		"period": 4.8311269,
+		"number": 1
+	},
+	"150645111": {
+		"type": "planet",
+		"period": 14.3940934,
+		"number": 1
+	},
+	"224323534": {
+		"type": "planet",
+		"period": 18.217917,
+		"number": 1
+	},
+	"230229336": {
+		"type": "planet",
+		"period": 9.7179002,
+		"number": 1
+	},
+	"233012830": {
+		"type": "planet",
+		"period": 6.1721836,
+		"number": 1
+	},
+	"236741269": {
+		"type": "planet",
+		"period": 9.370223,
+		"number": 1
+	},
+	"236743062": {
+		"type": "planet",
+		"period": 7.9120395,
+		"number": 1
+	},
+	"236743062": {
+		"type": "planet",
+		"period": 0.5746992,
+		"number": 2
+	},
+	"236743062": {
+		"type": "planet",
+		"period": 4.218129,
+		"number": 3
+	},
+	"257095143": {
+		"type": "planet",
+		"period": 4.9702489,
+		"number": 1
+	},
+	"257306495": {
+		"type": "planet",
+		"period": 2.8456404,
+		"number": 1
+	},
+	"257336558": {
+		"type": "planet",
+		"period": 6.746118,
+		"number": 1
+	},
+	"257336558": {
+		"type": "planet",
+		"period": 8.4028641,
+		"number": 2
+	},
+	"257493470": {
+		"type": "planet",
+		"period": 16.7140759,
+		"number": 1
+	},
+	"257533729": {
+		"type": "planet",
+		"period": 7.4074696,
+		"number": 1
+	},
+	"257533729": {
+		"type": "planet",
+		"period": 5.9896096,
+		"number": 2
+	},
+	"257582735": {
+		"type": "planet",
+		"period": 2.4907471,
+		"number": 1
+	},
+	"257648522": {
+		"type": "planet",
+		"period": 6.9661314,
+		"number": 1
+	},
+	"257795298": {
+		"type": "planet",
+		"period": 16.787627,
+		"number": 1
+	},
+	"257798327": {
+		"type": "planet",
+		"period": 1.3860058,
+		"number": 1
+	},
+	"257823130": {
+		"type": "planet",
+		"period": 14.909363,
+		"number": 1
+	},
+	"258239161": {
+		"type": "planet",
+		"period": 9.8518523,
+		"number": 1
+	},
+	"258243178": {
+		"type": "planet",
+		"period": 15.0819057,
+		"number": 1
+	},
+	"287259074": {
+		"type": "planet",
+		"period": 3.4761073,
+		"number": 1
+	},
+	"310988475": {
+		"type": "planet",
+		"period": 6.8181351,
+		"number": 1
+	},
+	"320470356": {
+		"type": "planet",
+		"period": 1.719114,
+		"number": 1
+	},
+	"320470356": {
+		"type": "planet",
+		"period": 7.0941707,
+		"number": 2
+	},
+	"320470448": {
+		"type": "planet",
+		"period": 8.7201177,
+		"number": 1
+	},
+	"320470448": {
+		"type": "planet",
+		"period": 0.5471267,
+		"number": 2
+	},
+	"332395688": {
+		"type": "planet",
+		"period": 17.900264,
+		"number": 1
+	},
+	"345444848": {
+		"type": "planet",
+		"period": 3.018005,
+		"number": 1
+	},
+	"345724379": {
+		"type": "planet",
+		"period": 7.4250483,
+		"number": 1
+	},
+	"345724457": {
+		"type": "planet",
+		"period": 2.0486747,
+		"number": 1
+	},
+	"345725207": {
+		"type": "planet",
+		"period": 2.6294755,
+		"number": 1
+	},
+	"345768371": {
+		"type": "planet",
+		"period": 8.0085424,
+		"number": 1
+	},
+	"345808438": {
+		"type": "planet",
+		"period": 15.1304617,
+		"number": 1
+	},
+	"349528628": {
+		"type": "planet",
+		"period": 13.4799322,
+		"number": 1
+	},
+	"351594106": {
+		"type": "planet",
+		"period": 5.2694873,
+		"number": 1
+	},
+	"351651592": {
+		"type": "planet",
+		"period": 12.9902136,
+		"number": 1
+	},
+	"355926765": {
+		"type": "planet",
+		"period": 15.2788339,
+		"number": 1
+	},
+	"356104816": {
+		"type": "planet",
+		"period": 2.683622,
+		"number": 1
+	},
+	"356187114": {
+		"type": "planet",
+		"period": 1.7306294,
+		"number": 1
+	},
+	"356187114": {
+		"type": "planet",
+		"period": 2.2041364,
+		"number": 2
+	},
+	"356229469": {
+		"type": "planet",
+		"period": 15.008744,
+		"number": 1
+	},
+	"359390866": {
+		"type": "planet",
+		"period": 4.051331,
+		"number": 1
+	},
+	"359390866": {
+		"type": "planet",
+		"period": 7.5460395,
+		"number": 2
+	},
+	"359390866": {
+		"type": "planet",
+		"period": 18.1644451,
+		"number": 3
+	},
+	"362129479": {
+		"type": "planet",
+		"period": 8.4317584,
+		"number": 1
+	},
+	"376720005": {
+		"type": "planet",
+		"period": 16.0629713,
+		"number": 1
+	},
+	"376844422": {
+		"type": "planet",
+		"period": 12.4695577,
+		"number": 1
+	},
+	"402148230": {
+		"type": "planet",
+		"period": 6.1794285,
+		"number": 1
+	},
+	"423025957": {
+		"type": "planet",
+		"period": 1.3965458,
+		"number": 1
+	},
+	"458515087": {
+		"type": "planet",
+		"period": 8.5997923,
+		"number": 1
+	},
+	"458515087": {
+		"type": "planet",
+		"period": 4.8201836,
+		"number": 2
+	},
+	"458524570": {
+		"type": "planet",
+		"period": 6.4732836,
+		"number": 1
+	},
+	"458526933": {
+		"type": "planet",
+		"period": 5.1708489,
+		"number": 1
+	},
+	"458546846": {
+		"type": "planet",
+		"period": 8.4150955,
+		"number": 1
+	},
+	"458550261": {
+		"type": "planet",
+		"period": 4.8366749,
+		"number": 1
+	},
+	"458556561": {
+		"type": "planet",
+		"period": 1.1676957,
+		"number": 1
+	},
+	"8415342": {
+		"type": "planet",
+		"period": 7.7250095,
+		"number": 1
+	},
+	"8575705": {
+		"type": "planet",
+		"period": 11.9524725,
+		"number": 1
+	},
+	"8623347": {
+		"type": "planet",
+		"period": 1.2879007,
+		"number": 1
+	},
+	"17093701": {
+		"type": "planet",
+		"period": 1.364859,
+		"number": 1
+	},
+	"17381940": {
+		"type": "planet",
+		"period": 5.1609412,
+		"number": 1
+	},
+	"17381940": {
+		"type": "planet",
+		"period": 3.7728434,
+		"number": 2
+	},
+	"17381940": {
+		"type": "planet",
+		"period": 19.713751,
+		"number": 3
+	},
+	"17408281": {
+		"type": "planet",
+		"period": 2.9210369,
+		"number": 1
+	},
+	"17566253": {
+		"type": "planet",
+		"period": 7.3011058,
+		"number": 1
+	},
+	"159229863": {
+		"type": "planet",
+		"period": 18.9336548,
+		"number": 1
+	},
+	"188584474": {
+		"type": "planet",
+		"period": 16.336902,
+		"number": 1
+	},
+	"219746708": {
+		"type": "planet",
+		"period": 10.229999,
+		"number": 1
+	},
+	"219746831": {
+		"type": "planet",
+		"period": 11.1689379,
+		"number": 1
+	},
+	"219746976": {
+		"type": "planet",
+		"period": 7.6405849,
+		"number": 1
+	},
+	"229579621": {
+		"type": "planet",
+		"period": 2.5946102,
+		"number": 1
+	},
+	"229579621": {
+		"type": "planet",
+		"period": 6.6295724,
+		"number": 2
+	},
+	"236316341": {
+		"type": "planet",
+		"period": 9.4277578,
+		"number": 1
+	},
+	"236316983": {
+		"type": "planet",
+		"period": 5.6630628,
+		"number": 1
+	},
+	"236316983": {
+		"type": "planet",
+		"period": 14.0911341,
+		"number": 2
+	},
+	"236318635": {
+		"type": "planet",
+		"period": 3.9786557,
+		"number": 1
+	},
+	"236318635": {
+		"type": "planet",
+		"period": 4.5389381,
+		"number": 2
+	},
+	"236318635": {
+		"type": "planet",
+		"period": 1.124906,
+		"number": 3
+	},
+	"236325819": {
+		"type": "planet",
+		"period": 14.4046258,
+		"number": 1
+	},
+	"236333169": {
+		"type": "planet",
+		"period": 1.8331606,
+		"number": 1
+	},
+	"236336182": {
+		"type": "planet",
+		"period": 1.6935426,
+		"number": 1
+	},
+	"236340163": {
+		"type": "planet",
+		"period": 0.498422,
+		"number": 1
+	},
+	"236349222": {
+		"type": "planet",
+		"period": 10.2403731,
+		"number": 1
+	},
+	"236354004": {
+		"type": "planet",
+		"period": 5.7216215,
+		"number": 1
+	},
+	"236354004": {
+		"type": "planet",
+		"period": 3.4163229,
+		"number": 2
+	},
+	"236398766": {
+		"type": "planet",
+		"period": 8.5037363,
+		"number": 1
+	},
+	"258146475": {
+		"type": "planet",
+		"period": 2.8701535,
+		"number": 1
+	},
+	"258177087": {
+		"type": "planet",
+		"period": 11.6667201,
+		"number": 1
+	},
+	"283891400": {
+		"type": "planet",
+		"period": 3.6419744,
+		"number": 1
+	},
+	"283891400": {
+		"type": "planet",
+		"period": 4.5043755,
+		"number": 2
+	},
+	"283894291": {
+		"type": "planet",
+		"period": 12.7353469,
+		"number": 1
+	},
+	"283921353": {
+		"type": "planet",
+		"period": 14.2370584,
+		"number": 1
+	},
+	"283921353": {
+		"type": "planet",
+		"period": 19.2505061,
+		"number": 2
+	},
+	"284354194": {
+		"type": "planet",
+		"period": 8.176312,
+		"number": 1
+	},
+	"284385309": {
+		"type": "planet",
+		"period": 5.0378787,
+		"number": 1
+	},
+	"284429071": {
+		"type": "planet",
+		"period": 9.1415373,
+		"number": 1
+	},
+	"284760655": {
+		"type": "planet",
+		"period": 9.138789,
+		"number": 1
+	},
+	"309904373": {
+		"type": "planet",
+		"period": 4.0042506,
+		"number": 1
+	},
+	"309907185": {
+		"type": "planet",
+		"period": 15.3744352,
+		"number": 1
+	},
+	"309907802": {
+		"type": "planet",
+		"period": 16.5064477,
+		"number": 1
+	},
+	"310059436": {
+		"type": "planet",
+		"period": 10.3441452,
+		"number": 1
+	},
+	"310061389": {
+		"type": "planet",
+		"period": 18.9220322,
+		"number": 1
+	},
+	"310264283": {
+		"type": "planet",
+		"period": 5.8312449,
+		"number": 1
+	},
+	"320333641": {
+		"type": "planet",
+		"period": 3.7373511,
+		"number": 1
+	},
+	"359290371": {
+		"type": "planet",
+		"period": 7.7327016,
+		"number": 1
+	},
+	"359310567": {
+		"type": "planet",
+		"period": 15.8504311,
+		"number": 1
+	},
+	"392385152": {
+		"type": "planet",
+		"period": 2.2009331,
+		"number": 1
+	},
+	"444065890": {
+		"type": "planet",
+		"period": 10.7597182,
+		"number": 1
+	},
+	"444065890": {
+		"type": "planet",
+		"period": 19.2813756,
+		"number": 2
+	},
+	"444065890": {
+		"type": "planet",
+		"period": 4.6201484,
+		"number": 3
+	},
+	"444068160": {
+		"type": "planet",
+		"period": 5.5768354,
+		"number": 1
+	},
+	"444068239": {
+		"type": "planet",
+		"period": 7.5726652,
+		"number": 1
+	},
+	"103868118": {
+		"type": "planet",
+		"period": 3.7782206,
+		"number": 1
+	},
+	"103889616": {
+		"type": "planet",
+		"period": 9.2335545,
+		"number": 1
+	},
+	"105777548": {
+		"type": "planet",
+		"period": 7.5006569,
+		"number": 1
+	},
+	"105850743": {
+		"type": "planet",
+		"period": 7.6447141,
+		"number": 1
+	},
+	"105850743": {
+		"type": "planet",
+		"period": 19.8287174,
+		"number": 2
+	},
+	"119816873": {
+		"type": "planet",
+		"period": 18.0188999,
+		"number": 1
+	},
+	"119857067": {
+		"type": "planet",
+		"period": 2.6163389,
+		"number": 1
+	},
+	"119888422": {
+		"type": "planet",
+		"period": 15.9770022,
+		"number": 1
+	},
+	"119956417": {
+		"type": "planet",
+		"period": 1.7231588,
+		"number": 1
+	},
+	"135260601": {
+		"type": "planet",
+		"period": 10.2747672,
+		"number": 1
+	},
+	"135260601": {
+		"type": "planet",
+		"period": 8.8657812,
+		"number": 2
+	},
+	"137026571": {
+		"type": "planet",
+		"period": 3.2617366,
+		"number": 1
+	},
+	"149688896": {
+		"type": "planet",
+		"period": 17.584264,
+		"number": 1
+	},
+	"149692037": {
+		"type": "planet",
+		"period": 3.118402,
+		"number": 1
+	},
+	"149759025": {
+		"type": "planet",
+		"period": 16.6371012,
+		"number": 1
+	},
+	"149759025": {
+		"type": "planet",
+		"period": 11.6029212,
+		"number": 2
+	},
+	"149763769": {
+		"type": "planet",
+		"period": 2.0480657,
+		"number": 1
+	},
+	"172607904": {
+		"type": "planet",
+		"period": 7.0768169,
+		"number": 1
+	},
+	"172648017": {
+		"type": "planet",
+		"period": 0.6834176,
+		"number": 1
+	},
+	"172708615": {
+		"type": "planet",
+		"period": 9.5563194,
+		"number": 1
+	},
+	"229560854": {
+		"type": "planet",
+		"period": 12.3971019,
+		"number": 1
+	},
+	"229567955": {
+		"type": "planet",
+		"period": 0.5846881,
+		"number": 1
+	},
+	"233494107": {
+		"type": "planet",
+		"period": 11.0407475,
+		"number": 1
+	},
+	"258046839": {
+		"type": "planet",
+		"period": 5.6854226,
+		"number": 1
+	},
+	"281185803": {
+		"type": "planet",
+		"period": 11.4044772,
+		"number": 1
+	},
+	"284383203": {
+		"type": "planet",
+		"period": 5.3072123,
+		"number": 1
+	},
+	"291068475": {
+		"type": "planet",
+		"period": 7.2182546,
+		"number": 1
+	},
+	"291072595": {
+		"type": "planet",
+		"period": 2.3917972,
+		"number": 1
+	},
+	"318493980": {
+		"type": "planet",
+		"period": 6.7801948,
+		"number": 1
+	},
+	"318493980": {
+		"type": "planet",
+		"period": 4.779712,
+		"number": 2
+	},
+	"318697901": {
+		"type": "planet",
+		"period": 5.2392473,
+		"number": 1
+	},
+	"318711015": {
+		"type": "planet",
+		"period": 17.4761518,
+		"number": 1
+	},
+	"318780786": {
+		"type": "planet",
+		"period": 4.7827538,
+		"number": 1
+	},
+	"323284732": {
+		"type": "planet",
+		"period": 19.9470889,
+		"number": 1
+	},
+	"329071536": {
+		"type": "planet",
+		"period": 8.3646315,
+		"number": 1
+	},
+	"329072061": {
+		"type": "planet",
+		"period": 14.0605694,
+		"number": 1
+	},
+	"329072061": {
+		"type": "planet",
+		"period": 5.9362981,
+		"number": 2
+	},
+	"329072356": {
+		"type": "planet",
+		"period": 12.0611635,
+		"number": 1
+	},
+	"345353177": {
+		"type": "planet",
+		"period": 9.1791298,
+		"number": 1
+	},
+	"347505194": {
+		"type": "planet",
+		"period": 2.3250664,
+		"number": 1
+	},
+	"377413791": {
+		"type": "planet",
+		"period": 0.8764762,
+		"number": 1
+	},
+	"393142887": {
+		"type": "planet",
+		"period": 3.2655701,
+		"number": 1
+	},
+	"393634931": {
+		"type": "planet",
+		"period": 14.0027773,
+		"number": 1
+	},
+	"393650499": {
+		"type": "planet",
+		"period": 5.7834721,
+		"number": 1
+	},
+	"393704858": {
+		"type": "planet",
+		"period": 7.2834517,
+		"number": 1
+	},
+	"393706754": {
+		"type": "planet",
+		"period": 12.0022099,
+		"number": 1
+	},
+	"400052051": {
+		"type": "planet",
+		"period": 5.2085874,
+		"number": 1
+	},
+	"400052051": {
+		"type": "planet",
+		"period": 11.6658889,
+		"number": 2
+	},
+	"445884490": {
+		"type": "planet",
+		"period": 12.7153358,
+		"number": 1
+	},
+	"445884490": {
+		"type": "planet",
+		"period": 4.0179834,
+		"number": 2
+	},
+	"446193444": {
+		"type": "planet",
+		"period": 4.7993528,
+		"number": 1
+	},
+	"459284371": {
+		"type": "planet",
+		"period": 2.4459251,
+		"number": 1
+	},
+	"461388027": {
+		"type": "planet",
+		"period": 19.8672638,
+		"number": 1
+	},
+	"120028597": {
+		"type": "planet",
+		"period": 11.5175154,
+		"number": 1
+	},
+	"141948116": {
+		"type": "planet",
+		"period": 1.2244842,
+		"number": 1
+	},
+	"142635930": {
+		"type": "planet",
+		"period": 19.9996503,
+		"number": 1
+	},
+	"142696058": {
+		"type": "planet",
+		"period": 4.6693858,
+		"number": 1
+	},
+	"142714770": {
+		"type": "planet",
+		"period": 1.3378424,
+		"number": 1
+	},
+	"143100366": {
+		"type": "planet",
+		"period": 0.7793737,
+		"number": 1
+	},
+	"143100366": {
+		"type": "planet",
+		"period": 6.1544606,
+		"number": 2
+	},
+	"143113198": {
+		"type": "planet",
+		"period": 4.0529525,
+		"number": 1
+	},
+	"143184091": {
+		"type": "planet",
+		"period": 1.3167582,
+		"number": 1
+	},
+	"143184091": {
+		"type": "planet",
+		"period": 9.3718699,
+		"number": 2
+	},
+	"143224474": {
+		"type": "planet",
+		"period": 6.0175109,
+		"number": 1
+	},
+	"143226649": {
+		"type": "planet",
+		"period": 5.8140346,
+		"number": 1
+	},
+	"143226760": {
+		"type": "planet",
+		"period": 3.3018697,
+		"number": 1
+	},
+	"147751310": {
+		"type": "planet",
+		"period": 2.6591895,
+		"number": 1
+	},
+	"147751860": {
+		"type": "planet",
+		"period": 6.9899652,
+		"number": 1
+	},
+	"150484402": {
+		"type": "planet",
+		"period": 7.9059048,
+		"number": 1
+	},
+	"154572841": {
+		"type": "planet",
+		"period": 7.9294163,
+		"number": 1
+	},
+	"154573600": {
+		"type": "planet",
+		"period": 8.6815767,
+		"number": 1
+	},
+	"154646208": {
+		"type": "planet",
+		"period": 0.9795655,
+		"number": 1
+	},
+	"154665466": {
+		"type": "planet",
+		"period": 6.190872,
+		"number": 1
+	},
+	"233685612": {
+		"type": "planet",
+		"period": 16.05447,
+		"number": 1
+	},
+	"233687241": {
+		"type": "planet",
+		"period": 3.7885905,
+		"number": 1
+	},
+	"264655065": {
+		"type": "planet",
+		"period": 18.3600498,
+		"number": 1
+	},
+	"264655778": {
+		"type": "planet",
+		"period": 6.5404701,
+		"number": 1
+	},
+	"266076307": {
+		"type": "planet",
+		"period": 16.2464938,
+		"number": 1
+	},
+	"276996240": {
+		"type": "planet",
+		"period": 3.7601554,
+		"number": 1
+	},
+	"276997047": {
+		"type": "planet",
+		"period": 16.3729248,
+		"number": 1
+	},
+	"276997047": {
+		"type": "planet",
+		"period": 19.0472806,
+		"number": 2
+	},
+	"291161401": {
+		"type": "planet",
+		"period": 8.9659375,
+		"number": 1
+	},
+	"291315608": {
+		"type": "planet",
+		"period": 6.2294305,
+		"number": 1
+	},
+	"291504851": {
+		"type": "planet",
+		"period": 19.2814813,
+		"number": 1
+	},
+	"291543296": {
+		"type": "planet",
+		"period": 8.8489258,
+		"number": 1
+	},
+	"291680948": {
+		"type": "planet",
+		"period": 4.3892548,
+		"number": 1
+	},
+	"291680948": {
+		"type": "planet",
+		"period": 8.8272791,
+		"number": 2
+	},
+	"319094919": {
+		"type": "planet",
+		"period": 7.1488,
+		"number": 1
+	},
+	"319096792": {
+		"type": "planet",
+		"period": 3.8408301,
+		"number": 1
+	},
+	"323394458": {
+		"type": "planet",
+		"period": 14.5114208,
+		"number": 1
+	},
+	"323437758": {
+		"type": "planet",
+		"period": 7.7435028,
+		"number": 1
+	},
+	"323445728": {
+		"type": "planet",
+		"period": 9.6257141,
+		"number": 1
+	},
+	"329132101": {
+		"type": "planet",
+		"period": 1.1148155,
+		"number": 1
+	},
+	"329132101": {
+		"type": "planet",
+		"period": 5.2326301,
+		"number": 2
+	},
+	"329132101": {
+		"type": "planet",
+		"period": 11.2738055,
+		"number": 3
+	},
+	"337337550": {
+		"type": "planet",
+		"period": 7.2800327,
+		"number": 1
+	},
+	"337482809": {
+		"type": "planet",
+		"period": 6.5399062,
+		"number": 1
+	},
+	"337627801": {
+		"type": "planet",
+		"period": 7.3331032,
+		"number": 1
+	},
+	"337650124": {
+		"type": "planet",
+		"period": 0.4044333,
+		"number": 1
+	},
+	"337650124": {
+		"type": "planet",
+		"period": 17.3621207,
+		"number": 2
+	},
+	"341355540": {
+		"type": "planet",
+		"period": 1.4221149,
+		"number": 1
+	},
+	"341410160": {
+		"type": "planet",
+		"period": 11.3445839,
+		"number": 1
+	},
+	"353225354": {
+		"type": "planet",
+		"period": 1.518671,
+		"number": 1
+	},
+	"353283978": {
+		"type": "planet",
+		"period": 10.0099585,
+		"number": 1
+	},
+	"353284053": {
+		"type": "planet",
+		"period": 1.9231689,
+		"number": 1
+	},
+	"376794166": {
+		"type": "planet",
+		"period": 4.5406571,
+		"number": 1
+	},
+	"377456251": {
+		"type": "planet",
+		"period": 18.7214977,
+		"number": 1
+	},
+	"377457244": {
+		"type": "planet",
+		"period": 3.1737451,
+		"number": 1
+	},
+	"383598522": {
+		"type": "planet",
+		"period": 6.1983955,
+		"number": 1
+	},
+	"392463863": {
+		"type": "planet",
+		"period": 8.5719792,
+		"number": 1
+	},
+	"447812975": {
+		"type": "planet",
+		"period": 14.4447245,
+		"number": 1
+	},
+	"459309800": {
+		"type": "planet",
+		"period": 5.5106316,
+		"number": 1
+	},
+	"8398178": {
+		"type": "planet",
+		"period": 5.9670518,
+		"number": 1
+	},
+	"8501948": {
+		"type": "planet",
+		"period": 15.0483525,
+		"number": 1
+	},
+	"17408734": {
+		"type": "planet",
+		"period": 9.5577143,
+		"number": 1
+	},
+	"17408734": {
+		"type": "planet",
+		"period": 10.3031918,
+		"number": 2
+	},
+	"17538639": {
+		"type": "planet",
+		"period": 18.4634301,
+		"number": 1
+	},
+	"24077045": {
+		"type": "planet",
+		"period": 14.589878,
+		"number": 1
+	},
+	"24089291": {
+		"type": "planet",
+		"period": 0.9299215,
+		"number": 1
+	},
+	"24157663": {
+		"type": "planet",
+		"period": 14.8600933,
+		"number": 1
+	},
+	"29264793": {
+		"type": "planet",
+		"period": 1.1259714,
+		"number": 1
+	},
+	"29264793": {
+		"type": "planet",
+		"period": 17.2782311,
+		"number": 2
+	},
+	"29267284": {
+		"type": "planet",
+		"period": 13.1458431,
+		"number": 1
+	},
+	"29385285": {
+		"type": "planet",
+		"period": 10.3368504,
+		"number": 1
+	},
+	"39832819": {
+		"type": "planet",
+		"period": 5.323671,
+		"number": 1
+	},
+	"39834872": {
+		"type": "planet",
+		"period": 1.3233786,
+		"number": 1
+	},
+	"39834872": {
+		"type": "planet",
+		"period": 3.6090925,
+		"number": 2
+	},
+	"39933419": {
+		"type": "planet",
+		"period": 7.2105146,
+		"number": 1
+	},
+	"39934822": {
+		"type": "planet",
+		"period": 18.2456758,
+		"number": 1
+	},
+	"39947162": {
+		"type": "planet",
+		"period": 18.4128489,
+		"number": 1
+	},
+	"39983205": {
+		"type": "planet",
+		"period": 11.3026644,
+		"number": 1
+	},
+	"57009696": {
+		"type": "planet",
+		"period": 2.0471303,
+		"number": 1
+	},
+	"57230340": {
+		"type": "planet",
+		"period": 3.596218,
+		"number": 1
+	},
+	"57300249": {
+		"type": "planet",
+		"period": 5.3611109,
+		"number": 1
+	},
+	"68898573": {
+		"type": "planet",
+		"period": 8.2584854,
+		"number": 1
+	},
+	"68936604": {
+		"type": "planet",
+		"period": 15.3858239,
+		"number": 1
+	},
+	"115171525": {
+		"type": "planet",
+		"period": 13.1843834,
+		"number": 1
+	},
+	"115421708": {
+		"type": "planet",
+		"period": 14.6255486,
+		"number": 1
+	},
+	"115446627": {
+		"type": "planet",
+		"period": 9.3702114,
+		"number": 1
+	},
+	"115449758": {
+		"type": "planet",
+		"period": 15.3092054,
+		"number": 1
+	},
+	"157375666": {
+		"type": "planet",
+		"period": 16.2330404,
+		"number": 1
+	},
+	"188583380": {
+		"type": "planet",
+		"period": 12.1288702,
+		"number": 1
+	},
+	"193554060": {
+		"type": "planet",
+		"period": 1.6881048,
+		"number": 1
+	},
+	"193557191": {
+		"type": "planet",
+		"period": 5.9106514,
+		"number": 1
+	},
+	"193557191": {
+		"type": "planet",
+		"period": 1.4837505,
+		"number": 2
+	},
+	"193557191": {
+		"type": "planet",
+		"period": 18.5766378,
+		"number": 3
+	},
+	"219475853": {
+		"type": "planet",
+		"period": 9.2486253,
+		"number": 1
+	},
+	"219477246": {
+		"type": "planet",
+		"period": 15.0909379,
+		"number": 1
+	},
+	"219501106": {
+		"type": "planet",
+		"period": 2.4950997,
+		"number": 1
+	},
+	"229668917": {
+		"type": "planet",
+		"period": 4.4176701,
+		"number": 1
+	},
+	"255908692": {
+		"type": "planet",
+		"period": 2.143637,
+		"number": 1
+	},
+	"255926809": {
+		"type": "planet",
+		"period": 14.6805184,
+		"number": 1
+	},
+	"255926809": {
+		"type": "planet",
+		"period": 7.0490149,
+		"number": 2
+	},
+	"255926809": {
+		"type": "planet",
+		"period": 7.5738195,
+		"number": 3
+	},
+	"255927049": {
+		"type": "planet",
+		"period": 12.7540287,
+		"number": 1
+	},
+	"255927049": {
+		"type": "planet",
+		"period": 2.3240464,
+		"number": 2
+	},
+	"286212112": {
+		"type": "planet",
+		"period": 17.7478427,
+		"number": 1
+	},
+	"286212112": {
+		"type": "planet",
+		"period": 6.6662508,
+		"number": 2
+	},
+	"286212112": {
+		"type": "planet",
+		"period": 8.8478178,
+		"number": 3
+	},
+	"310533667": {
+		"type": "planet",
+		"period": 2.2604172,
+		"number": 1
+	},
+	"334795235": {
+		"type": "planet",
+		"period": 8.528654,
+		"number": 1
+	},
+	"376664521": {
+		"type": "planet",
+		"period": 8.8567935,
+		"number": 1
+	},
+	"376664521": {
+		"type": "planet",
+		"period": 6.4920745,
+		"number": 2
+	},
+	"376674753": {
+		"type": "planet",
+		"period": 2.6112266,
+		"number": 1
+	},
+	"406808822": {
+		"type": "planet",
+		"period": 14.6618333,
+		"number": 1
+	},
+	"406808822": {
+		"type": "planet",
+		"period": 2.2760325,
+		"number": 2
+	},
+	"417545554": {
+		"type": "planet",
+		"period": 15.6661704,
+		"number": 1
+	},
+	"417546532": {
+		"type": "planet",
+		"period": 7.1431569,
+		"number": 1
+	},
+	"417546943": {
+		"type": "planet",
+		"period": 5.1921049,
+		"number": 1
+	},
+	"417571364": {
+		"type": "planet",
+		"period": 11.2399975,
+		"number": 1
+	},
+	"9474663": {
+		"type": "planet",
+		"period": 4.6808083,
+		"number": 1
+	},
+	"9474663": {
+		"type": "planet",
+		"period": 10.6589589,
+		"number": 2
+	},
+	"9527644": {
+		"type": "planet",
+		"period": 5.1331219,
+		"number": 1
+	},
+	"9592436": {
+		"type": "planet",
+		"period": 7.961807,
+		"number": 1
+	},
+	"9625658": {
+		"type": "planet",
+		"period": 15.8225153,
+		"number": 1
+	},
+	"9734281": {
+		"type": "planet",
+		"period": 9.7397126,
+		"number": 1
+	},
+	"9781649": {
+		"type": "planet",
+		"period": 1.7473183,
+		"number": 1
+	},
+	"9785079": {
+		"type": "planet",
+		"period": 2.089859,
+		"number": 1
+	},
+	"9825486": {
+		"type": "planet",
+		"period": 15.4385969,
+		"number": 1
+	},
+	"9828308": {
+		"type": "planet",
+		"period": 5.0948152,
+		"number": 1
+	},
+	"9828308": {
+		"type": "planet",
+		"period": 4.2734086,
+		"number": 2
+	},
+	"9828308": {
+		"type": "planet",
+		"period": 16.7267848,
+		"number": 3
+	},
+	"18114057": {
+		"type": "planet",
+		"period": 9.6811375,
+		"number": 1
+	},
+	"18116966": {
+		"type": "planet",
+		"period": 1.3091483,
+		"number": 1
+	},
+	"18228140": {
+		"type": "planet",
+		"period": 7.37446,
+		"number": 1
+	},
+	"18379260": {
+		"type": "planet",
+		"period": 12.1036453,
+		"number": 1
+	},
+	"21625685": {
+		"type": "planet",
+		"period": 2.2013294,
+		"number": 1
+	},
+	"21631692": {
+		"type": "planet",
+		"period": 0.537017,
+		"number": 1
+	},
+	"39202045": {
+		"type": "planet",
+		"period": 5.1096261,
+		"number": 1
+	},
+	"39202513": {
+		"type": "planet",
+		"period": 12.5879968,
+		"number": 1
+	},
+	"39300888": {
+		"type": "planet",
+		"period": 14.5582141,
+		"number": 1
+	},
+	"39302760": {
+		"type": "planet",
+		"period": 6.5563331,
+		"number": 1
+	},
+	"39425970": {
+		"type": "planet",
+		"period": 10.8103912,
+		"number": 1
+	},
+	"39425970": {
+		"type": "planet",
+		"period": 3.6027661,
+		"number": 2
+	},
+	"39464614": {
+		"type": "planet",
+		"period": 8.3632353,
+		"number": 1
+	},
+	"39520988": {
+		"type": "planet",
+		"period": 4.5674303,
+		"number": 1
+	},
+	"39571931": {
+		"type": "planet",
+		"period": 1.3310093,
+		"number": 1
+	},
+	"43274838": {
+		"type": "planet",
+		"period": 7.8474125,
+		"number": 1
+	},
+	"82405310": {
+		"type": "planet",
+		"period": 3.1851556,
+		"number": 1
+	},
+	"82405310": {
+		"type": "planet",
+		"period": 5.6522971,
+		"number": 2
+	},
+	"82405310": {
+		"type": "planet",
+		"period": 2.2144018,
+		"number": 3
+	},
+	"82405611": {
+		"type": "planet",
+		"period": 7.7155642,
+		"number": 1
+	},
+	"82453028": {
+		"type": "planet",
+		"period": 5.1591247,
+		"number": 1
+	},
+	"82453028": {
+		"type": "planet",
+		"period": 19.5281484,
+		"number": 2
+	},
+	"82453028": {
+		"type": "planet",
+		"period": 7.355077,
+		"number": 3
+	},
+	"82456008": {
+		"type": "planet",
+		"period": 5.9748488,
+		"number": 1
+	},
+	"85379511": {
+		"type": "planet",
+		"period": 13.7967347,
+		"number": 1
+	},
+	"85462527": {
+		"type": "planet",
+		"period": 11.7303384,
+		"number": 1
+	},
+	"85512582": {
+		"type": "planet",
+		"period": 8.2464751,
+		"number": 1
+	},
+	"85586798": {
+		"type": "planet",
+		"period": 5.2079676,
+		"number": 1
+	},
+	"85586798": {
+		"type": "planet",
+		"period": 5.1955763,
+		"number": 2
+	},
+	"85600798": {
+		"type": "planet",
+		"period": 3.3908907,
+		"number": 1
+	},
+	"88766508": {
+		"type": "planet",
+		"period": 5.6656372,
+		"number": 1
+	},
+	"88783913": {
+		"type": "planet",
+		"period": 12.0170157,
+		"number": 1
+	},
+	"88783913": {
+		"type": "planet",
+		"period": 4.4153607,
+		"number": 2
+	},
+	"88843082": {
+		"type": "planet",
+		"period": 18.3695054,
+		"number": 1
+	},
+	"88843479": {
+		"type": "planet",
+		"period": 7.8337813,
+		"number": 1
+	},
+	"88893194": {
+		"type": "planet",
+		"period": 2.0513044,
+		"number": 1
+	},
+	"88937176": {
+		"type": "planet",
+		"period": 4.8633682,
+		"number": 1
+	},
+	"88937176": {
+		"type": "planet",
+		"period": 6.2625798,
+		"number": 2
+	},
+	"88937176": {
+		"type": "planet",
+		"period": 18.8388809,
+		"number": 3
+	},
+	"88938360": {
+		"type": "planet",
+		"period": 12.7208385,
+		"number": 1
+	},
+	"88994025": {
+		"type": "planet",
+		"period": 0.3264109,
+		"number": 1
+	},
+	"89036286": {
+		"type": "planet",
+		"period": 12.5032719,
+		"number": 1
+	},
+	"89039049": {
+		"type": "planet",
+		"period": 10.7074418,
+		"number": 1
+	},
+	"101674260": {
+		"type": "planet",
+		"period": 1.5746247,
+		"number": 1
+	},
+	"101718156": {
+		"type": "planet",
+		"period": 7.9384498,
+		"number": 1
+	},
+	"101721594": {
+		"type": "planet",
+		"period": 3.2463394,
+		"number": 1
+	},
+	"101722368": {
+		"type": "planet",
+		"period": 2.2193041,
+		"number": 1
+	},
+	"101831588": {
+		"type": "planet",
+		"period": 3.8642223,
+		"number": 1
+	},
+	"101831762": {
+		"type": "planet",
+		"period": 6.8542869,
+		"number": 1
+	},
+	"101833241": {
+		"type": "planet",
+		"period": 16.1423371,
+		"number": 1
+	},
+	"101876193": {
+		"type": "planet",
+		"period": 4.301048,
+		"number": 1
+	},
+	"101876813": {
+		"type": "planet",
+		"period": 2.0949294,
+		"number": 1
+	},
+	"115614146": {
+		"type": "planet",
+		"period": 13.5895875,
+		"number": 1
+	},
+	"115966977": {
+		"type": "planet",
+		"period": 2.5835574,
+		"number": 1
+	},
+	"115970541": {
+		"type": "planet",
+		"period": 7.6276498,
+		"number": 1
+	},
+	"115970541": {
+		"type": "planet",
+		"period": 16.2237083,
+		"number": 2
+	},
+	"116019143": {
+		"type": "planet",
+		"period": 4.4871219,
+		"number": 1
+	},
+	"116021622": {
+		"type": "planet",
+		"period": 4.2652022,
+		"number": 1
+	},
+	"157422845": {
+		"type": "planet",
+		"period": 11.0008275,
+		"number": 1
+	},
+	"157472556": {
+		"type": "planet",
+		"period": 19.6141993,
+		"number": 1
+	},
+	"159295553": {
+		"type": "planet",
+		"period": 0.8710891,
+		"number": 1
+	},
+	"159325768": {
+		"type": "planet",
+		"period": 13.9606068,
+		"number": 1
+	},
+	"159434316": {
+		"type": "planet",
+		"period": 2.7742012,
+		"number": 1
+	},
+	"159434316": {
+		"type": "planet",
+		"period": 1.7702007,
+		"number": 2
+	},
+	"159737956": {
+		"type": "planet",
+		"period": 10.2433756,
+		"number": 1
+	},
+	"219075433": {
+		"type": "planet",
+		"period": 4.1801637,
+		"number": 1
+	},
+	"224326637": {
+		"type": "planet",
+		"period": 6.8912665,
+		"number": 1
+	},
+	"224329230": {
+		"type": "planet",
+		"period": 6.6014981,
+		"number": 1
+	},
+	"256029881": {
+		"type": "planet",
+		"period": 7.9048661,
+		"number": 1
+	},
+	"275037380": {
+		"type": "planet",
+		"period": 6.2363131,
+		"number": 1
+	},
+	"275037380": {
+		"type": "planet",
+		"period": 0.7563585,
+		"number": 2
+	},
+	"275037380": {
+		"type": "planet",
+		"period": 17.9324586,
+		"number": 3
+	},
+	"298319148": {
+		"type": "planet",
+		"period": 5.3549227,
+		"number": 1
+	},
+	"298338983": {
+		"type": "planet",
+		"period": 18.3520709,
+		"number": 1
+	},
+	"321769258": {
+		"type": "planet",
+		"period": 3.8230147,
+		"number": 1
+	},
+	"405528466": {
+		"type": "planet",
+		"period": 2.9388338,
+		"number": 1
+	},
+	"405528466": {
+		"type": "planet",
+		"period": 13.2165215,
+		"number": 2
+	},
+	"459288687": {
+		"type": "planet",
+		"period": 17.1149659,
+		"number": 1
+	},
+	"7585195": {
+		"type": "planet",
+		"period": 8.0105695,
+		"number": 1
+	},
+	"21017001": {
+		"type": "planet",
+		"period": 1.9066533,
+		"number": 1
+	},
+	"21017001": {
+		"type": "planet",
+		"period": 15.7295112,
+		"number": 2
+	},
+	"21017001": {
+		"type": "planet",
+		"period": 11.4872731,
+		"number": 3
+	},
+	"21146555": {
+		"type": "planet",
+		"period": 12.4632089,
+		"number": 1
+	},
+	"116239886": {
+		"type": "planet",
+		"period": 18.1715276,
+		"number": 1
+	},
+	"159773066": {
+		"type": "planet",
+		"period": 6.937637,
+		"number": 1
+	},
+	"159891706": {
+		"type": "planet",
+		"period": 19.2885099,
+		"number": 1
+	},
+	"164367918": {
+		"type": "planet",
+		"period": 7.6378249,
+		"number": 1
+	},
+	"164367918": {
+		"type": "planet",
+		"period": 9.3252656,
+		"number": 2
+	},
+	"188642246": {
+		"type": "planet",
+		"period": 3.2767993,
+		"number": 1
+	},
+	"188668828": {
+		"type": "planet",
+		"period": 1.7556677,
+		"number": 1
+	},
+	"188668828": {
+		"type": "planet",
+		"period": 0.5171515,
+		"number": 2
+	},
+	"188668828": {
+		"type": "planet",
+		"period": 4.3723105,
+		"number": 3
+	},
+	"188690062": {
+		"type": "planet",
+		"period": 9.9008765,
+		"number": 1
+	},
+	"188692003": {
+		"type": "planet",
+		"period": 12.7770526,
+		"number": 1
+	},
+	"188694034": {
+		"type": "planet",
+		"period": 2.3440594,
+		"number": 1
+	},
+	"188766234": {
+		"type": "planet",
+		"period": 8.0890769,
+		"number": 1
+	},
+	"188768411": {
+		"type": "planet",
+		"period": 1.3415478,
+		"number": 1
+	},
+	"188774940": {
+		"type": "planet",
+		"period": 7.8998972,
+		"number": 1
+	},
+	"193577067": {
+		"type": "planet",
+		"period": 9.6170043,
+		"number": 1
+	},
+	"193722387": {
+		"type": "planet",
+		"period": 14.8787411,
+		"number": 1
+	},
+	"193822858": {
+		"type": "planet",
+		"period": 8.0526684,
+		"number": 1
+	},
+	"193825844": {
+		"type": "planet",
+		"period": 8.8795264,
+		"number": 1
+	},
+	"193872669": {
+		"type": "planet",
+		"period": 13.103291,
+		"number": 1
+	},
+	"193872821": {
+		"type": "planet",
+		"period": 1.6183795,
+		"number": 1
+	},
+	"193947401": {
+		"type": "planet",
+		"period": 6.2584248,
+		"number": 1
+	},
+	"198593129": {
+		"type": "planet",
+		"period": 1.6166395,
+		"number": 1
+	},
+	"198610362": {
+		"type": "planet",
+		"period": 3.999747,
+		"number": 1
+	},
+	"229684206": {
+		"type": "planet",
+		"period": 14.8162726,
+		"number": 1
+	},
+	"229686666": {
+		"type": "planet",
+		"period": 5.4310627,
+		"number": 1
+	},
+	"270253531": {
+		"type": "planet",
+		"period": 1.2188612,
+		"number": 1
+	},
+	"270257225": {
+		"type": "planet",
+		"period": 18.0980734,
+		"number": 1
+	},
+	"270279958": {
+		"type": "planet",
+		"period": 16.7782648,
+		"number": 1
+	},
+	"270282723": {
+		"type": "planet",
+		"period": 13.3731778,
+		"number": 1
+	},
+	"270317972": {
+		"type": "planet",
+		"period": 19.3316772,
+		"number": 1
+	},
+	"270400489": {
+		"type": "planet",
+		"period": 14.4265751,
+		"number": 1
+	},
+	"274699084": {
+		"type": "planet",
+		"period": 4.6544906,
+		"number": 1
+	},
+	"274724250": {
+		"type": "planet",
+		"period": 4.995948,
+		"number": 1
+	},
+	"274724499": {
+		"type": "planet",
+		"period": 7.851671,
+		"number": 1
+	},
+	"274969853": {
+		"type": "planet",
+		"period": 6.8261088,
+		"number": 1
+	},
+	"275036626": {
+		"type": "planet",
+		"period": 0.8330254,
+		"number": 1
+	},
+	"284188970": {
+		"type": "planet",
+		"period": 0.401282,
+		"number": 1
+	},
+	"285011922": {
+		"type": "planet",
+		"period": 6.7791862,
+		"number": 1
+	},
+	"289679763": {
+		"type": "planet",
+		"period": 8.4275399,
+		"number": 1
+	},
+	"298551448": {
+		"type": "planet",
+		"period": 6.3726106,
+		"number": 1
+	},
+	"298551448": {
+		"type": "planet",
+		"period": 14.5179822,
+		"number": 2
+	},
+	"298554256": {
+		"type": "planet",
+		"period": 6.2228322,
+		"number": 1
+	},
+	"308023474": {
+		"type": "planet",
+		"period": 11.9155835,
+		"number": 1
+	},
+	"308089071": {
+		"type": "planet",
+		"period": 0.8872151,
+		"number": 1
+	},
+	"313591036": {
+		"type": "planet",
+		"period": 5.0165926,
+		"number": 1
+	},
+	"313591036": {
+		"type": "planet",
+		"period": 11.5093358,
+		"number": 2
+	},
+	"316525087": {
+		"type": "planet",
+		"period": 9.4356372,
+		"number": 1
+	},
+	"316525087": {
+		"type": "planet",
+		"period": 15.4681531,
+		"number": 2
+	},
+	"321669174": {
+		"type": "planet",
+		"period": 15.8064051,
+		"number": 1
+	},
+	"329350064": {
+		"type": "planet",
+		"period": 9.526435,
+		"number": 1
+	},
+	"332629038": {
+		"type": "planet",
+		"period": 2.3187276,
+		"number": 1
+	},
+	"335953166": {
+		"type": "planet",
+		"period": 8.5370368,
+		"number": 1
+	},
+	"356226244": {
+		"type": "planet",
+		"period": 6.2421709,
+		"number": 1
+	},
+	"356228117": {
+		"type": "planet",
+		"period": 18.6235719,
+		"number": 1
+	},
+	"356308043": {
+		"type": "planet",
+		"period": 6.788372,
+		"number": 1
+	},
+	"356336967": {
+		"type": "planet",
+		"period": 1.8142346,
+		"number": 1
+	},
+	"356336967": {
+		"type": "planet",
+		"period": 11.7198487,
+		"number": 2
+	},
+	"362078066": {
+		"type": "planet",
+		"period": 18.5536917,
+		"number": 1
+	},
+	"366119793": {
+		"type": "planet",
+		"period": 6.89142,
+		"number": 1
+	},
+	"366119793": {
+		"type": "planet",
+		"period": 9.3372035,
+		"number": 2
+	},
+	"366119793": {
+		"type": "planet",
+		"period": 18.3699992,
+		"number": 3
+	},
+	"420888018": {
+		"type": "planet",
+		"period": 1.9560942,
+		"number": 1
+	},
+	"471012596": {
+		"type": "planet",
+		"period": 1.9864243,
+		"number": 1
+	},
+	"115183687": {
+		"type": "planet",
+		"period": 3.9682552,
+		"number": 1
+	},
+	"115285830": {
+		"type": "planet",
+		"period": 4.1226001,
+		"number": 1
+	},
+	"115285973": {
+		"type": "planet",
+		"period": 2.7341905,
+		"number": 1
+	},
+	"115286414": {
+		"type": "planet",
+		"period": 3.3514323,
+		"number": 1
+	},
+	"115522271": {
+		"type": "planet",
+		"period": 5.5943209,
+		"number": 1
+	},
+	"115522668": {
+		"type": "planet",
+		"period": 5.1080457,
+		"number": 1
+	},
+	"115582980": {
+		"type": "planet",
+		"period": 8.6834077,
+		"number": 1
+	},
+	"157375021": {
+		"type": "planet",
+		"period": 9.4537117,
+		"number": 1
+	},
+	"157375021": {
+		"type": "planet",
+		"period": 9.3223371,
+		"number": 2
+	},
+	"157375021": {
+		"type": "planet",
+		"period": 4.0318016,
+		"number": 3
+	},
+	"159879813": {
+		"type": "planet",
+		"period": 9.1334224,
+		"number": 1
+	},
+	"159940396": {
+		"type": "planet",
+		"period": 18.9825981,
+		"number": 1
+	},
+	"159969381": {
+		"type": "planet",
+		"period": 1.5184503,
+		"number": 1
+	},
+	"162494098": {
+		"type": "planet",
+		"period": 0.3428537,
+		"number": 1
+	},
+	"162495204": {
+		"type": "planet",
+		"period": 2.1982054,
+		"number": 1
+	},
+	"162521407": {
+		"type": "planet",
+		"period": 0.9419536,
+		"number": 1
+	},
+	"162521407": {
+		"type": "planet",
+		"period": 1.0193335,
+		"number": 2
+	},
+	"162521407": {
+		"type": "planet",
+		"period": 4.9825318,
+		"number": 3
+	},
+	"162554426": {
+		"type": "planet",
+		"period": 14.4828024,
+		"number": 1
+	},
+	"162575421": {
+		"type": "planet",
+		"period": 5.4937178,
+		"number": 1
+	},
+	"162589720": {
+		"type": "planet",
+		"period": 9.8569125,
+		"number": 1
+	},
+	"162632094": {
+		"type": "planet",
+		"period": 5.2843891,
+		"number": 1
+	},
+	"162686696": {
+		"type": "planet",
+		"period": 15.400166,
+		"number": 1
+	},
+	"162690226": {
+		"type": "planet",
+		"period": 9.8419283,
+		"number": 1
+	},
+	"193558706": {
+		"type": "planet",
+		"period": 18.2144492,
+		"number": 1
+	},
+	"199574208": {
+		"type": "planet",
+		"period": 5.6461383,
+		"number": 1
+	},
+	"199658791": {
+		"type": "planet",
+		"period": 14.6082717,
+		"number": 1
+	},
+	"199665144": {
+		"type": "planet",
+		"period": 10.57285,
+		"number": 1
+	},
+	"199665230": {
+		"type": "planet",
+		"period": 7.2321317,
+		"number": 1
+	},
+	"199667470": {
+		"type": "planet",
+		"period": 2.1960897,
+		"number": 1
+	},
+	"199667851": {
+		"type": "planet",
+		"period": 3.6578873,
+		"number": 1
+	},
+	"199684713": {
+		"type": "planet",
+		"period": 15.5875471,
+		"number": 1
+	},
+	"199715540": {
+		"type": "planet",
+		"period": 6.8319625,
+		"number": 1
+	},
+	"207398617": {
+		"type": "planet",
+		"period": 1.8054389,
+		"number": 1
+	},
+	"207398617": {
+		"type": "planet",
+		"period": 3.1954585,
+		"number": 2
+	},
+	"207398617": {
+		"type": "planet",
+		"period": 8.9924016,
+		"number": 3
+	},
+	"207495796": {
+		"type": "planet",
+		"period": 4.4863057,
+		"number": 1
+	},
+	"207501074": {
+		"type": "planet",
+		"period": 5.2454535,
+		"number": 1
+	},
+	"219481803": {
+		"type": "planet",
+		"period": 3.1332859,
+		"number": 1
+	},
+	"219499313": {
+		"type": "planet",
+		"period": 13.4627615,
+		"number": 1
+	},
+	"219499313": {
+		"type": "planet",
+		"period": 0.2033874,
+		"number": 2
+	},
+	"224595414": {
+		"type": "planet",
+		"period": 5.0225994,
+		"number": 1
+	},
+	"224602405": {
+		"type": "planet",
+		"period": 2.7337168,
+		"number": 1
+	},
+	"232566656": {
+		"type": "planet",
+		"period": 9.1157136,
+		"number": 1
+	},
+	"274202581": {
+		"type": "planet",
+		"period": 3.9152241,
+		"number": 1
+	},
+	"274335816": {
+		"type": "planet",
+		"period": 8.1512203,
+		"number": 1
+	},
+	"274336377": {
+		"type": "planet",
+		"period": 5.4330846,
+		"number": 1
+	},
+	"274485843": {
+		"type": "planet",
+		"period": 6.0792135,
+		"number": 1
+	},
+	"274555603": {
+		"type": "planet",
+		"period": 8.7378186,
+		"number": 1
+	},
+	"274624675": {
+		"type": "planet",
+		"period": 3.4935575,
+		"number": 1
+	},
+	"274627351": {
+		"type": "planet",
+		"period": 0.2331744,
+		"number": 1
+	},
+	"274696123": {
+		"type": "planet",
+		"period": 11.4996765,
+		"number": 1
+	},
+	"274696298": {
+		"type": "planet",
+		"period": 15.1949838,
+		"number": 1
+	},
+	"286170596": {
+		"type": "planet",
+		"period": 13.0559629,
+		"number": 1
+	},
+	"286213345": {
+		"type": "planet",
+		"period": 14.277727,
+		"number": 1
+	},
+	"298317160": {
+		"type": "planet",
+		"period": 1.968371,
+		"number": 1
+	},
+	"310154540": {
+		"type": "planet",
+		"period": 8.1764191,
+		"number": 1
+	},
+	"310154685": {
+		"type": "planet",
+		"period": 19.2464742,
+		"number": 1
+	},
+	"310155146": {
+		"type": "planet",
+		"period": 8.8546777,
+		"number": 1
+	},
+	"357525302": {
+		"type": "planet",
+		"period": 4.2129055,
+		"number": 1
+	},
+	"417570430": {
+		"type": "planet",
+		"period": 18.1439543,
+		"number": 1
+	},
+	"417570430": {
+		"type": "planet",
+		"period": 7.2743728,
+		"number": 2
+	},
+	"458485558": {
+		"type": "planet",
+		"period": 5.8717104,
+		"number": 1
+	},
+	"458485756": {
+		"type": "planet",
+		"period": 8.4335102,
+		"number": 1
+	},
+	"458485778": {
+		"type": "planet",
+		"period": 15.6865085,
+		"number": 1
+	},
+	"458486928": {
+		"type": "planet",
+		"period": 2.3351871,
+		"number": 1
+	},
+	"458486928": {
+		"type": "planet",
+		"period": 8.9800124,
+		"number": 2
+	},
+	"458486928": {
+		"type": "planet",
+		"period": 6.420043,
+		"number": 3
+	},
+	"198157620": {
+		"type": "planet",
+		"period": 3.9852652,
+		"number": 1
+	},
+	"198162349": {
+		"type": "planet",
+		"period": 1.549987,
+		"number": 1
+	},
+	"198177462": {
+		"type": "planet",
+		"period": 7.0977398,
+		"number": 1
+	},
+	"198180990": {
+		"type": "planet",
+		"period": 9.2202993,
+		"number": 1
+	},
+	"198181234": {
+		"type": "planet",
+		"period": 13.8432034,
+		"number": 1
+	},
+	"198187937": {
+		"type": "planet",
+		"period": 10.2399654,
+		"number": 1
+	},
+	"198204626": {
+		"type": "planet",
+		"period": 17.8394595,
+		"number": 1
+	},
+	"198206370": {
+		"type": "planet",
+		"period": 6.8046535,
+		"number": 1
+	},
+	"198206613": {
+		"type": "planet",
+		"period": 16.7718076,
+		"number": 1
+	},
+	"198211975": {
+		"type": "planet",
+		"period": 13.3610712,
+		"number": 1
+	},
+	"198214559": {
+		"type": "planet",
+		"period": 17.4522223,
+		"number": 1
+	},
+	"198237297": {
+		"type": "planet",
+		"period": 6.6780913,
+		"number": 1
+	},
+	"198238482": {
+		"type": "planet",
+		"period": 14.0293211,
+		"number": 1
+	},
+	"198240200": {
+		"type": "planet",
+		"period": 8.1214044,
+		"number": 1
+	},
+	"198278730": {
+		"type": "planet",
+		"period": 16.7969361,
+		"number": 1
+	},
+	"198360971": {
+		"type": "planet",
+		"period": 5.1783198,
+		"number": 1
+	},
+	"198361391": {
+		"type": "planet",
+		"period": 5.7545709,
+		"number": 1
+	},
+	"198362570": {
+		"type": "planet",
+		"period": 14.6906769,
+		"number": 1
+	},
+	"198364270": {
+		"type": "planet",
+		"period": 17.295938,
+		"number": 1
+	},
+	"198364270": {
+		"type": "planet",
+		"period": 5.0297283,
+		"number": 2
+	},
+	"198384343": {
+		"type": "planet",
+		"period": 6.9798025,
+		"number": 1
+	},
+	"198387299": {
+		"type": "planet",
+		"period": 5.0015024,
+		"number": 1
+	},
+	"198387732": {
+		"type": "planet",
+		"period": 9.2971006,
+		"number": 1
+	},
+	"198390521": {
+		"type": "planet",
+		"period": 7.6807231,
+		"number": 1
+	},
+	"198393987": {
+		"type": "planet",
+		"period": 16.3373257,
+		"number": 1
+	},
+	"198410991": {
+		"type": "planet",
+		"period": 13.4076714,
+		"number": 1
+	},
+	"198411258": {
+		"type": "planet",
+		"period": 15.5922023,
+		"number": 1
+	},
+	"198412265": {
+		"type": "planet",
+		"period": 7.2720725,
+		"number": 1
+	},
+	"198456265": {
+		"type": "planet",
+		"period": 19.4925254,
+		"number": 1
+	},
+	"199548781": {
+		"type": "planet",
+		"period": 1.7923095,
+		"number": 1
+	},
+	"199550090": {
+		"type": "planet",
+		"period": 7.4027226,
+		"number": 1
+	},
+	"199607751": {
+		"type": "planet",
+		"period": 15.2586288,
+		"number": 1
+	},
+	"199607751": {
+		"type": "planet",
+		"period": 16.7063835,
+		"number": 2
+	},
+	"199610331": {
+		"type": "planet",
+		"period": 4.4163296,
+		"number": 1
+	},
+	"199614387": {
+		"type": "planet",
+		"period": 1.1790136,
+		"number": 1
+	},
+	"199617159": {
+		"type": "planet",
+		"period": 14.2555214,
+		"number": 1
+	},
+	"199657746": {
+		"type": "planet",
+		"period": 6.799836,
+		"number": 1
+	},
+	"199657746": {
+		"type": "planet",
+		"period": 4.0039102,
+		"number": 2
+	},
+	"199665801": {
+		"type": "planet",
+		"period": 4.0105502,
+		"number": 1
+	},
+	"199685853": {
+		"type": "planet",
+		"period": 5.6380964,
+		"number": 1
+	},
+	"199686461": {
+		"type": "planet",
+		"period": 18.5795686,
+		"number": 1
+	},
+	"199686461": {
+		"type": "planet",
+		"period": 7.1141225,
+		"number": 2
+	},
+	"199688446": {
+		"type": "planet",
+		"period": 16.385362,
+		"number": 1
+	},
+	"199709390": {
+		"type": "planet",
+		"period": 9.6010079,
+		"number": 1
+	},
+	"199712635": {
+		"type": "planet",
+		"period": 0.669736,
+		"number": 1
+	},
+	"199712635": {
+		"type": "planet",
+		"period": 18.2152294,
+		"number": 2
+	},
+	"199713153": {
+		"type": "planet",
+		"period": 1.9780432,
+		"number": 1
+	},
+	"207435026": {
+		"type": "planet",
+		"period": 5.2616939,
+		"number": 1
+	},
+	"219428315": {
+		"type": "planet",
+		"period": 0.8887087,
+		"number": 1
+	},
+	"219429741": {
+		"type": "planet",
+		"period": 0.3102982,
+		"number": 1
+	},
+	"219739842": {
+		"type": "planet",
+		"period": 5.7535491,
+		"number": 1
+	},
+	"219742885": {
+		"type": "planet",
+		"period": 2.8651883,
+		"number": 1
+	},
+	"219750509": {
+		"type": "planet",
+		"period": 0.2713234,
+		"number": 1
+	},
+	"219751350": {
+		"type": "planet",
+		"period": 6.3500248,
+		"number": 1
+	},
+	"219752161": {
+		"type": "planet",
+		"period": 1.5887383,
+		"number": 1
+	},
+	"219752161": {
+		"type": "planet",
+		"period": 15.4357859,
+		"number": 2
+	},
+	"219755365": {
+		"type": "planet",
+		"period": 5.2449958,
+		"number": 1
+	},
+	"219760133": {
+		"type": "planet",
+		"period": 13.7911981,
+		"number": 1
+	},
+	"219771690": {
+		"type": "planet",
+		"period": 13.7908784,
+		"number": 1
+	},
+	"219771690": {
+		"type": "planet",
+		"period": 5.5736836,
+		"number": 2
+	},
+	"219772057": {
+		"type": "planet",
+		"period": 2.7092979,
+		"number": 1
+	},
+	"219772057": {
+		"type": "planet",
+		"period": 3.57526,
+		"number": 2
+	},
+	"219773717": {
+		"type": "planet",
+		"period": 17.468144,
+		"number": 1
+	},
+	"219773961": {
+		"type": "planet",
+		"period": 2.5069493,
+		"number": 1
+	},
+	"219775509": {
+		"type": "planet",
+		"period": 5.0531974,
+		"number": 1
+	},
+	"219779787": {
+		"type": "planet",
+		"period": 2.3557449,
+		"number": 1
+	},
+	"219787696": {
+		"type": "planet",
+		"period": 4.7315188,
+		"number": 1
+	},
+	"219791073": {
+		"type": "planet",
+		"period": 16.0518415,
+		"number": 1
+	},
+	"219796291": {
+		"type": "planet",
+		"period": 2.9029897,
+		"number": 1
+	},
+	"219796423": {
+		"type": "planet",
+		"period": 10.3779913,
+		"number": 1
+	},
+	"219804610": {
+		"type": "planet",
+		"period": 7.562122,
+		"number": 1
+	},
+	"219845007": {
+		"type": "planet",
+		"period": 14.2093682,
+		"number": 1
+	},
+	"219846123": {
+		"type": "planet",
+		"period": 15.2818742,
+		"number": 1
+	},
+	"219851943": {
+		"type": "planet",
+		"period": 18.519748,
+		"number": 1
+	},
+	"219851943": {
+		"type": "planet",
+		"period": 4.8917782,
+		"number": 2
+	},
+	"219852679": {
+		"type": "planet",
+		"period": 3.8817684,
+		"number": 1
+	},
+	"219865258": {
+		"type": "planet",
+		"period": 2.9758571,
+		"number": 1
+	},
+	"219869329": {
+		"type": "planet",
+		"period": 3.2761998,
+		"number": 1
+	},
+	"219869487": {
+		"type": "planet",
+		"period": 2.1295235,
+		"number": 1
+	},
+	"219872948": {
+		"type": "planet",
+		"period": 2.5604148,
+		"number": 1
+	},
+	"219876070": {
+		"type": "planet",
+		"period": 19.5425829,
+		"number": 1
+	},
+	"219880086": {
+		"type": "planet",
+		"period": 18.7737271,
+		"number": 1
+	},
+	"219880402": {
+		"type": "planet",
+		"period": 9.2001194,
+		"number": 1
+	},
+	"219883410": {
+		"type": "planet",
+		"period": 3.31745,
+		"number": 1
+	},
+	"219883410": {
+		"type": "planet",
+		"period": 12.4498403,
+		"number": 2
+	},
+	"219883410": {
+		"type": "planet",
+		"period": 1.2548687,
+		"number": 3
+	},
+	"219892459": {
+		"type": "planet",
+		"period": 6.6088904,
+		"number": 1
+	},
+	"219892459": {
+		"type": "planet",
+		"period": 3.7383943,
+		"number": 2
+	},
+	"219898822": {
+		"type": "planet",
+		"period": 2.7632897,
+		"number": 1
+	},
+	"219898841": {
+		"type": "planet",
+		"period": 2.8366657,
+		"number": 1
+	},
+	"219899534": {
+		"type": "planet",
+		"period": 9.4403572,
+		"number": 1
+	},
+	"224596602": {
+		"type": "planet",
+		"period": 3.6796937,
+		"number": 1
+	},
+	"224596602": {
+		"type": "planet",
+		"period": 14.038479,
+		"number": 2
+	},
+	"224597832": {
+		"type": "planet",
+		"period": 4.6229709,
+		"number": 1
+	},
+	"224597955": {
+		"type": "planet",
+		"period": 9.5516254,
+		"number": 1
+	},
+	"224597955": {
+		"type": "planet",
+		"period": 4.5478224,
+		"number": 2
+	},
+	"224597987": {
+		"type": "planet",
+		"period": 2.4314873,
+		"number": 1
+	},
+	"224601303": {
+		"type": "planet",
+		"period": 12.2186565,
+		"number": 1
+	},
+	"224601357": {
+		"type": "planet",
+		"period": 12.3800541,
+		"number": 1
+	},
+	"224601357": {
+		"type": "planet",
+		"period": 16.2847912,
+		"number": 2
+	},
+	"224604153": {
+		"type": "planet",
+		"period": 7.2104677,
+		"number": 1
+	},
+	"224604423": {
+		"type": "planet",
+		"period": 13.20061,
+		"number": 1
+	},
+	"224604514": {
+		"type": "planet",
+		"period": 1.0279163,
+		"number": 1
+	},
+	"224608302": {
+		"type": "planet",
+		"period": 0.6151419,
+		"number": 1
+	},
+	"230068332": {
+		"type": "planet",
+		"period": 5.4703375,
+		"number": 1
+	},
+	"230068332": {
+		"type": "planet",
+		"period": 15.4319584,
+		"number": 2
+	},
+	"230068508": {
+		"type": "planet",
+		"period": 4.0229612,
+		"number": 1
+	},
+	"230072761": {
+		"type": "planet",
+		"period": 17.9797196,
+		"number": 1
+	},
+	"230072761": {
+		"type": "planet",
+		"period": 3.932851,
+		"number": 2
+	},
+	"230077983": {
+		"type": "planet",
+		"period": 8.9511103,
+		"number": 1
+	},
+	"230078866": {
+		"type": "planet",
+		"period": 6.7068866,
+		"number": 1
+	},
+	"230079079": {
+		"type": "planet",
+		"period": 9.1311923,
+		"number": 1
+	},
+	"230081514": {
+		"type": "planet",
+		"period": 7.1406344,
+		"number": 1
+	},
+	"230083841": {
+		"type": "planet",
+		"period": 9.4745073,
+		"number": 1
+	},
+	"230086683": {
+		"type": "planet",
+		"period": 16.9287305,
+		"number": 1
+	},
+	"230089186": {
+		"type": "planet",
+		"period": 14.616781,
+		"number": 1
+	},
+	"230089624": {
+		"type": "planet",
+		"period": 16.1450706,
+		"number": 1
+	},
+	"230113263": {
+		"type": "planet",
+		"period": 3.1426549,
+		"number": 1
+	},
+	"230113841": {
+		"type": "planet",
+		"period": 19.9799569,
+		"number": 1
+	},
+	"230115815": {
+		"type": "planet",
+		"period": 12.5006661,
+		"number": 1
+	},
+	"230119661": {
+		"type": "planet",
+		"period": 3.0809751,
+		"number": 1
+	},
+	"230122451": {
+		"type": "planet",
+		"period": 5.3778267,
+		"number": 1
+	},
+	"230125619": {
+		"type": "planet",
+		"period": 6.3120493,
+		"number": 1
+	},
+	"230125712": {
+		"type": "planet",
+		"period": 2.389234,
+		"number": 1
+	},
+	"230130028": {
+		"type": "planet",
+		"period": 0.7668987,
+		"number": 1
+	},
+	"232603771": {
+		"type": "planet",
+		"period": 5.5043161,
+		"number": 1
+	},
+	"232608689": {
+		"type": "planet",
+		"period": 11.9908561,
+		"number": 1
+	},
+	"232610674": {
+		"type": "planet",
+		"period": 0.2157395,
+		"number": 1
+	},
+	"232612696": {
+		"type": "planet",
+		"period": 19.5534174,
+		"number": 1
+	},
+	"232614123": {
+		"type": "planet",
+		"period": 6.8845584,
+		"number": 1
+	},
+	"232614509": {
+		"type": "planet",
+		"period": 1.8761928,
+		"number": 1
+	},
+	"232616287": {
+		"type": "planet",
+		"period": 19.3877507,
+		"number": 1
+	},
+	"232984417": {
+		"type": "planet",
+		"period": 12.700802,
+		"number": 1
+	},
+	"233210206": {
+		"type": "planet",
+		"period": 16.2141251,
+		"number": 1
+	},
+	"233658805": {
+		"type": "planet",
+		"period": 0.8165456,
+		"number": 1
+	},
+	"233659054": {
+		"type": "planet",
+		"period": 5.3096181,
+		"number": 1
+	},
+	"233660408": {
+		"type": "planet",
+		"period": 14.3826037,
+		"number": 1
+	},
+	"233680136": {
+		"type": "planet",
+		"period": 3.833166,
+		"number": 1
+	},
+	"233680136": {
+		"type": "planet",
+		"period": 7.5073183,
+		"number": 2
+	},
+	"233684754": {
+		"type": "planet",
+		"period": 2.5602653,
+		"number": 1
+	},
+	"237097061": {
+		"type": "planet",
+		"period": 13.346951,
+		"number": 1
+	},
+	"237099339": {
+		"type": "planet",
+		"period": 8.5084647,
+		"number": 1
+	},
+	"237099909": {
+		"type": "planet",
+		"period": 18.8037399,
+		"number": 1
+	},
+	"237099909": {
+		"type": "planet",
+		"period": 7.7711434,
+		"number": 2
+	},
+	"237099909": {
+		"type": "planet",
+		"period": 3.3842368,
+		"number": 3
+	},
+	"237099945": {
+		"type": "planet",
+		"period": 4.5986769,
+		"number": 1
+	},
+	"237100186": {
+		"type": "planet",
+		"period": 8.47148,
+		"number": 1
+	},
+	"237100186": {
+		"type": "planet",
+		"period": 17.2705423,
+		"number": 2
+	},
+	"237100186": {
+		"type": "planet",
+		"period": 6.3399838,
+		"number": 3
+	},
+	"237102443": {
+		"type": "planet",
+		"period": 5.6351159,
+		"number": 1
+	},
+	"284892493": {
+		"type": "planet",
+		"period": 3.6273396,
+		"number": 1
+	},
+	"287079542": {
+		"type": "planet",
+		"period": 1.0398299,
+		"number": 1
+	},
+	"287086786": {
+		"type": "planet",
+		"period": 6.0256951,
+		"number": 1
+	},
+	"287139416": {
+		"type": "planet",
+		"period": 14.6987356,
+		"number": 1
+	},
+	"287149809": {
+		"type": "planet",
+		"period": 8.5265177,
+		"number": 1
+	},
+	"287151388": {
+		"type": "planet",
+		"period": 1.283568,
+		"number": 1
+	},
+	"289569592": {
+		"type": "planet",
+		"period": 19.3731524,
+		"number": 1
+	},
+	"289570407": {
+		"type": "planet",
+		"period": 9.7775275,
+		"number": 1
+	},
+	"289570407": {
+		"type": "planet",
+		"period": 1.3292605,
+		"number": 2
+	},
+	"289570559": {
+		"type": "planet",
+		"period": 7.2572497,
+		"number": 1
+	},
+	"289570607": {
+		"type": "planet",
+		"period": 15.7486519,
+		"number": 1
+	},
+	"289571617": {
+		"type": "planet",
+		"period": 7.7787294,
+		"number": 1
+	},
+	"289572073": {
+		"type": "planet",
+		"period": 3.8137216,
+		"number": 1
+	},
+	"289580737": {
+		"type": "planet",
+		"period": 12.9310739,
+		"number": 1
+	},
+	"289581040": {
+		"type": "planet",
+		"period": 1.2659356,
+		"number": 1
+	},
+	"289589923": {
+		"type": "planet",
+		"period": 17.592382,
+		"number": 1
+	},
+	"289590698": {
+		"type": "planet",
+		"period": 5.7716813,
+		"number": 1
+	},
+	"289590698": {
+		"type": "planet",
+		"period": 5.9942338,
+		"number": 2
+	},
+	"289590698": {
+		"type": "planet",
+		"period": 8.7501433,
+		"number": 3
+	},
+	"289621358": {
+		"type": "planet",
+		"period": 2.3246985,
+		"number": 1
+	},
+	"289623438": {
+		"type": "planet",
+		"period": 4.787863,
+		"number": 1
+	},
+	"289624175": {
+		"type": "planet",
+		"period": 12.3788155,
+		"number": 1
+	},
+	"307956084": {
+		"type": "planet",
+		"period": 12.4309415,
+		"number": 1
+	},
+	"307957139": {
+		"type": "planet",
+		"period": 10.652103,
+		"number": 1
+	},
+	"307984647": {
+		"type": "planet",
+		"period": 0.5206623,
+		"number": 1
+	},
+	"307985006": {
+		"type": "planet",
+		"period": 18.6094471,
+		"number": 1
+	},
+	"307985306": {
+		"type": "planet",
+		"period": 7.0658487,
+		"number": 1
+	},
+	"311234287": {
+		"type": "planet",
+		"period": 13.9961025,
+		"number": 1
+	},
+	"311234287": {
+		"type": "planet",
+		"period": 15.2061369,
+		"number": 2
+	},
+	"334754087": {
+		"type": "planet",
+		"period": 12.6569072,
+		"number": 1
+	},
+	"334754311": {
+		"type": "planet",
+		"period": 9.5504632,
+		"number": 1
+	},
+	"334779551": {
+		"type": "planet",
+		"period": 0.992146,
+		"number": 1
+	},
+	"334832220": {
+		"type": "planet",
+		"period": 2.952286,
+		"number": 1
+	},
+	"334832457": {
+		"type": "planet",
+		"period": 5.469921,
+		"number": 1
+	},
+	"356014318": {
+		"type": "planet",
+		"period": 13.8150466,
+		"number": 1
+	},
+	"356700209": {
+		"type": "planet",
+		"period": 14.4893185,
+		"number": 1
+	},
+	"356700209": {
+		"type": "planet",
+		"period": 1.6128832,
+		"number": 2
+	},
+	"424730367": {
+		"type": "planet",
+		"period": 1.8620982,
+		"number": 1
+	},
+	"424731143": {
+		"type": "planet",
+		"period": 19.6889143,
+		"number": 1
+	},
+	"459968648": {
+		"type": "planet",
+		"period": 5.57741,
+		"number": 1
+	},
+	"459968693": {
+		"type": "planet",
+		"period": 7.2158895,
+		"number": 1
+	},
+	"459968887": {
+		"type": "planet",
+		"period": 0.5189228,
+		"number": 1
+	},
+	"459969736": {
+		"type": "planet",
+		"period": 1.8375158,
+		"number": 1
+	},
+	"459976675": {
+		"type": "planet",
+		"period": 1.1448595,
+		"number": 1
+	},
+	"459979427": {
+		"type": "planet",
+		"period": 7.7081786,
+		"number": 1
+	},
+	"459979984": {
+		"type": "planet",
+		"period": 3.6542897,
+		"number": 1
+	},
+	"459980341": {
+		"type": "planet",
+		"period": 5.1549454,
+		"number": 1
+	},
+	"459980941": {
+		"type": "planet",
+		"period": 3.926066,
+		"number": 1
+	},
+	"459980945": {
+		"type": "planet",
+		"period": 3.7151809,
+		"number": 1
+	},
+	"459981057": {
+		"type": "planet",
+		"period": 16.208208,
+		"number": 1
+	},
+	"21002598": {
+		"type": "planet",
+		"period": 0.4645084,
+		"number": 1
+	},
+	"165501494": {
+		"type": "planet",
+		"period": 4.593466,
+		"number": 1
+	},
+	"165550521": {
+		"type": "planet",
+		"period": 0.4427274,
+		"number": 1
+	},
+	"165552542": {
+		"type": "planet",
+		"period": 7.8995849,
+		"number": 1
+	},
+	"165552813": {
+		"type": "planet",
+		"period": 9.6883885,
+		"number": 1
+	},
+	"165554091": {
+		"type": "planet",
+		"period": 13.1463557,
+		"number": 1
+	},
+	"198457116": {
+		"type": "planet",
+		"period": 6.9500306,
+		"number": 1
+	},
+	"198479358": {
+		"type": "planet",
+		"period": 7.0567835,
+		"number": 1
+	},
+	"198479702": {
+		"type": "planet",
+		"period": 13.1748782,
+		"number": 1
+	},
+	"219776794": {
+		"type": "planet",
+		"period": 3.9722461,
+		"number": 1
+	},
+	"219803786": {
+		"type": "planet",
+		"period": 4.8040265,
+		"number": 1
+	},
+	"219806828": {
+		"type": "planet",
+		"period": 5.7404631,
+		"number": 1
+	},
+	"219810383": {
+		"type": "planet",
+		"period": 8.4484744,
+		"number": 1
+	},
+	"219810383": {
+		"type": "planet",
+		"period": 1.8737907,
+		"number": 2
+	},
+	"219811129": {
+		"type": "planet",
+		"period": 6.1510364,
+		"number": 1
+	},
+	"219811991": {
+		"type": "planet",
+		"period": 14.4461862,
+		"number": 1
+	},
+	"219811991": {
+		"type": "planet",
+		"period": 9.0333912,
+		"number": 2
+	},
+	"219811991": {
+		"type": "planet",
+		"period": 9.2012434,
+		"number": 3
+	},
+	"219812327": {
+		"type": "planet",
+		"period": 16.0269085,
+		"number": 1
+	},
+	"219815508": {
+		"type": "planet",
+		"period": 17.8875691,
+		"number": 1
+	},
+	"219820588": {
+		"type": "planet",
+		"period": 7.9616036,
+		"number": 1
+	},
+	"229687684": {
+		"type": "planet",
+		"period": 3.6158507,
+		"number": 1
+	},
+	"229689181": {
+		"type": "planet",
+		"period": 15.3794672,
+		"number": 1
+	},
+	"229935496": {
+		"type": "planet",
+		"period": 17.1276606,
+		"number": 1
+	},
+	"230384382": {
+		"type": "planet",
+		"period": 11.4335019,
+		"number": 1
+	},
+	"232618978": {
+		"type": "planet",
+		"period": 1.8304154,
+		"number": 1
+	},
+	"232621005": {
+		"type": "planet",
+		"period": 9.8348757,
+		"number": 1
+	},
+	"232621823": {
+		"type": "planet",
+		"period": 2.1489607,
+		"number": 1
+	},
+	"232621999": {
+		"type": "planet",
+		"period": 18.4968022,
+		"number": 1
+	},
+	"232623426": {
+		"type": "planet",
+		"period": 0.5762047,
+		"number": 1
+	},
+	"232623703": {
+		"type": "planet",
+		"period": 7.9850139,
+		"number": 1
+	},
+	"232625561": {
+		"type": "planet",
+		"period": 4.738558,
+		"number": 1
+	},
+	"232629466": {
+		"type": "planet",
+		"period": 0.827708,
+		"number": 1
+	},
+	"232630374": {
+		"type": "planet",
+		"period": 19.1852894,
+		"number": 1
+	},
+	"232632895": {
+		"type": "planet",
+		"period": 14.6356839,
+		"number": 1
+	},
+	"232633639": {
+		"type": "planet",
+		"period": 11.012816,
+		"number": 1
+	},
+	"232634847": {
+		"type": "planet",
+		"period": 0.6688389,
+		"number": 1
+	},
+	"232636705": {
+		"type": "planet",
+		"period": 0.8923974,
+		"number": 1
+	},
+	"232637164": {
+		"type": "planet",
+		"period": 8.2930851,
+		"number": 1
+	},
+	"232637164": {
+		"type": "planet",
+		"period": 15.0977536,
+		"number": 2
+	},
+	"232637164": {
+		"type": "planet",
+		"period": 11.2252197,
+		"number": 3
+	},
+	"232648606": {
+		"type": "planet",
+		"period": 3.6717538,
+		"number": 1
+	},
+	"232649213": {
+		"type": "planet",
+		"period": 13.3346048,
+		"number": 1
+	},
+	"232649445": {
+		"type": "planet",
+		"period": 12.0752888,
+		"number": 1
+	},
+	"233045481": {
+		"type": "planet",
+		"period": 13.2012716,
+		"number": 1
+	},
+	"233045917": {
+		"type": "planet",
+		"period": 5.0932453,
+		"number": 1
+	},
+	"233051536": {
+		"type": "planet",
+		"period": 7.7468913,
+		"number": 1
+	},
+	"233052000": {
+		"type": "planet",
+		"period": 6.2685968,
+		"number": 1
+	},
+	"233053698": {
+		"type": "planet",
+		"period": 9.962549,
+		"number": 1
+	},
+	"233062107": {
+		"type": "planet",
+		"period": 9.1167576,
+		"number": 1
+	},
+	"233063623": {
+		"type": "planet",
+		"period": 4.4848098,
+		"number": 1
+	},
+	"233066656": {
+		"type": "planet",
+		"period": 19.3987061,
+		"number": 1
+	},
+	"233071016": {
+		"type": "planet",
+		"period": 9.4288558,
+		"number": 1
+	},
+	"233071926": {
+		"type": "planet",
+		"period": 1.1080815,
+		"number": 1
+	},
+	"233075376": {
+		"type": "planet",
+		"period": 8.6731604,
+		"number": 1
+	},
+	"233075376": {
+		"type": "planet",
+		"period": 7.4871994,
+		"number": 2
+	},
+	"233076505": {
+		"type": "planet",
+		"period": 5.2687642,
+		"number": 1
+	},
+	"233076505": {
+		"type": "planet",
+		"period": 6.5835222,
+		"number": 2
+	},
+	"233079304": {
+		"type": "planet",
+		"period": 14.751893,
+		"number": 1
+	},
+	"233081396": {
+		"type": "planet",
+		"period": 16.8454501,
+		"number": 1
+	},
+	"233084236": {
+		"type": "planet",
+		"period": 5.94449,
+		"number": 1
+	},
+	"233087298": {
+		"type": "planet",
+		"period": 1.1292262,
+		"number": 1
+	},
+	"233090705": {
+		"type": "planet",
+		"period": 7.3004529,
+		"number": 1
+	},
+	"233092294": {
+		"type": "planet",
+		"period": 2.3369536,
+		"number": 1
+	},
+	"233092939": {
+		"type": "planet",
+		"period": 11.0085516,
+		"number": 1
+	},
+	"233120677": {
+		"type": "planet",
+		"period": 9.8091475,
+		"number": 1
+	},
+	"233129924": {
+		"type": "planet",
+		"period": 8.2459856,
+		"number": 1
+	},
+	"233156121": {
+		"type": "planet",
+		"period": 4.5798207,
+		"number": 1
+	},
+	"233156121": {
+		"type": "planet",
+		"period": 11.0783536,
+		"number": 2
+	},
+	"233156121": {
+		"type": "planet",
+		"period": 14.3886018,
+		"number": 3
+	},
+	"233526869": {
+		"type": "planet",
+		"period": 0.210969,
+		"number": 1
+	},
+	"233528099": {
+		"type": "planet",
+		"period": 8.8914767,
+		"number": 1
+	},
+	"233528152": {
+		"type": "planet",
+		"period": 15.2106963,
+		"number": 1
+	},
+	"233528503": {
+		"type": "planet",
+		"period": 19.1158249,
+		"number": 1
+	},
+	"233528931": {
+		"type": "planet",
+		"period": 4.7605753,
+		"number": 1
+	},
+	"233533233": {
+		"type": "planet",
+		"period": 1.176977,
+		"number": 1
+	},
+	"233541312": {
+		"type": "planet",
+		"period": 18.9827374,
+		"number": 1
+	},
+	"233545673": {
+		"type": "planet",
+		"period": 9.1545783,
+		"number": 1
+	},
+	"233546300": {
+		"type": "planet",
+		"period": 9.221902,
+		"number": 1
+	},
+	"233546300": {
+		"type": "planet",
+		"period": 2.2452786,
+		"number": 2
+	},
+	"233606024": {
+		"type": "planet",
+		"period": 5.7781442,
+		"number": 1
+	},
+	"233614425": {
+		"type": "planet",
+		"period": 6.1991356,
+		"number": 1
+	},
+	"233614513": {
+		"type": "planet",
+		"period": 2.7025868,
+		"number": 1
+	},
+	"233689159": {
+		"type": "planet",
+		"period": 1.2751328,
+		"number": 1
+	},
+	"233692038": {
+		"type": "planet",
+		"period": 4.0896706,
+		"number": 1
+	},
+	"233711148": {
+		"type": "planet",
+		"period": 6.1189803,
+		"number": 1
+	},
+	"233718119": {
+		"type": "planet",
+		"period": 11.0444205,
+		"number": 1
+	},
+	"233723310": {
+		"type": "planet",
+		"period": 0.9728219,
+		"number": 1
+	},
+	"233723310": {
+		"type": "planet",
+		"period": 5.628906,
+		"number": 2
+	},
+	"233729994": {
+		"type": "planet",
+		"period": 5.6670527,
+		"number": 1
+	},
+	"233730593": {
+		"type": "planet",
+		"period": 5.3798537,
+		"number": 1
+	},
+	"233731499": {
+		"type": "planet",
+		"period": 6.5696502,
+		"number": 1
+	},
+	"233734248": {
+		"type": "planet",
+		"period": 9.0668417,
+		"number": 1
+	},
+	"233735382": {
+		"type": "planet",
+		"period": 8.8130142,
+		"number": 1
+	},
+	"233740092": {
+		"type": "planet",
+		"period": 3.8330842,
+		"number": 1
+	},
+	"233741124": {
+		"type": "planet",
+		"period": 14.6486098,
+		"number": 1
+	},
+	"236776750": {
+		"type": "planet",
+		"period": 10.4266996,
+		"number": 1
+	},
+	"236778973": {
+		"type": "planet",
+		"period": 3.3221471,
+		"number": 1
+	},
+	"236779349": {
+		"type": "planet",
+		"period": 5.0931076,
+		"number": 1
+	},
+	"236787571": {
+		"type": "planet",
+		"period": 0.8447121,
+		"number": 1
+	},
+	"236816467": {
+		"type": "planet",
+		"period": 8.4020261,
+		"number": 1
+	},
+	"237113759": {
+		"type": "planet",
+		"period": 10.792545,
+		"number": 1
+	},
+	"237117193": {
+		"type": "planet",
+		"period": 15.2304795,
+		"number": 1
+	},
+	"243278844": {
+		"type": "planet",
+		"period": 19.9045729,
+		"number": 1
+	},
+	"243315602": {
+		"type": "planet",
+		"period": 18.3702045,
+		"number": 1
+	},
+	"243315602": {
+		"type": "planet",
+		"period": 4.5403013,
+		"number": 2
+	},
+	"243316734": {
+		"type": "planet",
+		"period": 15.9801405,
+		"number": 1
+	},
+	"298664079": {
+		"type": "planet",
+		"period": 4.9703531,
+		"number": 1
+	},
+	"298664593": {
+		"type": "planet",
+		"period": 11.4144878,
+		"number": 1
+	},
+	"298664976": {
+		"type": "planet",
+		"period": 8.7881615,
+		"number": 1
+	},
+	"298664976": {
+		"type": "planet",
+		"period": 8.1450926,
+		"number": 2
+	},
+	"298665232": {
+		"type": "planet",
+		"period": 9.9141832,
+		"number": 1
+	},
+	"298730971": {
+		"type": "planet",
+		"period": 8.0475383,
+		"number": 1
+	},
+	"298733784": {
+		"type": "planet",
+		"period": 1.8432796,
+		"number": 1
+	},
+	"298733784": {
+		"type": "planet",
+		"period": 14.5491659,
+		"number": 2
+	},
+	"298733784": {
+		"type": "planet",
+		"period": 8.4325554,
+		"number": 3
+	},
+	"320473367": {
+		"type": "planet",
+		"period": 11.7690241,
+		"number": 1
+	},
+	"320500337": {
+		"type": "planet",
+		"period": 9.5765729,
+		"number": 1
+	},
+	"320502459": {
+		"type": "planet",
+		"period": 15.9334156,
+		"number": 1
+	},
+	"320502459": {
+		"type": "planet",
+		"period": 9.0042261,
+		"number": 2
+	},
+	"320504179": {
+		"type": "planet",
+		"period": 2.0311664,
+		"number": 1
+	},
+	"320525495": {
+		"type": "planet",
+		"period": 15.6276704,
+		"number": 1
+	},
+	"332476410": {
+		"type": "planet",
+		"period": 0.2527483,
+		"number": 1
+	},
+	"332476883": {
+		"type": "planet",
+		"period": 3.5942857,
+		"number": 1
+	},
+	"332477575": {
+		"type": "planet",
+		"period": 14.9708388,
+		"number": 1
+	},
+	"332477698": {
+		"type": "planet",
+		"period": 2.0059066,
+		"number": 1
+	},
+	"332478050": {
+		"type": "planet",
+		"period": 12.9928471,
+		"number": 1
+	},
+	"332504097": {
+		"type": "planet",
+		"period": 13.4328288,
+		"number": 1
+	},
+	"332504661": {
+		"type": "planet",
+		"period": 1.3519134,
+		"number": 1
+	},
+	"341815962": {
+		"type": "planet",
+		"period": 2.5845931,
+		"number": 1
+	},
+	"341815962": {
+		"type": "planet",
+		"period": 15.5433626,
+		"number": 2
+	},
+	"341818116": {
+		"type": "planet",
+		"period": 0.3942479,
+		"number": 1
+	},
+	"353731555": {
+		"type": "planet",
+		"period": 6.079648,
+		"number": 1
+	},
+	"353779451": {
+		"type": "planet",
+		"period": 2.6517043,
+		"number": 1
+	},
+	"353780614": {
+		"type": "planet",
+		"period": 7.073697,
+		"number": 1
+	},
+	"353780614": {
+		"type": "planet",
+		"period": 12.8401469,
+		"number": 2
+	},
+	"353780614": {
+		"type": "planet",
+		"period": 8.3241844,
+		"number": 3
+	},
+	"353818806": {
+		"type": "planet",
+		"period": 0.5852708,
+		"number": 1
+	},
+	"353819256": {
+		"type": "planet",
+		"period": 19.3119796,
+		"number": 1
+	},
+	"353819430": {
+		"type": "planet",
+		"period": 15.6784279,
+		"number": 1
+	},
+	"353819545": {
+		"type": "planet",
+		"period": 19.9573698,
+		"number": 1
+	},
+	"353819595": {
+		"type": "planet",
+		"period": 2.3933158,
+		"number": 1
+	},
+	"353854078": {
+		"type": "planet",
+		"period": 14.208942,
+		"number": 1
+	},
+	"353854311": {
+		"type": "planet",
+		"period": 19.6901599,
+		"number": 1
+	},
+	"353855262": {
+		"type": "planet",
+		"period": 2.084439,
+		"number": 1
+	},
+	"353855317": {
+		"type": "planet",
+		"period": 13.2788949,
+		"number": 1
+	},
+	"353874651": {
+		"type": "planet",
+		"period": 6.2533782,
+		"number": 1
+	},
+	"353875915": {
+		"type": "planet",
+		"period": 2.2762534,
+		"number": 1
+	},
+	"353875915": {
+		"type": "planet",
+		"period": 4.399207,
+		"number": 2
+	},
+	"353878956": {
+		"type": "planet",
+		"period": 9.4280872,
+		"number": 1
+	},
+	"353879461": {
+		"type": "planet",
+		"period": 7.4592056,
+		"number": 1
+	},
+	"353894325": {
+		"type": "planet",
+		"period": 7.6336132,
+		"number": 1
+	},
+	"353897292": {
+		"type": "planet",
+		"period": 16.0821399,
+		"number": 1
+	},
+	"353935160": {
+		"type": "planet",
+		"period": 19.4935515,
+		"number": 1
+	},
+	"353936074": {
+		"type": "planet",
+		"period": 9.0685903,
+		"number": 1
+	},
+	"353936074": {
+		"type": "planet",
+		"period": 19.3125763,
+		"number": 2
+	},
+	"353936892": {
+		"type": "planet",
+		"period": 12.255303,
+		"number": 1
+	},
+	"353936892": {
+		"type": "planet",
+		"period": 11.3823234,
+		"number": 2
+	},
+	"353938170": {
+		"type": "planet",
+		"period": 2.3141214,
+		"number": 1
+	},
+	"353939651": {
+		"type": "planet",
+		"period": 14.7260996,
+		"number": 1
+	},
+	"353940533": {
+		"type": "planet",
+		"period": 7.9951161,
+		"number": 1
+	},
+	"353941064": {
+		"type": "planet",
+		"period": 12.8447074,
+		"number": 1
+	},
+	"353987913": {
+		"type": "planet",
+		"period": 4.6027459,
+		"number": 1
+	},
+	"353989578": {
+		"type": "planet",
+		"period": 9.2978799,
+		"number": 1
+	},
+	"353989578": {
+		"type": "planet",
+		"period": 6.6781444,
+		"number": 2
+	},
+	"356086315": {
+		"type": "planet",
+		"period": 12.7113647,
+		"number": 1
+	},
+	"356111584": {
+		"type": "planet",
+		"period": 5.8775549,
+		"number": 1
+	},
+	"356896334": {
+		"type": "planet",
+		"period": 17.9386027,
+		"number": 1
+	},
+	"356917504": {
+		"type": "planet",
+		"period": 2.9348899,
+		"number": 1
+	},
+	"356918522": {
+		"type": "planet",
+		"period": 3.1411113,
+		"number": 1
+	},
+	"356981427": {
+		"type": "planet",
+		"period": 15.2883732,
+		"number": 1
+	},
+	"357035051": {
+		"type": "planet",
+		"period": 3.8927804,
+		"number": 1
+	},
+	"357045691": {
+		"type": "planet",
+		"period": 5.060219,
+		"number": 1
+	},
+	"357048281": {
+		"type": "planet",
+		"period": 2.621568,
+		"number": 1
+	},
+	"357049519": {
+		"type": "planet",
+		"period": 3.946273,
+		"number": 1
+	},
+	"357049519": {
+		"type": "planet",
+		"period": 15.8302336,
+		"number": 2
+	},
+	"357096682": {
+		"type": "planet",
+		"period": 5.45407,
+		"number": 1
+	},
+	"357097314": {
+		"type": "planet",
+		"period": 8.4237918,
+		"number": 1
+	},
+	"357526837": {
+		"type": "planet",
+		"period": 7.9736713,
+		"number": 1
+	},
+	"357527102": {
+		"type": "planet",
+		"period": 7.3247609,
+		"number": 1
+	},
+	"357527401": {
+		"type": "planet",
+		"period": 13.4475106,
+		"number": 1
+	},
+	"357685727": {
+		"type": "planet",
+		"period": 9.8107721,
+		"number": 1
+	},
+	"357686750": {
+		"type": "planet",
+		"period": 2.6676879,
+		"number": 1
+	},
+	"357686792": {
+		"type": "planet",
+		"period": 1.8543669,
+		"number": 1
+	},
+	"359313431": {
+		"type": "planet",
+		"period": 14.0830075,
+		"number": 1
+	},
+	"359388110": {
+		"type": "planet",
+		"period": 10.4219772,
+		"number": 1
+	},
+	"359388110": {
+		"type": "planet",
+		"period": 3.4054803,
+		"number": 2
+	},
+	"359388110": {
+		"type": "planet",
+		"period": 6.0585832,
+		"number": 3
+	},
+	"359388247": {
+		"type": "planet",
+		"period": 1.5584773,
+		"number": 1
+	},
+	"359498825": {
+		"type": "planet",
+		"period": 5.5465478,
+		"number": 1
+	},
+	"359584173": {
+		"type": "planet",
+		"period": 19.4027126,
+		"number": 1
+	},
+	"359584173": {
+		"type": "planet",
+		"period": 4.1557057,
+		"number": 2
+	},
+	"359674823": {
+		"type": "planet",
+		"period": 1.9417549,
+		"number": 1
+	},
+	"359676320": {
+		"type": "planet",
+		"period": 2.9042737,
+		"number": 1
+	},
+	"359676492": {
+		"type": "planet",
+		"period": 8.3072335,
+		"number": 1
+	},
+	"359678735": {
+		"type": "planet",
+		"period": 16.3762717,
+		"number": 1
+	},
+	"362212352": {
+		"type": "planet",
+		"period": 4.0418772,
+		"number": 1
+	},
+	"362212352": {
+		"type": "planet",
+		"period": 3.5510741,
+		"number": 2
+	},
+	"376976106": {
+		"type": "planet",
+		"period": 5.6116785,
+		"number": 1
+	},
+	"376993600": {
+		"type": "planet",
+		"period": 2.4600504,
+		"number": 1
+	},
+	"377053005": {
+		"type": "planet",
+		"period": 0.3139322,
+		"number": 1
+	},
+	"377054035": {
+		"type": "planet",
+		"period": 14.6824092,
+		"number": 1
+	},
+	"377192675": {
+		"type": "planet",
+		"period": 4.714236,
+		"number": 1
+	},
+	"377192756": {
+		"type": "planet",
+		"period": 9.0889185,
+		"number": 1
+	},
+	"377253895": {
+		"type": "planet",
+		"period": 1.1961039,
+		"number": 1
+	},
+	"377253948": {
+		"type": "planet",
+		"period": 15.0991008,
+		"number": 1
+	},
+	"377253948": {
+		"type": "planet",
+		"period": 15.752479,
+		"number": 2
+	},
+	"377293776": {
+		"type": "planet",
+		"period": 12.5601861,
+		"number": 1
+	},
+	"383645630": {
+		"type": "planet",
+		"period": 17.984432,
+		"number": 1
+	},
+	"383645630": {
+		"type": "planet",
+		"period": 2.9453575,
+		"number": 2
+	},
+	"383645630": {
+		"type": "planet",
+		"period": 19.6622807,
+		"number": 3
+	},
+	"383645680": {
+		"type": "planet",
+		"period": 5.5845356,
+		"number": 1
+	},
+	"383646959": {
+		"type": "planet",
+		"period": 1.0394876,
+		"number": 1
+	},
+	"383675933": {
+		"type": "planet",
+		"period": 6.6807828,
+		"number": 1
+	},
+	"389915503": {
+		"type": "planet",
+		"period": 19.6226619,
+		"number": 1
+	},
+	"389917323": {
+		"type": "planet",
+		"period": 8.6974044,
+		"number": 1
+	},
+	"389918110": {
+		"type": "planet",
+		"period": 11.0942248,
+		"number": 1
+	},
+	"389918110": {
+		"type": "planet",
+		"period": 16.0526101,
+		"number": 2
+	},
+	"389959030": {
+		"type": "planet",
+		"period": 12.4788161,
+		"number": 1
+	},
+	"389961674": {
+		"type": "planet",
+		"period": 1.5661492,
+		"number": 1
+	},
+	"389961674": {
+		"type": "planet",
+		"period": 10.8188151,
+		"number": 2
+	},
+	"389961858": {
+		"type": "planet",
+		"period": 6.0887024,
+		"number": 1
+	},
+	"389966422": {
+		"type": "planet",
+		"period": 8.8913824,
+		"number": 1
+	},
+	"389966443": {
+		"type": "planet",
+		"period": 0.359203,
+		"number": 1
+	},
+	"389969561": {
+		"type": "planet",
+		"period": 13.1672965,
+		"number": 1
+	},
+	"390017760": {
+		"type": "planet",
+		"period": 5.2451661,
+		"number": 1
+	},
+	"390017964": {
+		"type": "planet",
+		"period": 5.0621774,
+		"number": 1
+	},
+	"390018295": {
+		"type": "planet",
+		"period": 3.3641612,
+		"number": 1
+	},
+	"399788486": {
+		"type": "planet",
+		"period": 9.9777203,
+		"number": 1
+	},
+	"399789258": {
+		"type": "planet",
+		"period": 19.7958481,
+		"number": 1
+	},
+	"406928278": {
+		"type": "planet",
+		"period": 8.1918967,
+		"number": 1
+	},
+	"406928424": {
+		"type": "planet",
+		"period": 15.5006624,
+		"number": 1
+	},
+	"406928424": {
+		"type": "planet",
+		"period": 17.6744062,
+		"number": 2
+	},
+	"421307218": {
+		"type": "planet",
+		"period": 8.8392037,
+		"number": 1
+	},
+	"424461526": {
+		"type": "planet",
+		"period": 7.5190274,
+		"number": 1
+	},
+	"229398682": {
+		"type": "planet",
+		"period": 4.060551,
+		"number": 1
+	},
+	"229399174": {
+		"type": "planet",
+		"period": 4.8280523,
+		"number": 1
+	},
+	"229406415": {
+		"type": "planet",
+		"period": 16.0133652,
+		"number": 1
+	},
+	"229406488": {
+		"type": "planet",
+		"period": 14.9682027,
+		"number": 1
+	},
+	"229411011": {
+		"type": "planet",
+		"period": 5.8846959,
+		"number": 1
+	},
+	"229411011": {
+		"type": "planet",
+		"period": 2.1709232,
+		"number": 2
+	},
+	"229412511": {
+		"type": "planet",
+		"period": 3.2812983,
+		"number": 1
+	},
+	"229413945": {
+		"type": "planet",
+		"period": 10.1924085,
+		"number": 1
+	},
+	"229439561": {
+		"type": "planet",
+		"period": 7.3310983,
+		"number": 1
+	},
+	"229443755": {
+		"type": "planet",
+		"period": 0.970459,
+		"number": 1
+	},
+	"229446305": {
+		"type": "planet",
+		"period": 14.5914493,
+		"number": 1
+	},
+	"229451096": {
+		"type": "planet",
+		"period": 4.1718893,
+		"number": 1
+	},
+	"229451096": {
+		"type": "planet",
+		"period": 3.2920495,
+		"number": 2
+	},
+	"229451096": {
+		"type": "planet",
+		"period": 2.8229231,
+		"number": 3
+	},
+	"229452237": {
+		"type": "planet",
+		"period": 17.0370187,
+		"number": 1
+	},
+	"229457002": {
+		"type": "planet",
+		"period": 4.8426625,
+		"number": 1
+	},
+	"229471936": {
+		"type": "planet",
+		"period": 17.1224132,
+		"number": 1
+	},
+	"229472460": {
+		"type": "planet",
+		"period": 3.4791388,
+		"number": 1
+	},
+	"229479346": {
+		"type": "planet",
+		"period": 8.3179554,
+		"number": 1
+	},
+	"229479346": {
+		"type": "planet",
+		"period": 1.1268252,
+		"number": 2
+	},
+	"229479346": {
+		"type": "planet",
+		"period": 0.7764234,
+		"number": 3
+	},
+	"229490383": {
+		"type": "planet",
+		"period": 13.936422,
+		"number": 1
+	},
+	"229491669": {
+		"type": "planet",
+		"period": 4.9415571,
+		"number": 1
+	},
+	"229502129": {
+		"type": "planet",
+		"period": 6.0254787,
+		"number": 1
+	},
+	"229509786": {
+		"type": "planet",
+		"period": 9.5631167,
+		"number": 1
+	},
+	"229702499": {
+		"type": "planet",
+		"period": 5.6400575,
+		"number": 1
+	},
+	"229703605": {
+		"type": "planet",
+		"period": 15.8926347,
+		"number": 1
+	},
+	"229706827": {
+		"type": "planet",
+		"period": 8.0472924,
+		"number": 1
+	},
+	"229708952": {
+		"type": "planet",
+		"period": 8.2592282,
+		"number": 1
+	},
+	"229710567": {
+		"type": "planet",
+		"period": 1.4766378,
+		"number": 1
+	},
+	"229710567": {
+		"type": "planet",
+		"period": 4.9204095,
+		"number": 2
+	},
+	"229714508": {
+		"type": "planet",
+		"period": 10.0552598,
+		"number": 1
+	},
+	"229737193": {
+		"type": "planet",
+		"period": 18.0933697,
+		"number": 1
+	},
+	"229737193": {
+		"type": "planet",
+		"period": 8.5394706,
+		"number": 2
+	},
+	"229737703": {
+		"type": "planet",
+		"period": 4.2745267,
+		"number": 1
+	},
+	"229738061": {
+		"type": "planet",
+		"period": 7.2364942,
+		"number": 1
+	},
+	"229743674": {
+		"type": "planet",
+		"period": 6.0225084,
+		"number": 1
+	},
+	"229745895": {
+		"type": "planet",
+		"period": 6.5671499,
+		"number": 1
+	},
+	"229747270": {
+		"type": "planet",
+		"period": 0.7151215,
+		"number": 1
+	},
+	"229747962": {
+		"type": "planet",
+		"period": 12.4731655,
+		"number": 1
+	},
+	"229752137": {
+		"type": "planet",
+		"period": 19.0870169,
+		"number": 1
+	},
+	"229761151": {
+		"type": "planet",
+		"period": 4.8941305,
+		"number": 1
+	},
+	"229765885": {
+		"type": "planet",
+		"period": 8.594811,
+		"number": 1
+	},
+	"229767419": {
+		"type": "planet",
+		"period": 6.4128214,
+		"number": 1
+	},
+	"229771024": {
+		"type": "planet",
+		"period": 5.384701,
+		"number": 1
+	},
+	"229771968": {
+		"type": "planet",
+		"period": 7.6144064,
+		"number": 1
+	},
+	"229772596": {
+		"type": "planet",
+		"period": 9.7224114,
+		"number": 1
+	},
+	"229772827": {
+		"type": "planet",
+		"period": 8.2819447,
+		"number": 1
+	},
+	"229777486": {
+		"type": "planet",
+		"period": 1.8208602,
+		"number": 1
+	},
+	"229777486": {
+		"type": "planet",
+		"period": 9.1923345,
+		"number": 2
+	},
+	"229777486": {
+		"type": "planet",
+		"period": 2.8750085,
+		"number": 3
+	},
+	"229783033": {
+		"type": "planet",
+		"period": 3.37551,
+		"number": 1
+	},
+	"229787120": {
+		"type": "planet",
+		"period": 5.0128243,
+		"number": 1
+	},
+	"229787255": {
+		"type": "planet",
+		"period": 8.8698095,
+		"number": 1
+	},
+	"229788228": {
+		"type": "planet",
+		"period": 5.3575257,
+		"number": 1
+	},
+	"229788228": {
+		"type": "planet",
+		"period": 9.3130268,
+		"number": 2
+	},
+	"229789534": {
+		"type": "planet",
+		"period": 2.68223,
+		"number": 1
+	},
+	"229792529": {
+		"type": "planet",
+		"period": 12.5157221,
+		"number": 1
+	},
+	"229796977": {
+		"type": "planet",
+		"period": 9.0445983,
+		"number": 1
+	},
+	"229796977": {
+		"type": "planet",
+		"period": 8.1332788,
+		"number": 2
+	},
+	"229937189": {
+		"type": "planet",
+		"period": 10.0211069,
+		"number": 1
+	},
+	"229937490": {
+		"type": "planet",
+		"period": 17.7454701,
+		"number": 1
+	},
+	"229937671": {
+		"type": "planet",
+		"period": 12.511835,
+		"number": 1
+	},
+	"229938493": {
+		"type": "planet",
+		"period": 14.151594,
+		"number": 1
+	},
+	"229938493": {
+		"type": "planet",
+		"period": 1.7690484,
+		"number": 2
+	},
+	"229939744": {
+		"type": "planet",
+		"period": 6.9122543,
+		"number": 1
+	},
+	"229946329": {
+		"type": "planet",
+		"period": 5.0192756,
+		"number": 1
+	},
+	"229947940": {
+		"type": "planet",
+		"period": 6.900268,
+		"number": 1
+	},
+	"229953492": {
+		"type": "planet",
+		"period": 2.0848073,
+		"number": 1
+	},
+	"229963053": {
+		"type": "planet",
+		"period": 5.1256334,
+		"number": 1
+	},
+	"229970360": {
+		"type": "planet",
+		"period": 14.1100525,
+		"number": 1
+	},
+	"229972683": {
+		"type": "planet",
+		"period": 17.9303578,
+		"number": 1
+	},
+	"229974851": {
+		"type": "planet",
+		"period": 0.2056277,
+		"number": 1
+	},
+	"229978982": {
+		"type": "planet",
+		"period": 9.587832,
+		"number": 1
+	},
+	"229980270": {
+		"type": "planet",
+		"period": 2.9473994,
+		"number": 1
+	},
+	"229980270": {
+		"type": "planet",
+		"period": 11.2609585,
+		"number": 2
+	},
+	"229997353": {
+		"type": "planet",
+		"period": 9.8262737,
+		"number": 1
+	},
+	"229998250": {
+		"type": "planet",
+		"period": 9.8723453,
+		"number": 1
+	},
+	"230000484": {
+		"type": "planet",
+		"period": 13.0783828,
+		"number": 1
+	},
+	"230003055": {
+		"type": "planet",
+		"period": 10.2052614,
+		"number": 1
+	},
+	"230015746": {
+		"type": "planet",
+		"period": 0.6566328,
+		"number": 1
+	},
+	"230016050": {
+		"type": "planet",
+		"period": 15.9619797,
+		"number": 1
+	},
+	"230021080": {
+		"type": "planet",
+		"period": 1.3490008,
+		"number": 1
+	},
+	"230022482": {
+		"type": "planet",
+		"period": 3.3704551,
+		"number": 1
+	},
+	"230025866": {
+		"type": "planet",
+		"period": 16.0038529,
+		"number": 1
+	},
+	"230025866": {
+		"type": "planet",
+		"period": 12.5203887,
+		"number": 2
+	},
+	"230052083": {
+		"type": "planet",
+		"period": 13.5190195,
+		"number": 1
+	},
+	"230052083": {
+		"type": "planet",
+		"period": 8.2487764,
+		"number": 2
+	},
+	"230052892": {
+		"type": "planet",
+		"period": 19.2643752,
+		"number": 1
+	},
+	"230382377": {
+		"type": "planet",
+		"period": 1.2291016,
+		"number": 1
+	},
+	"230388662": {
+		"type": "planet",
+		"period": 9.5742247,
+		"number": 1
+	},
+	"230388662": {
+		"type": "planet",
+		"period": 0.9087067,
+		"number": 2
+	},
+	"230388662": {
+		"type": "planet",
+		"period": 3.3581886,
+		"number": 3
+	},
+	"230392019": {
+		"type": "planet",
+		"period": 5.2420575,
+		"number": 1
+	},
+	"230392019": {
+		"type": "planet",
+		"period": 3.2647264,
+		"number": 2
+	},
+	"230395127": {
+		"type": "planet",
+		"period": 2.2821697,
+		"number": 1
+	},
+	"233525242": {
+		"type": "planet",
+		"period": 8.7278825,
+		"number": 1
+	},
+	"233531070": {
+		"type": "planet",
+		"period": 2.5235198,
+		"number": 1
+	},
+	"233536945": {
+		"type": "planet",
+		"period": 16.4147001,
+		"number": 1
+	},
+	"233575440": {
+		"type": "planet",
+		"period": 0.8018689,
+		"number": 1
+	},
+	"233623110": {
+		"type": "planet",
+		"period": 9.2611212,
+		"number": 1
+	},
+	"233623110": {
+		"type": "planet",
+		"period": 18.6242876,
+		"number": 2
+	},
+	"233623110": {
+		"type": "planet",
+		"period": 0.46837,
+		"number": 3
+	},
+	"233631664": {
+		"type": "planet",
+		"period": 7.8702631,
+		"number": 1
+	},
+	"233632072": {
+		"type": "planet",
+		"period": 8.4945204,
+		"number": 1
+	},
+	"233738446": {
+		"type": "planet",
+		"period": 14.2416758,
+		"number": 1
+	},
+	"233738446": {
+		"type": "planet",
+		"period": 13.0708493,
+		"number": 2
+	},
+	"233738446": {
+		"type": "planet",
+		"period": 13.7797321,
+		"number": 3
+	},
+	"233744693": {
+		"type": "planet",
+		"period": 8.613614,
+		"number": 1
+	},
+	"233744693": {
+		"type": "planet",
+		"period": 5.7937083,
+		"number": 2
+	},
+	"233744693": {
+		"type": "planet",
+		"period": 1.5524545,
+		"number": 3
+	},
+	"235680194": {
+		"type": "planet",
+		"period": 8.6948094,
+		"number": 1
+	},
+	"235680293": {
+		"type": "planet",
+		"period": 12.7701777,
+		"number": 1
+	},
+	"235685793": {
+		"type": "planet",
+		"period": 9.3710231,
+		"number": 1
+	},
+	"235685913": {
+		"type": "planet",
+		"period": 4.9083212,
+		"number": 1
+	},
+	"235685913": {
+		"type": "planet",
+		"period": 11.7079355,
+		"number": 2
+	},
+	"236764134": {
+		"type": "planet",
+		"period": 5.0633989,
+		"number": 1
+	},
+	"237203014": {
+		"type": "planet",
+		"period": 0.8665307,
+		"number": 1
+	},
+	"237203014": {
+		"type": "planet",
+		"period": 10.2700961,
+		"number": 2
+	},
+	"237203277": {
+		"type": "planet",
+		"period": 8.423009,
+		"number": 1
+	},
+	"237205685": {
+		"type": "planet",
+		"period": 7.1802745,
+		"number": 1
+	},
+	"237206809": {
+		"type": "planet",
+		"period": 6.189989,
+		"number": 1
+	},
+	"237214002": {
+		"type": "planet",
+		"period": 7.5532679,
+		"number": 1
+	},
+	"237214531": {
+		"type": "planet",
+		"period": 11.808857,
+		"number": 1
+	},
+	"237222578": {
+		"type": "planet",
+		"period": 4.1441816,
+		"number": 1
+	},
+	"237230985": {
+		"type": "planet",
+		"period": 18.9625976,
+		"number": 1
+	},
+	"237254965": {
+		"type": "planet",
+		"period": 8.9988414,
+		"number": 1
+	},
+	"237254965": {
+		"type": "planet",
+		"period": 10.5490914,
+		"number": 2
+	},
+	"237254965": {
+		"type": "planet",
+		"period": 6.5800459,
+		"number": 3
+	},
+	"237278356": {
+		"type": "planet",
+		"period": 11.3233006,
+		"number": 1
+	},
+	"237278708": {
+		"type": "planet",
+		"period": 3.8759558,
+		"number": 1
+	},
+	"237285580": {
+		"type": "planet",
+		"period": 12.7160734,
+		"number": 1
+	},
+	"255919762": {
+		"type": "planet",
+		"period": 4.5968496,
+		"number": 1
+	},
+	"256299252": {
+		"type": "planet",
+		"period": 13.5056678,
+		"number": 1
+	},
+	"256299672": {
+		"type": "planet",
+		"period": 3.2870274,
+		"number": 1
+	},
+	"256323002": {
+		"type": "planet",
+		"period": 5.0593619,
+		"number": 1
+	},
+	"258351335": {
+		"type": "planet",
+		"period": 12.8958528,
+		"number": 1
+	},
+	"258351350": {
+		"type": "planet",
+		"period": 5.8115549,
+		"number": 1
+	},
+	"258351350": {
+		"type": "planet",
+		"period": 13.8094688,
+		"number": 2
+	},
+	"258702417": {
+		"type": "planet",
+		"period": 13.0988874,
+		"number": 1
+	},
+	"258702417": {
+		"type": "planet",
+		"period": 19.6612622,
+		"number": 2
+	},
+	"258702684": {
+		"type": "planet",
+		"period": 7.5377439,
+		"number": 1
+	},
+	"258702684": {
+		"type": "planet",
+		"period": 18.6738533,
+		"number": 2
+	},
+	"258771913": {
+		"type": "planet",
+		"period": 3.2275703,
+		"number": 1
+	},
+	"258772234": {
+		"type": "planet",
+		"period": 4.0026554,
+		"number": 1
+	},
+	"258773112": {
+		"type": "planet",
+		"period": 6.9870455,
+		"number": 1
+	},
+	"258801797": {
+		"type": "planet",
+		"period": 4.6020749,
+		"number": 1
+	},
+	"258826793": {
+		"type": "planet",
+		"period": 8.7686423,
+		"number": 1
+	},
+	"258828773": {
+		"type": "planet",
+		"period": 8.9867676,
+		"number": 1
+	},
+	"258869769": {
+		"type": "planet",
+		"period": 17.2522884,
+		"number": 1
+	},
+	"258872568": {
+		"type": "planet",
+		"period": 12.8650235,
+		"number": 1
+	},
+	"258873063": {
+		"type": "planet",
+		"period": 8.3044108,
+		"number": 1
+	},
+	"258923381": {
+		"type": "planet",
+		"period": 3.4389322,
+		"number": 1
+	},
+	"258924113": {
+		"type": "planet",
+		"period": 12.6218572,
+		"number": 1
+	},
+	"258956843": {
+		"type": "planet",
+		"period": 5.9356762,
+		"number": 1
+	},
+	"258956843": {
+		"type": "planet",
+		"period": 1.5714693,
+		"number": 2
+	},
+	"258957379": {
+		"type": "planet",
+		"period": 9.8779401,
+		"number": 1
+	},
+	"258958363": {
+		"type": "planet",
+		"period": 8.3683846,
+		"number": 1
+	},
+	"259002953": {
+		"type": "planet",
+		"period": 2.1770396,
+		"number": 1
+	},
+	"259002953": {
+		"type": "planet",
+		"period": 19.5420779,
+		"number": 2
+	},
+	"259006034": {
+		"type": "planet",
+		"period": 6.2084251,
+		"number": 1
+	},
+	"259035090": {
+		"type": "planet",
+		"period": 18.929778,
+		"number": 1
+	},
+	"259099556": {
+		"type": "planet",
+		"period": 3.5708455,
+		"number": 1
+	},
+	"259099556": {
+		"type": "planet",
+		"period": 18.1326772,
+		"number": 2
+	},
+	"259127388": {
+		"type": "planet",
+		"period": 2.1682815,
+		"number": 1
+	},
+	"259127388": {
+		"type": "planet",
+		"period": 12.2798355,
+		"number": 2
+	},
+	"259127388": {
+		"type": "planet",
+		"period": 6.2256164,
+		"number": 3
+	},
+	"259127573": {
+		"type": "planet",
+		"period": 11.8666155,
+		"number": 1
+	},
+	"259131740": {
+		"type": "planet",
+		"period": 0.2857246,
+		"number": 1
+	},
+	"259132389": {
+		"type": "planet",
+		"period": 12.7473688,
+		"number": 1
+	},
+	"259165951": {
+		"type": "planet",
+		"period": 4.5597121,
+		"number": 1
+	},
+	"259166108": {
+		"type": "planet",
+		"period": 11.0955559,
+		"number": 1
+	},
+	"259166108": {
+		"type": "planet",
+		"period": 6.8032984,
+		"number": 2
+	},
+	"259236146": {
+		"type": "planet",
+		"period": 9.9847175,
+		"number": 1
+	},
+	"259236707": {
+		"type": "planet",
+		"period": 4.1940594,
+		"number": 1
+	},
+	"259264537": {
+		"type": "planet",
+		"period": 15.7710394,
+		"number": 1
+	},
+	"259267245": {
+		"type": "planet",
+		"period": 5.9322965,
+		"number": 1
+	},
+	"259268539": {
+		"type": "planet",
+		"period": 14.5292157,
+		"number": 1
+	},
+	"259268539": {
+		"type": "planet",
+		"period": 12.9238255,
+		"number": 2
+	},
+	"259270331": {
+		"type": "planet",
+		"period": 6.4723822,
+		"number": 1
+	},
+	"264171318": {
+		"type": "planet",
+		"period": 7.1261962,
+		"number": 1
+	},
+	"264171318": {
+		"type": "planet",
+		"period": 15.9087617,
+		"number": 2
+	},
+	"264174054": {
+		"type": "planet",
+		"period": 0.6916562,
+		"number": 1
+	},
+	"264220238": {
+		"type": "planet",
+		"period": 19.2981961,
+		"number": 1
+	},
+	"264220297": {
+		"type": "planet",
+		"period": 8.5032743,
+		"number": 1
+	},
+	"264249596": {
+		"type": "planet",
+		"period": 16.0508562,
+		"number": 1
+	},
+	"264252469": {
+		"type": "planet",
+		"period": 8.4790288,
+		"number": 1
+	},
+	"264298076": {
+		"type": "planet",
+		"period": 16.2561263,
+		"number": 1
+	},
+	"264298076": {
+		"type": "planet",
+		"period": 9.3788308,
+		"number": 2
+	},
+	"264298076": {
+		"type": "planet",
+		"period": 17.4842253,
+		"number": 3
+	},
+	"264303923": {
+		"type": "planet",
+		"period": 9.2162757,
+		"number": 1
+	},
+	"264392298": {
+		"type": "planet",
+		"period": 9.1987327,
+		"number": 1
+	},
+	"269594762": {
+		"type": "planet",
+		"period": 7.8057338,
+		"number": 1
+	},
+	"269594762": {
+		"type": "planet",
+		"period": 15.3197052,
+		"number": 2
+	},
+	"269664165": {
+		"type": "planet",
+		"period": 7.4621497,
+		"number": 1
+	},
+	"279983256": {
+		"type": "planet",
+		"period": 1.4224479,
+		"number": 1
+	},
+	"279983256": {
+		"type": "planet",
+		"period": 8.2705033,
+		"number": 2
+	},
+	"280031684": {
+		"type": "planet",
+		"period": 16.1098566,
+		"number": 1
+	},
+	"280034701": {
+		"type": "planet",
+		"period": 5.355441,
+		"number": 1
+	},
+	"280068709": {
+		"type": "planet",
+		"period": 8.1412031,
+		"number": 1
+	},
+	"280075093": {
+		"type": "planet",
+		"period": 3.7072552,
+		"number": 1
+	},
+	"341871373": {
+		"type": "planet",
+		"period": 1.9891053,
+		"number": 1
+	},
+	"341871373": {
+		"type": "planet",
+		"period": 4.5690581,
+		"number": 2
+	},
+	"356823382": {
+		"type": "planet",
+		"period": 2.7621014,
+		"number": 1
+	},
+	"356823751": {
+		"type": "planet",
+		"period": 10.7301408,
+		"number": 1
+	},
+	"356824045": {
+		"type": "planet",
+		"period": 9.2239156,
+		"number": 1
+	},
+	"356824363": {
+		"type": "planet",
+		"period": 12.918756,
+		"number": 1
+	},
+	"360019299": {
+		"type": "planet",
+		"period": 2.8963462,
+		"number": 1
+	},
+	"362227687": {
+		"type": "planet",
+		"period": 6.8940558,
+		"number": 1
+	},
+	"376867257": {
+		"type": "planet",
+		"period": 18.8262991,
+		"number": 1
+	},
+	"376867257": {
+		"type": "planet",
+		"period": 15.9898252,
+		"number": 2
+	},
+	"376871662": {
+		"type": "planet",
+		"period": 6.2085328,
+		"number": 1
+	},
+	"376871934": {
+		"type": "planet",
+		"period": 4.7415207,
+		"number": 1
+	},
+	"377783460": {
+		"type": "planet",
+		"period": 8.7524033,
+		"number": 1
+	},
+	"383648529": {
+		"type": "planet",
+		"period": 1.4477136,
+		"number": 1
+	},
+	"394120514": {
+		"type": "planet",
+		"period": 16.8797206,
+		"number": 1
+	},
+	"394129797": {
+		"type": "planet",
+		"period": 7.0765306,
+		"number": 1
+	},
+	"400406769": {
+		"type": "planet",
+		"period": 0.4505552,
+		"number": 1
+	},
+	"400407348": {
+		"type": "planet",
+		"period": 12.7462135,
+		"number": 1
+	},
+	"402442869": {
+		"type": "planet",
+		"period": 14.6578345,
+		"number": 1
+	},
+	"402658787": {
+		"type": "planet",
+		"period": 12.9837763,
+		"number": 1
+	},
+	"406856834": {
+		"type": "planet",
+		"period": 4.5197056,
+		"number": 1
+	},
+	"417701394": {
+		"type": "planet",
+		"period": 8.4701719,
+		"number": 1
+	},
+	"417735733": {
+		"type": "planet",
+		"period": 3.0913267,
+		"number": 1
+	},
+	"420112587": {
+		"type": "planet",
+		"period": 0.5965456,
+		"number": 1
+	},
+	"420132403": {
+		"type": "planet",
+		"period": 7.4274949,
+		"number": 1
+	},
+	"420132503": {
+		"type": "planet",
+		"period": 5.6563511,
+		"number": 1
+	},
+	"420174351": {
+		"type": "planet",
+		"period": 17.3293386,
+		"number": 1
+	},
+	"159510109": {
+		"type": "planet",
+		"period": 17.4889374,
+		"number": 1
+	},
+	"159510109": {
+		"type": "planet",
+		"period": 18.3830744,
+		"number": 2
+	},
+	"160490459": {
+		"type": "planet",
+		"period": 16.6275461,
+		"number": 1
+	},
+	"160534613": {
+		"type": "planet",
+		"period": 5.2723834,
+		"number": 1
+	},
+	"160535131": {
+		"type": "planet",
+		"period": 5.7834464,
+		"number": 1
+	},
+	"160535419": {
+		"type": "planet",
+		"period": 18.8298715,
+		"number": 1
+	},
+	"160550963": {
+		"type": "planet",
+		"period": 18.9902728,
+		"number": 1
+	},
+	"160550995": {
+		"type": "planet",
+		"period": 2.3755487,
+		"number": 1
+	},
+	"160551500": {
+		"type": "planet",
+		"period": 11.8165776,
+		"number": 1
+	},
+	"160583413": {
+		"type": "planet",
+		"period": 9.223882,
+		"number": 1
+	},
+	"160583413": {
+		"type": "planet",
+		"period": 3.7464577,
+		"number": 2
+	},
+	"160583993": {
+		"type": "planet",
+		"period": 8.4334334,
+		"number": 1
+	},
+	"160586189": {
+		"type": "planet",
+		"period": 3.058583,
+		"number": 1
+	},
+	"160601436": {
+		"type": "planet",
+		"period": 10.5551621,
+		"number": 1
+	},
+	"160602647": {
+		"type": "planet",
+		"period": 1.9743964,
+		"number": 1
+	},
+	"160602772": {
+		"type": "planet",
+		"period": 8.0729335,
+		"number": 1
+	},
+	"219098955": {
+		"type": "planet",
+		"period": 6.5453892,
+		"number": 1
+	},
+	"219099997": {
+		"type": "planet",
+		"period": 15.2320328,
+		"number": 1
+	},
+	"219100220": {
+		"type": "planet",
+		"period": 19.4982275,
+		"number": 1
+	},
+	"219103582": {
+		"type": "planet",
+		"period": 7.9756035,
+		"number": 1
+	},
+	"219103582": {
+		"type": "planet",
+		"period": 13.3373567,
+		"number": 2
+	},
+	"219104933": {
+		"type": "planet",
+		"period": 5.554428,
+		"number": 1
+	},
+	"219105600": {
+		"type": "planet",
+		"period": 12.3982807,
+		"number": 1
+	},
+	"219109357": {
+		"type": "planet",
+		"period": 3.2604584,
+		"number": 1
+	},
+	"219109357": {
+		"type": "planet",
+		"period": 6.8963818,
+		"number": 2
+	},
+	"219109357": {
+		"type": "planet",
+		"period": 14.2980602,
+		"number": 3
+	},
+	"219113415": {
+		"type": "planet",
+		"period": 8.2051834,
+		"number": 1
+	},
+	"219113415": {
+		"type": "planet",
+		"period": 3.0712237,
+		"number": 2
+	},
+	"219113415": {
+		"type": "planet",
+		"period": 15.8546225,
+		"number": 3
+	},
+	"219114041": {
+		"type": "planet",
+		"period": 0.3435115,
+		"number": 1
+	},
+	"219117956": {
+		"type": "planet",
+		"period": 8.038407,
+		"number": 1
+	},
+	"219118336": {
+		"type": "planet",
+		"period": 4.5403312,
+		"number": 1
+	},
+	"219847382": {
+		"type": "planet",
+		"period": 5.7487319,
+		"number": 1
+	},
+	"219847563": {
+		"type": "planet",
+		"period": 9.4375386,
+		"number": 1
+	},
+	"219847692": {
+		"type": "planet",
+		"period": 10.3341051,
+		"number": 1
+	},
+	"219847692": {
+		"type": "planet",
+		"period": 3.4550447,
+		"number": 2
+	},
+	"219857101": {
+		"type": "planet",
+		"period": 4.7632492,
+		"number": 1
+	},
+	"219857101": {
+		"type": "planet",
+		"period": 12.1201603,
+		"number": 2
+	},
+	"219859629": {
+		"type": "planet",
+		"period": 17.2538545,
+		"number": 1
+	},
+	"219864655": {
+		"type": "planet",
+		"period": 5.1955525,
+		"number": 1
+	},
+	"219867845": {
+		"type": "planet",
+		"period": 4.766719,
+		"number": 1
+	},
+	"219872017": {
+		"type": "planet",
+		"period": 17.285951,
+		"number": 1
+	},
+	"219874164": {
+		"type": "planet",
+		"period": 11.6560317,
+		"number": 1
+	},
+	"219874178": {
+		"type": "planet",
+		"period": 5.2697888,
+		"number": 1
+	},
+	"219874178": {
+		"type": "planet",
+		"period": 4.7679165,
+		"number": 2
+	},
+	"219874178": {
+		"type": "planet",
+		"period": 7.250191,
+		"number": 3
+	},
+	"219874414": {
+		"type": "planet",
+		"period": 0.7196084,
+		"number": 1
+	},
+	"219885159": {
+		"type": "planet",
+		"period": 11.5197991,
+		"number": 1
+	},
+	"219885571": {
+		"type": "planet",
+		"period": 12.7082924,
+		"number": 1
+	},
+	"219893910": {
+		"type": "planet",
+		"period": 7.0549349,
+		"number": 1
+	},
+	"219894927": {
+		"type": "planet",
+		"period": 6.712726,
+		"number": 1
+	},
+	"219898154": {
+		"type": "planet",
+		"period": 19.7338995,
+		"number": 1
+	},
+	"229580542": {
+		"type": "planet",
+		"period": 13.9442317,
+		"number": 1
+	},
+	"229580542": {
+		"type": "planet",
+		"period": 9.1574039,
+		"number": 2
+	},
+	"229581322": {
+		"type": "planet",
+		"period": 6.1882051,
+		"number": 1
+	},
+	"229583050": {
+		"type": "planet",
+		"period": 5.4504487,
+		"number": 1
+	},
+	"229585356": {
+		"type": "planet",
+		"period": 11.421855,
+		"number": 1
+	},
+	"229586455": {
+		"type": "planet",
+		"period": 8.6042599,
+		"number": 1
+	},
+	"229587327": {
+		"type": "planet",
+		"period": 4.0299285,
+		"number": 1
+	},
+	"229589141": {
+		"type": "planet",
+		"period": 14.0039209,
+		"number": 1
+	},
+	"229590038": {
+		"type": "planet",
+		"period": 3.5001261,
+		"number": 1
+	},
+	"229591184": {
+		"type": "planet",
+		"period": 6.4865072,
+		"number": 1
+	},
+	"229591184": {
+		"type": "planet",
+		"period": 7.265131,
+		"number": 2
+	},
+	"229591247": {
+		"type": "planet",
+		"period": 1.0212601,
+		"number": 1
+	},
+	"229592075": {
+		"type": "planet",
+		"period": 12.1488568,
+		"number": 1
+	},
+	"229592864": {
+		"type": "planet",
+		"period": 1.5368108,
+		"number": 1
+	},
+	"229594509": {
+		"type": "planet",
+		"period": 4.4596422,
+		"number": 1
+	},
+	"229595601": {
+		"type": "planet",
+		"period": 3.5408883,
+		"number": 1
+	},
+	"229595601": {
+		"type": "planet",
+		"period": 11.1792303,
+		"number": 2
+	},
+	"229597283": {
+		"type": "planet",
+		"period": 16.2322925,
+		"number": 1
+	},
+	"229605113": {
+		"type": "planet",
+		"period": 10.2227782,
+		"number": 1
+	},
+	"229608659": {
+		"type": "planet",
+		"period": 19.0051093,
+		"number": 1
+	},
+	"229608659": {
+		"type": "planet",
+		"period": 15.3783055,
+		"number": 2
+	},
+	"229608891": {
+		"type": "planet",
+		"period": 11.7116777,
+		"number": 1
+	},
+	"229609179": {
+		"type": "planet",
+		"period": 18.5408349,
+		"number": 1
+	},
+	"229609572": {
+		"type": "planet",
+		"period": 7.4690929,
+		"number": 1
+	},
+	"229609853": {
+		"type": "planet",
+		"period": 9.1008592,
+		"number": 1
+	},
+	"229610772": {
+		"type": "planet",
+		"period": 5.6708228,
+		"number": 1
+	},
+	"229611412": {
+		"type": "planet",
+		"period": 0.4694322,
+		"number": 1
+	},
+	"229614158": {
+		"type": "planet",
+		"period": 14.1072637,
+		"number": 1
+	},
+	"229614777": {
+		"type": "planet",
+		"period": 7.6277501,
+		"number": 1
+	},
+	"229616742": {
+		"type": "planet",
+		"period": 3.3697501,
+		"number": 1
+	},
+	"229616993": {
+		"type": "planet",
+		"period": 2.930824,
+		"number": 1
+	},
+	"229618806": {
+		"type": "planet",
+		"period": 5.2238494,
+		"number": 1
+	},
+	"229619445": {
+		"type": "planet",
+		"period": 8.1858988,
+		"number": 1
+	},
+	"229647445": {
+		"type": "planet",
+		"period": 13.8191672,
+		"number": 1
+	},
+	"229647655": {
+		"type": "planet",
+		"period": 19.855775,
+		"number": 1
+	},
+	"229647826": {
+		"type": "planet",
+		"period": 18.3509833,
+		"number": 1
+	},
+	"229650439": {
+		"type": "planet",
+		"period": 6.9271306,
+		"number": 1
+	},
+	"229670106": {
+		"type": "planet",
+		"period": 5.5831187,
+		"number": 1
+	},
+	"229671325": {
+		"type": "planet",
+		"period": 4.1069837,
+		"number": 1
+	},
+	"229672764": {
+		"type": "planet",
+		"period": 9.5594697,
+		"number": 1
+	},
+	"229674297": {
+		"type": "planet",
+		"period": 13.6404634,
+		"number": 1
+	},
+	"229675164": {
+		"type": "planet",
+		"period": 14.0605364,
+		"number": 1
+	},
+	"229675777": {
+		"type": "planet",
+		"period": 8.0519157,
+		"number": 1
+	},
+	"229676357": {
+		"type": "planet",
+		"period": 6.4584679,
+		"number": 1
+	},
+	"230069191": {
+		"type": "planet",
+		"period": 16.80123,
+		"number": 1
+	},
+	"230074344": {
+		"type": "planet",
+		"period": 0.3666758,
+		"number": 1
+	},
+	"230075000": {
+		"type": "planet",
+		"period": 2.0312035,
+		"number": 1
+	},
+	"230112016": {
+		"type": "planet",
+		"period": 2.3140738,
+		"number": 1
+	},
+	"230112016": {
+		"type": "planet",
+		"period": 14.7154069,
+		"number": 2
+	},
+	"230118011": {
+		"type": "planet",
+		"period": 4.5742829,
+		"number": 1
+	},
+	"230121228": {
+		"type": "planet",
+		"period": 6.7758478,
+		"number": 1
+	},
+	"230121228": {
+		"type": "planet",
+		"period": 1.4810845,
+		"number": 2
+	},
+	"230121228": {
+		"type": "planet",
+		"period": 1.6262853,
+		"number": 3
+	},
+	"230124352": {
+		"type": "planet",
+		"period": 0.300749,
+		"number": 1
+	},
+	"230124355": {
+		"type": "planet",
+		"period": 12.9847691,
+		"number": 1
+	},
+	"230124372": {
+		"type": "planet",
+		"period": 11.8733558,
+		"number": 1
+	},
+	"230124372": {
+		"type": "planet",
+		"period": 1.998219,
+		"number": 2
+	},
+	"230127637": {
+		"type": "planet",
+		"period": 17.5381648,
+		"number": 1
+	},
+	"230130635": {
+		"type": "planet",
+		"period": 16.7963462,
+		"number": 1
+	},
+	"230130756": {
+		"type": "planet",
+		"period": 17.8644407,
+		"number": 1
+	},
+	"233008631": {
+		"type": "planet",
+		"period": 11.1231272,
+		"number": 1
+	},
+	"233011723": {
+		"type": "planet",
+		"period": 9.4033865,
+		"number": 1
+	},
+	"233011723": {
+		"type": "planet",
+		"period": 9.146132,
+		"number": 2
+	},
+	"233011723": {
+		"type": "planet",
+		"period": 10.9813229,
+		"number": 3
+	},
+	"233193585": {
+		"type": "planet",
+		"period": 4.9367134,
+		"number": 1
+	},
+	"233196419": {
+		"type": "planet",
+		"period": 19.2250339,
+		"number": 1
+	},
+	"233199700": {
+		"type": "planet",
+		"period": 2.449681,
+		"number": 1
+	},
+	"233211759": {
+		"type": "planet",
+		"period": 4.4308991,
+		"number": 1
+	},
+	"233238511": {
+		"type": "planet",
+		"period": 8.6329265,
+		"number": 1
+	},
+	"233238668": {
+		"type": "planet",
+		"period": 9.816038,
+		"number": 1
+	},
+	"233238892": {
+		"type": "planet",
+		"period": 2.7990418,
+		"number": 1
+	},
+	"233495734": {
+		"type": "planet",
+		"period": 9.8585189,
+		"number": 1
+	},
+	"233495966": {
+		"type": "planet",
+		"period": 2.8301948,
+		"number": 1
+	},
+	"233497034": {
+		"type": "planet",
+		"period": 7.501773,
+		"number": 1
+	},
+	"233497346": {
+		"type": "planet",
+		"period": 19.5520199,
+		"number": 1
+	},
+	"233498293": {
+		"type": "planet",
+		"period": 4.922456,
+		"number": 1
+	},
+	"233499150": {
+		"type": "planet",
+		"period": 8.0296811,
+		"number": 1
+	},
+	"233499682": {
+		"type": "planet",
+		"period": 1.2223563,
+		"number": 1
+	},
+	"233501647": {
+		"type": "planet",
+		"period": 13.8969288,
+		"number": 1
+	},
+	"233501728": {
+		"type": "planet",
+		"period": 2.0832886,
+		"number": 1
+	},
+	"233502473": {
+		"type": "planet",
+		"period": 8.9323623,
+		"number": 1
+	},
+	"233504658": {
+		"type": "planet",
+		"period": 4.8025081,
+		"number": 1
+	},
+	"235673494": {
+		"type": "planet",
+		"period": 9.9394958,
+		"number": 1
+	},
+	"235676133": {
+		"type": "planet",
+		"period": 0.2094713,
+		"number": 1
+	},
+	"235676864": {
+		"type": "planet",
+		"period": 5.598385,
+		"number": 1
+	},
+	"235677166": {
+		"type": "planet",
+		"period": 3.7229418,
+		"number": 1
+	},
+	"235679010": {
+		"type": "planet",
+		"period": 17.6553593,
+		"number": 1
+	},
+	"235684649": {
+		"type": "planet",
+		"period": 0.7740824,
+		"number": 1
+	},
+	"235684720": {
+		"type": "planet",
+		"period": 15.7552819,
+		"number": 1
+	},
+	"236757919": {
+		"type": "planet",
+		"period": 8.027154,
+		"number": 1
+	},
+	"236758071": {
+		"type": "planet",
+		"period": 6.0673972,
+		"number": 1
+	},
+	"236758300": {
+		"type": "planet",
+		"period": 1.2315078,
+		"number": 1
+	},
+	"236761089": {
+		"type": "planet",
+		"period": 3.9367351,
+		"number": 1
+	},
+	"236761089": {
+		"type": "planet",
+		"period": 3.5613558,
+		"number": 2
+	},
+	"236761089": {
+		"type": "planet",
+		"period": 9.7348282,
+		"number": 3
+	},
+	"236762486": {
+		"type": "planet",
+		"period": 17.7035802,
+		"number": 1
+	},
+	"237096708": {
+		"type": "planet",
+		"period": 2.0185109,
+		"number": 1
+	},
+	"237098588": {
+		"type": "planet",
+		"period": 18.5860473,
+		"number": 1
+	},
+	"237098588": {
+		"type": "planet",
+		"period": 4.7974473,
+		"number": 2
+	},
+	"237103455": {
+		"type": "planet",
+		"period": 5.4786216,
+		"number": 1
+	},
+	"256298086": {
+		"type": "planet",
+		"period": 13.045926,
+		"number": 1
+	},
+	"267542031": {
+		"type": "planet",
+		"period": 5.316852,
+		"number": 1
+	},
+	"288300796": {
+		"type": "planet",
+		"period": 8.4075663,
+		"number": 1
+	},
+	"288390174": {
+		"type": "planet",
+		"period": 11.0768893,
+		"number": 1
+	},
+	"288428751": {
+		"type": "planet",
+		"period": 1.5361679,
+		"number": 1
+	},
+	"288468229": {
+		"type": "planet",
+		"period": 9.2502434,
+		"number": 1
+	},
+	"288514307": {
+		"type": "planet",
+		"period": 15.7532302,
+		"number": 1
+	},
+	"288603254": {
+		"type": "planet",
+		"period": 8.6358972,
+		"number": 1
+	},
+	"311188656": {
+		"type": "planet",
+		"period": 6.2616004,
+		"number": 1
+	},
+	"329153604": {
+		"type": "planet",
+		"period": 7.134785,
+		"number": 1
+	},
+	"334678134": {
+		"type": "planet",
+		"period": 16.3101241,
+		"number": 1
+	},
+	"334678792": {
+		"type": "planet",
+		"period": 9.4674172,
+		"number": 1
+	},
+	"341874772": {
+		"type": "planet",
+		"period": 6.6577972,
+		"number": 1
+	},
+	"356015881": {
+		"type": "planet",
+		"period": 6.229747,
+		"number": 1
+	},
+	"356016050": {
+		"type": "planet",
+		"period": 9.8379245,
+		"number": 1
+	},
+	"356016119": {
+		"type": "planet",
+		"period": 10.6961408,
+		"number": 1
+	},
+	"356016151": {
+		"type": "planet",
+		"period": 1.917511,
+		"number": 1
+	},
+	"356056021": {
+		"type": "planet",
+		"period": 2.1374206,
+		"number": 1
+	},
+	"356700741": {
+		"type": "planet",
+		"period": 5.0979379,
+		"number": 1
+	},
+	"356786805": {
+		"type": "planet",
+		"period": 13.1666665,
+		"number": 1
+	},
+	"356786805": {
+		"type": "planet",
+		"period": 8.1246538,
+		"number": 2
+	},
+	"356787430": {
+		"type": "planet",
+		"period": 5.4224251,
+		"number": 1
+	},
+	"356820932": {
+		"type": "planet",
+		"period": 19.8817147,
+		"number": 1
+	},
+	"356820932": {
+		"type": "planet",
+		"period": 6.5802878,
+		"number": 2
+	},
+	"356820932": {
+		"type": "planet",
+		"period": 6.1999713,
+		"number": 3
+	},
+	"356821434": {
+		"type": "planet",
+		"period": 2.4330526,
+		"number": 1
+	},
+	"356822358": {
+		"type": "planet",
+		"period": 14.2987392,
+		"number": 1
+	},
+	"356867686": {
+		"type": "planet",
+		"period": 4.8146938,
+		"number": 1
+	},
+	"362104094": {
+		"type": "planet",
+		"period": 11.8601336,
+		"number": 1
+	},
+	"362224773": {
+		"type": "planet",
+		"period": 9.3241534,
+		"number": 1
+	},
+	"367682095": {
+		"type": "planet",
+		"period": 11.4685818,
+		"number": 1
+	},
+	"367682182": {
+		"type": "planet",
+		"period": 4.9491813,
+		"number": 1
+	},
+	"367835766": {
+		"type": "planet",
+		"period": 6.0720247,
+		"number": 1
+	},
+	"367838113": {
+		"type": "planet",
+		"period": 18.6762653,
+		"number": 1
+	},
+	"367840149": {
+		"type": "planet",
+		"period": 2.6311293,
+		"number": 1
+	},
+	"367853890": {
+		"type": "planet",
+		"period": 15.0823742,
+		"number": 1
+	},
+	"367855252": {
+		"type": "planet",
+		"period": 0.8601657,
+		"number": 1
+	},
+	"367855252": {
+		"type": "planet",
+		"period": 12.1163283,
+		"number": 2
+	},
+	"367855684": {
+		"type": "planet",
+		"period": 6.8370068,
+		"number": 1
+	},
+	"367857305": {
+		"type": "planet",
+		"period": 11.0351123,
+		"number": 1
+	},
+	"394119855": {
+		"type": "planet",
+		"period": 11.5690514,
+		"number": 1
+	},
+	"406855037": {
+		"type": "planet",
+		"period": 7.2406855,
+		"number": 1
+	},
+	"406855037": {
+		"type": "planet",
+		"period": 9.1972284,
+		"number": 2
+	},
+	"420107979": {
+		"type": "planet",
+		"period": 9.3988248,
+		"number": 1
+	},
+	"420108235": {
+		"type": "planet",
+		"period": 6.4103982,
+		"number": 1
+	},
+	"420111273": {
+		"type": "planet",
+		"period": 4.6136728,
+		"number": 1
+	},
+	"424388625": {
+		"type": "planet",
+		"period": 18.5336792,
+		"number": 1
+	},
+	"424388628": {
+		"type": "planet",
+		"period": 16.1177662,
+		"number": 1
+	},
+	"424391134": {
+		"type": "planet",
+		"period": 5.4749917,
+		"number": 1
+	},
+	"424391134": {
+		"type": "planet",
+		"period": 5.9496626,
+		"number": 2
+	},
+	"441715637": {
+		"type": "planet",
+		"period": 5.6388685,
+		"number": 1
+	},
+	"441715901": {
+		"type": "planet",
+		"period": 4.2178069,
+		"number": 1
+	},
+	"441719240": {
+		"type": "planet",
+		"period": 7.4621933,
+		"number": 1
+	},
+	"441722462": {
+		"type": "planet",
+		"period": 8.5880528,
+		"number": 1
+	},
+	"441726025": {
+		"type": "planet",
+		"period": 19.1750048,
+		"number": 1
+	},
+	"441726252": {
+		"type": "planet",
+		"period": 17.5458374,
+		"number": 1
+	},
+	"441726381": {
+		"type": "planet",
+		"period": 8.1038214,
+		"number": 1
+	},
+	"441728026": {
+		"type": "planet",
+		"period": 3.2783164,
+		"number": 1
+	},
+	"441729056": {
+		"type": "planet",
+		"period": 5.886072,
+		"number": 1
+	},
+	"441729452": {
+		"type": "planet",
+		"period": 10.613673,
+		"number": 1
+	},
+	"441732807": {
+		"type": "planet",
+		"period": 13.2558995,
+		"number": 1
+	},
+	"441734235": {
+		"type": "planet",
+		"period": 7.206341,
+		"number": 1
+	},
+	"441735107": {
+		"type": "planet",
+		"period": 0.7737212,
+		"number": 1
+	},
+	"441735107": {
+		"type": "planet",
+		"period": 9.4527151,
+		"number": 2
+	},
+	"441739020": {
+		"type": "planet",
+		"period": 4.4237321,
+		"number": 1
+	},
+	"441740483": {
+		"type": "planet",
+		"period": 16.8940189,
+		"number": 1
+	},
+	"441741459": {
+		"type": "planet",
+		"period": 15.1005613,
+		"number": 1
+	},
+	"441741591": {
+		"type": "planet",
+		"period": 12.174376,
+		"number": 1
+	},
+	"441741591": {
+		"type": "planet",
+		"period": 7.4202375,
+		"number": 2
+	},
+	"441741591": {
+		"type": "planet",
+		"period": 8.6369007,
+		"number": 3
+	},
+	"441742094": {
+		"type": "planet",
+		"period": 5.3641434,
+		"number": 1
+	},
+	"441760453": {
+		"type": "planet",
+		"period": 0.6339567,
+		"number": 1
+	},
+	"441760453": {
+		"type": "planet",
+		"period": 2.3737236,
+		"number": 2
+	},
+	"441760453": {
+		"type": "planet",
+		"period": 4.5667163,
+		"number": 3
+	},
+	"441762018": {
+		"type": "planet",
+		"period": 9.7579769,
+		"number": 1
+	},
+	"441763171": {
+		"type": "planet",
+		"period": 15.6713055,
+		"number": 1
+	},
+	"441767095": {
+		"type": "planet",
+		"period": 1.0393851,
+		"number": 1
+	},
+	"441792490": {
+		"type": "planet",
+		"period": 1.4842124,
+		"number": 1
+	},
+	"441793534": {
+		"type": "planet",
+		"period": 15.6264427,
+		"number": 1
+	},
+	"441799392": {
+		"type": "planet",
+		"period": 1.4948477,
+		"number": 1
+	},
+	"441800893": {
+		"type": "planet",
+		"period": 17.5458561,
+		"number": 1
+	},
+	"441801836": {
+		"type": "planet",
+		"period": 5.2757083,
+		"number": 1
+	},
+	"441803643": {
+		"type": "planet",
+		"period": 16.901892,
+		"number": 1
+	},
+	"441804457": {
+		"type": "planet",
+		"period": 4.3263848,
+		"number": 1
+	},
+	"441804505": {
+		"type": "planet",
+		"period": 10.7210512,
+		"number": 1
+	},
+	"441804568": {
+		"type": "planet",
+		"period": 3.6590637,
+		"number": 1
+	},
+	"441805289": {
+		"type": "planet",
+		"period": 0.4710099,
+		"number": 1
+	},
+	"441808315": {
+		"type": "planet",
+		"period": 8.2839878,
+		"number": 1
+	},
+	"441809052": {
+		"type": "planet",
+		"period": 8.6088649,
+		"number": 1
+	},
+	"441810113": {
+		"type": "planet",
+		"period": 12.1984104,
+		"number": 1
+	},
+	"441810717": {
+		"type": "planet",
+		"period": 8.4994922,
+		"number": 1
+	},
+	"441812459": {
+		"type": "planet",
+		"period": 15.8943067,
+		"number": 1
+	},
+	"441813157": {
+		"type": "planet",
+		"period": 8.6908655,
+		"number": 1
+	}
+}

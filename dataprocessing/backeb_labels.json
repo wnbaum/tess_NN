@@ -1,0 +1,2862 @@
+{
+	"5733076": {
+		"type": "backeb",
+		"period": 7.3860295
+	},
+	"5814784": {
+		"type": "backeb",
+		"period": 4.6298289
+	},
+	"5899158": {
+		"type": "backeb",
+		"period": 7.7444564
+	},
+	"58278364": {
+		"type": "backeb",
+		"period": 2.9373304
+	},
+	"71963449": {
+		"type": "backeb",
+		"period": 6.4082123
+	},
+	"72034540": {
+		"type": "backeb",
+		"period": 3.4761899
+	},
+	"72071913": {
+		"type": "backeb",
+		"period": 6.3807611
+	},
+	"72411355": {
+		"type": "backeb",
+		"period": 5.9366275
+	},
+	"74060748": {
+		"type": "backeb",
+		"period": 2.9658216
+	},
+	"157579274": {
+		"type": "backeb",
+		"period": 5.3792062
+	},
+	"157641213": {
+		"type": "backeb",
+		"period": 9.2145841
+	},
+	"182039063": {
+		"type": "backeb",
+		"period": 2.3844918
+	},
+	"189843364": {
+		"type": "backeb",
+		"period": 8.9747349
+	},
+	"270746435": {
+		"type": "backeb",
+		"period": 4.9754318
+	},
+	"270826460": {
+		"type": "backeb",
+		"period": 6.7778353
+	},
+	"270911279": {
+		"type": "backeb",
+		"period": 5.0585564
+	},
+	"270968388": {
+		"type": "backeb",
+		"period": 3.3530489
+	},
+	"276854735": {
+		"type": "backeb",
+		"period": 3.5257401
+	},
+	"276882156": {
+		"type": "backeb",
+		"period": 8.9341427
+	},
+	"281939042": {
+		"type": "backeb",
+		"period": 3.2880741
+	},
+	"281941695": {
+		"type": "backeb",
+		"period": 9.4870735
+	},
+	"282015055": {
+		"type": "backeb",
+		"period": 5.0954402
+	},
+	"296932891": {
+		"type": "backeb",
+		"period": 4.3932251
+	},
+	"296980470": {
+		"type": "backeb",
+		"period": 6.2158966
+	},
+	"315625354": {
+		"type": "backeb",
+		"period": 6.377661
+	},
+	"315665483": {
+		"type": "backeb",
+		"period": 8.9486557
+	},
+	"319006144": {
+		"type": "backeb",
+		"period": 8.8578397
+	},
+	"337514410": {
+		"type": "backeb",
+		"period": 4.8283548
+	},
+	"350188177": {
+		"type": "backeb",
+		"period": 5.1565938
+	},
+	"362486111": {
+		"type": "backeb",
+		"period": 7.3642295
+	},
+	"369043990": {
+		"type": "backeb",
+		"period": 9.7792876
+	},
+	"461411353": {
+		"type": "backeb",
+		"period": 9.8689852
+	},
+	"168572618": {
+		"type": "backeb",
+		"period": 9.8332678
+	},
+	"187344362": {
+		"type": "backeb",
+		"period": 2.9713573
+	},
+	"187412053": {
+		"type": "backeb",
+		"period": 8.3771795
+	},
+	"188268293": {
+		"type": "backeb",
+		"period": 7.2300202
+	},
+	"272672831": {
+		"type": "backeb",
+		"period": 9.5221005
+	},
+	"272875174": {
+		"type": "backeb",
+		"period": 3.0573022
+	},
+	"286115754": {
+		"type": "backeb",
+		"period": 2.3488416
+	},
+	"318496224": {
+		"type": "backeb",
+		"period": 2.4381364
+	},
+	"318584714": {
+		"type": "backeb",
+		"period": 7.1806383
+	},
+	"347594982": {
+		"type": "backeb",
+		"period": 2.659513
+	},
+	"350254342": {
+		"type": "backeb",
+		"period": 8.2333777
+	},
+	"371267644": {
+		"type": "backeb",
+		"period": 2.7077284
+	},
+	"393115249": {
+		"type": "backeb",
+		"period": 6.8845594
+	},
+	"446176915": {
+		"type": "backeb",
+		"period": 9.5193144
+	},
+	"459376111": {
+		"type": "backeb",
+		"period": 4.6595183
+	},
+	"459394822": {
+		"type": "backeb",
+		"period": 8.2478881
+	},
+	"462212218": {
+		"type": "backeb",
+		"period": 8.1293939
+	},
+	"462242624": {
+		"type": "backeb",
+		"period": 6.7946646
+	},
+	"462275138": {
+		"type": "backeb",
+		"period": 2.3013151
+	},
+	"462308226": {
+		"type": "backeb",
+		"period": 9.2004383
+	},
+	"462310033": {
+		"type": "backeb",
+		"period": 2.5055729
+	},
+	"20939569": {
+		"type": "backeb",
+		"period": 7.3929846
+	},
+	"32260440": {
+		"type": "backeb",
+		"period": 8.1768004
+	},
+	"32263415": {
+		"type": "backeb",
+		"period": 5.3938088
+	},
+	"32367988": {
+		"type": "backeb",
+		"period": 3.3472477
+	},
+	"32475189": {
+		"type": "backeb",
+		"period": 9.9521314
+	},
+	"32491788": {
+		"type": "backeb",
+		"period": 2.7273973
+	},
+	"32537323": {
+		"type": "backeb",
+		"period": 5.4378763
+	},
+	"32543161": {
+		"type": "backeb",
+		"period": 4.1814366
+	},
+	"36982626": {
+		"type": "backeb",
+		"period": 5.1634199
+	},
+	"37227918": {
+		"type": "backeb",
+		"period": 2.5479368
+	},
+	"37227921": {
+		"type": "backeb",
+		"period": 2.0840185
+	},
+	"37229308": {
+		"type": "backeb",
+		"period": 4.0187687
+	},
+	"46174351": {
+		"type": "backeb",
+		"period": 7.8418063
+	},
+	"46358337": {
+		"type": "backeb",
+		"period": 2.1717873
+	},
+	"46372909": {
+		"type": "backeb",
+		"period": 8.6426864
+	},
+	"49461827": {
+		"type": "backeb",
+		"period": 4.1731762
+	},
+	"49729336": {
+		"type": "backeb",
+		"period": 6.3647852
+	},
+	"49806117": {
+		"type": "backeb",
+		"period": 9.7088411
+	},
+	"54487678": {
+		"type": "backeb",
+		"period": 9.1108048
+	},
+	"54615770": {
+		"type": "backeb",
+		"period": 3.589828
+	},
+	"54954418": {
+		"type": "backeb",
+		"period": 3.7648599
+	},
+	"176000957": {
+		"type": "backeb",
+		"period": 7.7138181
+	},
+	"180357037": {
+		"type": "backeb",
+		"period": 9.0261192
+	},
+	"187410382": {
+		"type": "backeb",
+		"period": 9.5723666
+	},
+	"188251407": {
+		"type": "backeb",
+		"period": 5.3800333
+	},
+	"193344788": {
+		"type": "backeb",
+		"period": 7.5958344
+	},
+	"386964660": {
+		"type": "backeb",
+		"period": 4.1916764
+	},
+	"52437233": {
+		"type": "backeb",
+		"period": 4.0509335
+	},
+	"52799783": {
+		"type": "backeb",
+		"period": 7.859894
+	},
+	"52988782": {
+		"type": "backeb",
+		"period": 4.0566336
+	},
+	"71987085": {
+		"type": "backeb",
+		"period": 9.0782456
+	},
+	"71987458": {
+		"type": "backeb",
+		"period": 4.4076523
+	},
+	"72223988": {
+		"type": "backeb",
+		"period": 5.8923043
+	},
+	"135511734": {
+		"type": "backeb",
+		"period": 8.7015007
+	},
+	"135596511": {
+		"type": "backeb",
+		"period": 5.0560612
+	},
+	"135819633": {
+		"type": "backeb",
+		"period": 6.1984771
+	},
+	"135828271": {
+		"type": "backeb",
+		"period": 3.67606
+	},
+	"135888457": {
+		"type": "backeb",
+		"period": 8.7681076
+	},
+	"152753879": {
+		"type": "backeb",
+		"period": 4.8449276
+	},
+	"153170551": {
+		"type": "backeb",
+		"period": 9.6758147
+	},
+	"153608253": {
+		"type": "backeb",
+		"period": 7.230926
+	},
+	"163783219": {
+		"type": "backeb",
+		"period": 3.5740973
+	},
+	"163941156": {
+		"type": "backeb",
+		"period": 5.2809711
+	},
+	"163941802": {
+		"type": "backeb",
+		"period": 2.343513
+	},
+	"163943265": {
+		"type": "backeb",
+		"period": 7.1080842
+	},
+	"181291655": {
+		"type": "backeb",
+		"period": 9.8016161
+	},
+	"181589885": {
+		"type": "backeb",
+		"period": 9.0650453
+	},
+	"281217908": {
+		"type": "backeb",
+		"period": 5.5055895
+	},
+	"398803136": {
+		"type": "backeb",
+		"period": 8.0701707
+	},
+	"411092710": {
+		"type": "backeb",
+		"period": 6.9646862
+	},
+	"413590417": {
+		"type": "backeb",
+		"period": 6.5358338
+	},
+	"413935673": {
+		"type": "backeb",
+		"period": 8.2361904
+	},
+	"414225538": {
+		"type": "backeb",
+		"period": 4.4508803
+	},
+	"9585383": {
+		"type": "backeb",
+		"period": 8.3975255
+	},
+	"150584743": {
+		"type": "backeb",
+		"period": 9.8816824
+	},
+	"236008959": {
+		"type": "backeb",
+		"period": 7.2884331
+	},
+	"236739757": {
+		"type": "backeb",
+		"period": 5.0525445
+	},
+	"236740417": {
+		"type": "backeb",
+		"period": 7.1087337
+	},
+	"236753559": {
+		"type": "backeb",
+		"period": 4.8216412
+	},
+	"257187179": {
+		"type": "backeb",
+		"period": 2.7800015
+	},
+	"257456864": {
+		"type": "backeb",
+		"period": 5.7785792
+	},
+	"257528430": {
+		"type": "backeb",
+		"period": 7.3130042
+	},
+	"257732867": {
+		"type": "backeb",
+		"period": 3.2277531
+	},
+	"257797160": {
+		"type": "backeb",
+		"period": 4.3007613
+	},
+	"257798813": {
+		"type": "backeb",
+		"period": 9.9548625
+	},
+	"258172867": {
+		"type": "backeb",
+		"period": 5.3023445
+	},
+	"258198274": {
+		"type": "backeb",
+		"period": 3.6685652
+	},
+	"258237281": {
+		"type": "backeb",
+		"period": 5.5011521
+	},
+	"258242214": {
+		"type": "backeb",
+		"period": 8.9754226
+	},
+	"298439336": {
+		"type": "backeb",
+		"period": 6.7575328
+	},
+	"311018065": {
+		"type": "backeb",
+		"period": 4.7976025
+	},
+	"313614092": {
+		"type": "backeb",
+		"period": 2.9382912
+	},
+	"313711224": {
+		"type": "backeb",
+		"period": 6.7284014
+	},
+	"332394627": {
+		"type": "backeb",
+		"period": 2.1729765
+	},
+	"341759050": {
+		"type": "backeb",
+		"period": 4.2821616
+	},
+	"345397714": {
+		"type": "backeb",
+		"period": 8.5606076
+	},
+	"355926765": {
+		"type": "backeb",
+		"period": 5.6626125
+	},
+	"356003068": {
+		"type": "backeb",
+		"period": 8.2960752
+	},
+	"356102989": {
+		"type": "backeb",
+		"period": 3.3056321
+	},
+	"356235477": {
+		"type": "backeb",
+		"period": 5.4106865
+	},
+	"356235542": {
+		"type": "backeb",
+		"period": 4.7138973
+	},
+	"356315478": {
+		"type": "backeb",
+		"period": 9.3796263
+	},
+	"357518094": {
+		"type": "backeb",
+		"period": 6.7847498
+	},
+	"458526933": {
+		"type": "backeb",
+		"period": 9.5772881
+	},
+	"17342172": {
+		"type": "backeb",
+		"period": 4.7306135
+	},
+	"17491014": {
+		"type": "backeb",
+		"period": 8.4537791
+	},
+	"135264018": {
+		"type": "backeb",
+		"period": 9.1393392
+	},
+	"219746976": {
+		"type": "backeb",
+		"period": 5.2959281
+	},
+	"236319705": {
+		"type": "backeb",
+		"period": 2.9068704
+	},
+	"236325819": {
+		"type": "backeb",
+		"period": 5.4672539
+	},
+	"236336182": {
+		"type": "backeb",
+		"period": 8.0621584
+	},
+	"236349324": {
+		"type": "backeb",
+		"period": 7.4526381
+	},
+	"236388579": {
+		"type": "backeb",
+		"period": 2.6119805
+	},
+	"236388665": {
+		"type": "backeb",
+		"period": 6.5649573
+	},
+	"284355773": {
+		"type": "backeb",
+		"period": 9.8543837
+	},
+	"284759507": {
+		"type": "backeb",
+		"period": 6.8710146
+	},
+	"307911627": {
+		"type": "backeb",
+		"period": 9.1759727
+	},
+	"310235002": {
+		"type": "backeb",
+		"period": 4.42068
+	},
+	"310235081": {
+		"type": "backeb",
+		"period": 3.8247705
+	},
+	"311277082": {
+		"type": "backeb",
+		"period": 3.0566915
+	},
+	"334751696": {
+		"type": "backeb",
+		"period": 5.0721732
+	},
+	"345352638": {
+		"type": "backeb",
+		"period": 6.0136036
+	},
+	"459950947": {
+		"type": "backeb",
+		"period": 9.5246496
+	},
+	"462610538": {
+		"type": "backeb",
+		"period": 3.7350869
+	},
+	"105777788": {
+		"type": "backeb",
+		"period": 6.8704511
+	},
+	"119814259": {
+		"type": "backeb",
+		"period": 7.4946819
+	},
+	"137031658": {
+		"type": "backeb",
+		"period": 6.1346296
+	},
+	"137034724": {
+		"type": "backeb",
+		"period": 4.6115105
+	},
+	"137054102": {
+		"type": "backeb",
+		"period": 3.3000835
+	},
+	"149624126": {
+		"type": "backeb",
+		"period": 3.1253019
+	},
+	"149625011": {
+		"type": "backeb",
+		"period": 3.8905672
+	},
+	"149647102": {
+		"type": "backeb",
+		"period": 5.6131754
+	},
+	"149649164": {
+		"type": "backeb",
+		"period": 6.3046797
+	},
+	"149689521": {
+		"type": "backeb",
+		"period": 9.8663053
+	},
+	"172607465": {
+		"type": "backeb",
+		"period": 8.2583371
+	},
+	"172648542": {
+		"type": "backeb",
+		"period": 2.7443875
+	},
+	"172654838": {
+		"type": "backeb",
+		"period": 9.8983131
+	},
+	"172708435": {
+		"type": "backeb",
+		"period": 6.827956
+	},
+	"172715124": {
+		"type": "backeb",
+		"period": 3.9155834
+	},
+	"172715587": {
+		"type": "backeb",
+		"period": 9.1606565
+	},
+	"229563634": {
+		"type": "backeb",
+		"period": 3.2108345
+	},
+	"229567955": {
+		"type": "backeb",
+		"period": 9.9876173
+	},
+	"258090619": {
+		"type": "backeb",
+		"period": 7.7200046
+	},
+	"291072807": {
+		"type": "backeb",
+		"period": 9.7191888
+	},
+	"296775751": {
+		"type": "backeb",
+		"period": 8.6850226
+	},
+	"307910698": {
+		"type": "backeb",
+		"period": 8.1143609
+	},
+	"318710460": {
+		"type": "backeb",
+		"period": 9.9325278
+	},
+	"323197989": {
+		"type": "backeb",
+		"period": 7.1578262
+	},
+	"329071596": {
+		"type": "backeb",
+		"period": 5.4994549
+	},
+	"349360612": {
+		"type": "backeb",
+		"period": 7.8310135
+	},
+	"393634931": {
+		"type": "backeb",
+		"period": 7.3851681
+	},
+	"393635379": {
+		"type": "backeb",
+		"period": 2.4554504
+	},
+	"393651196": {
+		"type": "backeb",
+		"period": 2.0172803
+	},
+	"459277157": {
+		"type": "backeb",
+		"period": 7.2646335
+	},
+	"142699183": {
+		"type": "backeb",
+		"period": 4.4656668
+	},
+	"143038128": {
+		"type": "backeb",
+		"period": 6.8334766
+	},
+	"150447715": {
+		"type": "backeb",
+		"period": 2.11246
+	},
+	"150447745": {
+		"type": "backeb",
+		"period": 9.7843448
+	},
+	"154666114": {
+		"type": "backeb",
+		"period": 8.7715923
+	},
+	"232600262": {
+		"type": "backeb",
+		"period": 2.1604276
+	},
+	"232600627": {
+		"type": "backeb",
+		"period": 2.883308
+	},
+	"233687241": {
+		"type": "backeb",
+		"period": 4.5412326
+	},
+	"263661282": {
+		"type": "backeb",
+		"period": 9.7293141
+	},
+	"276997047": {
+		"type": "backeb",
+		"period": 7.2302435
+	},
+	"287181435": {
+		"type": "backeb",
+		"period": 3.7192332
+	},
+	"287182679": {
+		"type": "backeb",
+		"period": 6.0506236
+	},
+	"291161401": {
+		"type": "backeb",
+		"period": 9.2965665
+	},
+	"291165378": {
+		"type": "backeb",
+		"period": 6.8471062
+	},
+	"298464094": {
+		"type": "backeb",
+		"period": 4.640345
+	},
+	"310631037": {
+		"type": "backeb",
+		"period": 7.9928724
+	},
+	"315721371": {
+		"type": "backeb",
+		"period": 6.4883634
+	},
+	"337516584": {
+		"type": "backeb",
+		"period": 5.6985198
+	},
+	"341306982": {
+		"type": "backeb",
+		"period": 5.1021996
+	},
+	"349529622": {
+		"type": "backeb",
+		"period": 8.1571782
+	},
+	"353181984": {
+		"type": "backeb",
+		"period": 8.869036
+	},
+	"353288044": {
+		"type": "backeb",
+		"period": 3.2382856
+	},
+	"369041534": {
+		"type": "backeb",
+		"period": 6.0146704
+	},
+	"369079144": {
+		"type": "backeb",
+		"period": 9.5255108
+	},
+	"392463863": {
+		"type": "backeb",
+		"period": 7.7815003
+	},
+	"392473608": {
+		"type": "backeb",
+		"period": 2.9771523
+	},
+	"459312976": {
+		"type": "backeb",
+		"period": 6.3224384
+	},
+	"459492551": {
+		"type": "backeb",
+		"period": 9.193961
+	},
+	"8347908": {
+		"type": "backeb",
+		"period": 3.0943409
+	},
+	"8417113": {
+		"type": "backeb",
+		"period": 8.1443304
+	},
+	"29384129": {
+		"type": "backeb",
+		"period": 3.48299
+	},
+	"29385858": {
+		"type": "backeb",
+		"period": 5.3916227
+	},
+	"29386246": {
+		"type": "backeb",
+		"period": 6.4266538
+	},
+	"29395460": {
+		"type": "backeb",
+		"period": 6.8823627
+	},
+	"39814018": {
+		"type": "backeb",
+		"period": 9.7923127
+	},
+	"39826447": {
+		"type": "backeb",
+		"period": 5.980162
+	},
+	"39829781": {
+		"type": "backeb",
+		"period": 3.9309551
+	},
+	"39947103": {
+		"type": "backeb",
+		"period": 8.4433949
+	},
+	"40050264": {
+		"type": "backeb",
+		"period": 9.5243808
+	},
+	"57229533": {
+		"type": "backeb",
+		"period": 6.6222805
+	},
+	"57231454": {
+		"type": "backeb",
+		"period": 2.1823363
+	},
+	"57300042": {
+		"type": "backeb",
+		"period": 4.7353023
+	},
+	"68873996": {
+		"type": "backeb",
+		"period": 2.2257569
+	},
+	"68900724": {
+		"type": "backeb",
+		"period": 5.6329552
+	},
+	"115118082": {
+		"type": "backeb",
+		"period": 8.6780654
+	},
+	"115182462": {
+		"type": "backeb",
+		"period": 2.427668
+	},
+	"115185040": {
+		"type": "backeb",
+		"period": 7.1128776
+	},
+	"115422050": {
+		"type": "backeb",
+		"period": 3.5035427
+	},
+	"157364190": {
+		"type": "backeb",
+		"period": 5.0932183
+	},
+	"157419795": {
+		"type": "backeb",
+		"period": 3.7350329
+	},
+	"193554699": {
+		"type": "backeb",
+		"period": 8.4582268
+	},
+	"219483057": {
+		"type": "backeb",
+		"period": 4.0390288
+	},
+	"219502060": {
+		"type": "backeb",
+		"period": 5.8449595
+	},
+	"219502124": {
+		"type": "backeb",
+		"period": 7.1349646
+	},
+	"229669377": {
+		"type": "backeb",
+		"period": 4.3485986
+	},
+	"255909268": {
+		"type": "backeb",
+		"period": 3.5111979
+	},
+	"255926349": {
+		"type": "backeb",
+		"period": 2.3052896
+	},
+	"255929744": {
+		"type": "backeb",
+		"period": 2.3356687
+	},
+	"310561395": {
+		"type": "backeb",
+		"period": 3.2161825
+	},
+	"376664523": {
+		"type": "backeb",
+		"period": 3.0095113
+	},
+	"9569332": {
+		"type": "backeb",
+		"period": 3.9256305
+	},
+	"18315172": {
+		"type": "backeb",
+		"period": 9.6045754
+	},
+	"18532769": {
+		"type": "backeb",
+		"period": 2.7304814
+	},
+	"21680594": {
+		"type": "backeb",
+		"period": 5.8953361
+	},
+	"39464221": {
+		"type": "backeb",
+		"period": 7.7735718
+	},
+	"39548187": {
+		"type": "backeb",
+		"period": 4.2894027
+	},
+	"82451545": {
+		"type": "backeb",
+		"period": 7.6331596
+	},
+	"85521583": {
+		"type": "backeb",
+		"period": 6.242198
+	},
+	"88764768": {
+		"type": "backeb",
+		"period": 8.2925533
+	},
+	"88932244": {
+		"type": "backeb",
+		"period": 6.188414
+	},
+	"88935941": {
+		"type": "backeb",
+		"period": 6.9905463
+	},
+	"88937176": {
+		"type": "backeb",
+		"period": 5.105207
+	},
+	"101878003": {
+		"type": "backeb",
+		"period": 3.8665611
+	},
+	"116160942": {
+		"type": "backeb",
+		"period": 7.8938011
+	},
+	"157420418": {
+		"type": "backeb",
+		"period": 4.7312346
+	},
+	"198582674": {
+		"type": "backeb",
+		"period": 5.7187109
+	},
+	"198583007": {
+		"type": "backeb",
+		"period": 8.4882896
+	},
+	"219081149": {
+		"type": "backeb",
+		"period": 9.5866401
+	},
+	"298318478": {
+		"type": "backeb",
+		"period": 3.3995606
+	},
+	"7620157": {
+		"type": "backeb",
+		"period": 2.867151
+	},
+	"21147900": {
+		"type": "backeb",
+		"period": 2.8435559
+	},
+	"164306086": {
+		"type": "backeb",
+		"period": 4.2380122
+	},
+	"164373959": {
+		"type": "backeb",
+		"period": 5.6197754
+	},
+	"188641597": {
+		"type": "backeb",
+		"period": 3.1382834
+	},
+	"188664810": {
+		"type": "backeb",
+		"period": 4.3644532
+	},
+	"188768959": {
+		"type": "backeb",
+		"period": 5.5505917
+	},
+	"188826124": {
+		"type": "backeb",
+		"period": 7.4546271
+	},
+	"193679683": {
+		"type": "backeb",
+		"period": 9.8859105
+	},
+	"193726325": {
+		"type": "backeb",
+		"period": 7.4950249
+	},
+	"193823849": {
+		"type": "backeb",
+		"period": 2.7384413
+	},
+	"198418265": {
+		"type": "backeb",
+		"period": 7.8060509
+	},
+	"219081962": {
+		"type": "backeb",
+		"period": 5.4420308
+	},
+	"229684206": {
+		"type": "backeb",
+		"period": 7.1092983
+	},
+	"270320764": {
+		"type": "backeb",
+		"period": 3.6541491
+	},
+	"285013308": {
+		"type": "backeb",
+		"period": 4.5306092
+	},
+	"298554479": {
+		"type": "backeb",
+		"period": 9.4285357
+	},
+	"298645086": {
+		"type": "backeb",
+		"period": 8.0940197
+	},
+	"308070376": {
+		"type": "backeb",
+		"period": 5.4789914
+	},
+	"334835095": {
+		"type": "backeb",
+		"period": 5.3384865
+	},
+	"334856149": {
+		"type": "backeb",
+		"period": 6.2829395
+	},
+	"356147266": {
+		"type": "backeb",
+		"period": 4.1415607
+	},
+	"356347230": {
+		"type": "backeb",
+		"period": 4.1661299
+	},
+	"416105907": {
+		"type": "backeb",
+		"period": 9.1277404
+	},
+	"115286121": {
+		"type": "backeb",
+		"period": 3.6812385
+	},
+	"115420275": {
+		"type": "backeb",
+		"period": 7.7764841
+	},
+	"115448032": {
+		"type": "backeb",
+		"period": 8.1170592
+	},
+	"115582906": {
+		"type": "backeb",
+		"period": 7.9463936
+	},
+	"115582908": {
+		"type": "backeb",
+		"period": 9.4871871
+	},
+	"159941208": {
+		"type": "backeb",
+		"period": 9.9454496
+	},
+	"159971684": {
+		"type": "backeb",
+		"period": 4.9630128
+	},
+	"161821165": {
+		"type": "backeb",
+		"period": 4.098719
+	},
+	"162519062": {
+		"type": "backeb",
+		"period": 7.4470357
+	},
+	"162631089": {
+		"type": "backeb",
+		"period": 9.4726118
+	},
+	"198358937": {
+		"type": "backeb",
+		"period": 2.5451469
+	},
+	"199667470": {
+		"type": "backeb",
+		"period": 2.2194698
+	},
+	"224602141": {
+		"type": "backeb",
+		"period": 5.1918088
+	},
+	"230229037": {
+		"type": "backeb",
+		"period": 7.5389281
+	},
+	"274201557": {
+		"type": "backeb",
+		"period": 8.965126
+	},
+	"274202581": {
+		"type": "backeb",
+		"period": 8.5863455
+	},
+	"274335096": {
+		"type": "backeb",
+		"period": 8.7742534
+	},
+	"274384497": {
+		"type": "backeb",
+		"period": 8.6442072
+	},
+	"274456131": {
+		"type": "backeb",
+		"period": 6.2040693
+	},
+	"274456366": {
+		"type": "backeb",
+		"period": 4.8879274
+	},
+	"274457752": {
+		"type": "backeb",
+		"period": 8.2030481
+	},
+	"274485819": {
+		"type": "backeb",
+		"period": 5.4578348
+	},
+	"274555165": {
+		"type": "backeb",
+		"period": 5.9200288
+	},
+	"274574873": {
+		"type": "backeb",
+		"period": 9.1796107
+	},
+	"274624857": {
+		"type": "backeb",
+		"period": 3.0187451
+	},
+	"274696123": {
+		"type": "backeb",
+		"period": 3.5544247
+	},
+	"274725694": {
+		"type": "backeb",
+		"period": 9.5718223
+	},
+	"417570430": {
+		"type": "backeb",
+		"period": 5.4512786
+	},
+	"417570441": {
+		"type": "backeb",
+		"period": 2.0569903
+	},
+	"198179329": {
+		"type": "backeb",
+		"period": 7.1687421
+	},
+	"198180046": {
+		"type": "backeb",
+		"period": 5.6707516
+	},
+	"198180316": {
+		"type": "backeb",
+		"period": 7.2732009
+	},
+	"198183990": {
+		"type": "backeb",
+		"period": 3.5659841
+	},
+	"198187008": {
+		"type": "backeb",
+		"period": 6.7102493
+	},
+	"198189245": {
+		"type": "backeb",
+		"period": 6.3966245
+	},
+	"198207449": {
+		"type": "backeb",
+		"period": 5.3630259
+	},
+	"198236749": {
+		"type": "backeb",
+		"period": 3.0981604
+	},
+	"198238482": {
+		"type": "backeb",
+		"period": 9.0240285
+	},
+	"198239119": {
+		"type": "backeb",
+		"period": 3.1581916
+	},
+	"198241105": {
+		"type": "backeb",
+		"period": 7.2844101
+	},
+	"198241702": {
+		"type": "backeb",
+		"period": 4.0955341
+	},
+	"198278974": {
+		"type": "backeb",
+		"period": 7.0858501
+	},
+	"198279926": {
+		"type": "backeb",
+		"period": 3.572377
+	},
+	"198281945": {
+		"type": "backeb",
+		"period": 6.8941895
+	},
+	"198354123": {
+		"type": "backeb",
+		"period": 2.8502883
+	},
+	"198356747": {
+		"type": "backeb",
+		"period": 9.4251245
+	},
+	"198362230": {
+		"type": "backeb",
+		"period": 8.8406821
+	},
+	"198412375": {
+		"type": "backeb",
+		"period": 8.0062759
+	},
+	"198415479": {
+		"type": "backeb",
+		"period": 6.4763633
+	},
+	"199550102": {
+		"type": "backeb",
+		"period": 9.835342
+	},
+	"199572752": {
+		"type": "backeb",
+		"period": 7.0565055
+	},
+	"199607786": {
+		"type": "backeb",
+		"period": 9.4320095
+	},
+	"199617389": {
+		"type": "backeb",
+		"period": 9.0339217
+	},
+	"199685280": {
+		"type": "backeb",
+		"period": 6.0540605
+	},
+	"199688541": {
+		"type": "backeb",
+		"period": 3.8557685
+	},
+	"199709310": {
+		"type": "backeb",
+		"period": 3.7420544
+	},
+	"199710426": {
+		"type": "backeb",
+		"period": 2.3827506
+	},
+	"199712572": {
+		"type": "backeb",
+		"period": 2.690243
+	},
+	"199716041": {
+		"type": "backeb",
+		"period": 8.9624739
+	},
+	"199716119": {
+		"type": "backeb",
+		"period": 6.2336061
+	},
+	"207504919": {
+		"type": "backeb",
+		"period": 9.2834345
+	},
+	"219429107": {
+		"type": "backeb",
+		"period": 3.6509779
+	},
+	"219739842": {
+		"type": "backeb",
+		"period": 6.9035143
+	},
+	"219740029": {
+		"type": "backeb",
+		"period": 5.6953602
+	},
+	"219750509": {
+		"type": "backeb",
+		"period": 7.5216912
+	},
+	"219756350": {
+		"type": "backeb",
+		"period": 5.1821905
+	},
+	"219761134": {
+		"type": "backeb",
+		"period": 6.2924382
+	},
+	"219763766": {
+		"type": "backeb",
+		"period": 2.2844249
+	},
+	"219766063": {
+		"type": "backeb",
+		"period": 3.0022013
+	},
+	"219773482": {
+		"type": "backeb",
+		"period": 5.1863132
+	},
+	"219773495": {
+		"type": "backeb",
+		"period": 5.8751905
+	},
+	"219778840": {
+		"type": "backeb",
+		"period": 4.7234033
+	},
+	"219787696": {
+		"type": "backeb",
+		"period": 9.4256399
+	},
+	"219790753": {
+		"type": "backeb",
+		"period": 5.9122298
+	},
+	"219795187": {
+		"type": "backeb",
+		"period": 2.9311874
+	},
+	"219800245": {
+		"type": "backeb",
+		"period": 2.8491131
+	},
+	"219814280": {
+		"type": "backeb",
+		"period": 4.9729978
+	},
+	"219851990": {
+		"type": "backeb",
+		"period": 5.0982659
+	},
+	"219865662": {
+		"type": "backeb",
+		"period": 3.6407163
+	},
+	"219898822": {
+		"type": "backeb",
+		"period": 5.6622297
+	},
+	"224601538": {
+		"type": "backeb",
+		"period": 6.9749482
+	},
+	"224601767": {
+		"type": "backeb",
+		"period": 5.2361924
+	},
+	"230068332": {
+		"type": "backeb",
+		"period": 9.3651903
+	},
+	"230075670": {
+		"type": "backeb",
+		"period": 4.7703648
+	},
+	"230086768": {
+		"type": "backeb",
+		"period": 2.1506309
+	},
+	"230112674": {
+		"type": "backeb",
+		"period": 9.8937152
+	},
+	"230113220": {
+		"type": "backeb",
+		"period": 3.7807519
+	},
+	"230119055": {
+		"type": "backeb",
+		"period": 7.1239284
+	},
+	"230120344": {
+		"type": "backeb",
+		"period": 2.063626
+	},
+	"230128789": {
+		"type": "backeb",
+		"period": 2.8194218
+	},
+	"230129085": {
+		"type": "backeb",
+		"period": 9.0226139
+	},
+	"230129433": {
+		"type": "backeb",
+		"period": 9.3827353
+	},
+	"230129453": {
+		"type": "backeb",
+		"period": 7.8531877
+	},
+	"230133178": {
+		"type": "backeb",
+		"period": 8.5136883
+	},
+	"232605810": {
+		"type": "backeb",
+		"period": 9.5126201
+	},
+	"232607175": {
+		"type": "backeb",
+		"period": 8.1694701
+	},
+	"232611725": {
+		"type": "backeb",
+		"period": 5.9011865
+	},
+	"233201728": {
+		"type": "backeb",
+		"period": 4.2755594
+	},
+	"233210206": {
+		"type": "backeb",
+		"period": 4.7249307
+	},
+	"233237200": {
+		"type": "backeb",
+		"period": 3.4527549
+	},
+	"233657572": {
+		"type": "backeb",
+		"period": 6.5995451
+	},
+	"233678883": {
+		"type": "backeb",
+		"period": 7.3144184
+	},
+	"233679006": {
+		"type": "backeb",
+		"period": 9.7816742
+	},
+	"233684822": {
+		"type": "backeb",
+		"period": 3.1206089
+	},
+	"236711877": {
+		"type": "backeb",
+		"period": 5.6390244
+	},
+	"237097063": {
+		"type": "backeb",
+		"period": 3.8889049
+	},
+	"237099296": {
+		"type": "backeb",
+		"period": 6.8710116
+	},
+	"237102443": {
+		"type": "backeb",
+		"period": 7.0872368
+	},
+	"237102603": {
+		"type": "backeb",
+		"period": 7.5062142
+	},
+	"287079685": {
+		"type": "backeb",
+		"period": 6.202189
+	},
+	"287079688": {
+		"type": "backeb",
+		"period": 3.592066
+	},
+	"287137539": {
+		"type": "backeb",
+		"period": 4.9673767
+	},
+	"287151388": {
+		"type": "backeb",
+		"period": 5.1214667
+	},
+	"289538241": {
+		"type": "backeb",
+		"period": 2.1751734
+	},
+	"289538829": {
+		"type": "backeb",
+		"period": 5.9865379
+	},
+	"289572073": {
+		"type": "backeb",
+		"period": 2.8626389
+	},
+	"289580053": {
+		"type": "backeb",
+		"period": 8.5415213
+	},
+	"289580340": {
+		"type": "backeb",
+		"period": 5.6991196
+	},
+	"289624192": {
+		"type": "backeb",
+		"period": 3.1696964
+	},
+	"307956095": {
+		"type": "backeb",
+		"period": 6.6913742
+	},
+	"334832800": {
+		"type": "backeb",
+		"period": 8.0252344
+	},
+	"424730553": {
+		"type": "backeb",
+		"period": 6.9286526
+	},
+	"424731063": {
+		"type": "backeb",
+		"period": 6.9873282
+	},
+	"459968742": {
+		"type": "backeb",
+		"period": 6.8762985
+	},
+	"459969736": {
+		"type": "backeb",
+		"period": 3.182948
+	},
+	"459976095": {
+		"type": "backeb",
+		"period": 5.3047217
+	},
+	"459979638": {
+		"type": "backeb",
+		"period": 9.2568315
+	},
+	"462614871": {
+		"type": "backeb",
+		"period": 9.2533254
+	},
+	"462614973": {
+		"type": "backeb",
+		"period": 3.8591194
+	},
+	"47756300": {
+		"type": "backeb",
+		"period": 5.597557
+	},
+	"165500941": {
+		"type": "backeb",
+		"period": 5.9443787
+	},
+	"165501015": {
+		"type": "backeb",
+		"period": 6.4665093
+	},
+	"165502173": {
+		"type": "backeb",
+		"period": 3.5054162
+	},
+	"165529438": {
+		"type": "backeb",
+		"period": 5.5543015
+	},
+	"165549607": {
+		"type": "backeb",
+		"period": 2.4895032
+	},
+	"165553836": {
+		"type": "backeb",
+		"period": 7.2332895
+	},
+	"219810391": {
+		"type": "backeb",
+		"period": 6.940406
+	},
+	"219816559": {
+		"type": "backeb",
+		"period": 7.849764
+	},
+	"219822134": {
+		"type": "backeb",
+		"period": 3.1579748
+	},
+	"229683084": {
+		"type": "backeb",
+		"period": 4.6706307
+	},
+	"229686000": {
+		"type": "backeb",
+		"period": 7.176667
+	},
+	"229687337": {
+		"type": "backeb",
+		"period": 2.046913
+	},
+	"229687684": {
+		"type": "backeb",
+		"period": 8.3430393
+	},
+	"230383226": {
+		"type": "backeb",
+		"period": 5.4542666
+	},
+	"232617092": {
+		"type": "backeb",
+		"period": 8.1073066
+	},
+	"232625666": {
+		"type": "backeb",
+		"period": 8.7179622
+	},
+	"232637510": {
+		"type": "backeb",
+		"period": 2.3310977
+	},
+	"232637613": {
+		"type": "backeb",
+		"period": 2.5144112
+	},
+	"232672408": {
+		"type": "backeb",
+		"period": 5.6733573
+	},
+	"232673849": {
+		"type": "backeb",
+		"period": 4.2505881
+	},
+	"232681415": {
+		"type": "backeb",
+		"period": 2.4514425
+	},
+	"232682645": {
+		"type": "backeb",
+		"period": 6.4244087
+	},
+	"233047879": {
+		"type": "backeb",
+		"period": 2.8867389
+	},
+	"233051098": {
+		"type": "backeb",
+		"period": 3.1054787
+	},
+	"233063693": {
+		"type": "backeb",
+		"period": 8.4339035
+	},
+	"233063737": {
+		"type": "backeb",
+		"period": 6.4744777
+	},
+	"233064353": {
+		"type": "backeb",
+		"period": 7.2566499
+	},
+	"233065452": {
+		"type": "backeb",
+		"period": 9.7253989
+	},
+	"233080908": {
+		"type": "backeb",
+		"period": 2.3237317
+	},
+	"233123014": {
+		"type": "backeb",
+		"period": 3.1923116
+	},
+	"233127400": {
+		"type": "backeb",
+		"period": 7.9644413
+	},
+	"233129260": {
+		"type": "backeb",
+		"period": 9.9519111
+	},
+	"233131347": {
+		"type": "backeb",
+		"period": 7.2487037
+	},
+	"233154324": {
+		"type": "backeb",
+		"period": 3.5253458
+	},
+	"233535694": {
+		"type": "backeb",
+		"period": 4.9820961
+	},
+	"233571764": {
+		"type": "backeb",
+		"period": 8.1666904
+	},
+	"233579270": {
+		"type": "backeb",
+		"period": 2.5953071
+	},
+	"233688779": {
+		"type": "backeb",
+		"period": 8.5626948
+	},
+	"233691740": {
+		"type": "backeb",
+		"period": 4.7747645
+	},
+	"233693324": {
+		"type": "backeb",
+		"period": 3.8217625
+	},
+	"233728632": {
+		"type": "backeb",
+		"period": 6.0751391
+	},
+	"233740210": {
+		"type": "backeb",
+		"period": 4.1427197
+	},
+	"236785361": {
+		"type": "backeb",
+		"period": 6.9857101
+	},
+	"237117193": {
+		"type": "backeb",
+		"period": 8.4560474
+	},
+	"243286514": {
+		"type": "backeb",
+		"period": 6.3734404
+	},
+	"243296938": {
+		"type": "backeb",
+		"period": 8.2737193
+	},
+	"243336701": {
+		"type": "backeb",
+		"period": 5.0303217
+	},
+	"275691171": {
+		"type": "backeb",
+		"period": 5.7700846
+	},
+	"298664976": {
+		"type": "backeb",
+		"period": 3.5764591
+	},
+	"298665496": {
+		"type": "backeb",
+		"period": 3.7146761
+	},
+	"298735044": {
+		"type": "backeb",
+		"period": 9.8496413
+	},
+	"320525039": {
+		"type": "backeb",
+		"period": 9.7319595
+	},
+	"329173835": {
+		"type": "backeb",
+		"period": 6.3622371
+	},
+	"329249069": {
+		"type": "backeb",
+		"period": 4.0911977
+	},
+	"332476022": {
+		"type": "backeb",
+		"period": 7.1475417
+	},
+	"332504630": {
+		"type": "backeb",
+		"period": 7.4957783
+	},
+	"341816295": {
+		"type": "backeb",
+		"period": 3.0796684
+	},
+	"341840666": {
+		"type": "backeb",
+		"period": 2.8533959
+	},
+	"353731093": {
+		"type": "backeb",
+		"period": 6.9587417
+	},
+	"353736316": {
+		"type": "backeb",
+		"period": 6.4857307
+	},
+	"353808559": {
+		"type": "backeb",
+		"period": 7.3980814
+	},
+	"353818863": {
+		"type": "backeb",
+		"period": 6.2040473
+	},
+	"353854057": {
+		"type": "backeb",
+		"period": 5.670981
+	},
+	"353854814": {
+		"type": "backeb",
+		"period": 6.6123659
+	},
+	"353875915": {
+		"type": "backeb",
+		"period": 5.5104387
+	},
+	"353936074": {
+		"type": "backeb",
+		"period": 5.7792847
+	},
+	"353987889": {
+		"type": "backeb",
+		"period": 3.9395773
+	},
+	"353990274": {
+		"type": "backeb",
+		"period": 3.1126615
+	},
+	"356893105": {
+		"type": "backeb",
+		"period": 9.1938354
+	},
+	"356894414": {
+		"type": "backeb",
+		"period": 7.9402785
+	},
+	"356895671": {
+		"type": "backeb",
+		"period": 9.154911
+	},
+	"356918522": {
+		"type": "backeb",
+		"period": 2.7271239
+	},
+	"356919188": {
+		"type": "backeb",
+		"period": 5.0239901
+	},
+	"356975864": {
+		"type": "backeb",
+		"period": 7.95275
+	},
+	"356979095": {
+		"type": "backeb",
+		"period": 5.6211054
+	},
+	"357034031": {
+		"type": "backeb",
+		"period": 4.9775951
+	},
+	"357127533": {
+		"type": "backeb",
+		"period": 8.8435642
+	},
+	"357596668": {
+		"type": "backeb",
+		"period": 9.0776731
+	},
+	"359388606": {
+		"type": "backeb",
+		"period": 2.8103717
+	},
+	"359584385": {
+		"type": "backeb",
+		"period": 2.4464633
+	},
+	"359589842": {
+		"type": "backeb",
+		"period": 6.8223329
+	},
+	"376976106": {
+		"type": "backeb",
+		"period": 8.1705338
+	},
+	"377054253": {
+		"type": "backeb",
+		"period": 3.6997756
+	},
+	"377254390": {
+		"type": "backeb",
+		"period": 3.3834815
+	},
+	"377292202": {
+		"type": "backeb",
+		"period": 5.4819941
+	},
+	"389966422": {
+		"type": "backeb",
+		"period": 7.0694957
+	},
+	"390018807": {
+		"type": "backeb",
+		"period": 3.5551743
+	},
+	"390021497": {
+		"type": "backeb",
+		"period": 8.2820801
+	},
+	"399787737": {
+		"type": "backeb",
+		"period": 3.4895761
+	},
+	"416195643": {
+		"type": "backeb",
+		"period": 7.7185955
+	},
+	"229398682": {
+		"type": "backeb",
+		"period": 8.0933545
+	},
+	"229412511": {
+		"type": "backeb",
+		"period": 5.7816018
+	},
+	"229445508": {
+		"type": "backeb",
+		"period": 8.350288
+	},
+	"229446305": {
+		"type": "backeb",
+		"period": 3.7982747
+	},
+	"229473874": {
+		"type": "backeb",
+		"period": 9.9896541
+	},
+	"229490055": {
+		"type": "backeb",
+		"period": 4.5120153
+	},
+	"229710564": {
+		"type": "backeb",
+		"period": 9.7297723
+	},
+	"229710567": {
+		"type": "backeb",
+		"period": 9.1532316
+	},
+	"229739389": {
+		"type": "backeb",
+		"period": 9.4939463
+	},
+	"229739776": {
+		"type": "backeb",
+		"period": 2.9224874
+	},
+	"229742951": {
+		"type": "backeb",
+		"period": 4.6465232
+	},
+	"229749709": {
+		"type": "backeb",
+		"period": 4.3672965
+	},
+	"229765505": {
+		"type": "backeb",
+		"period": 2.2256694
+	},
+	"229765885": {
+		"type": "backeb",
+		"period": 2.4593619
+	},
+	"229774503": {
+		"type": "backeb",
+		"period": 3.3280666
+	},
+	"229776748": {
+		"type": "backeb",
+		"period": 2.7265097
+	},
+	"229777671": {
+		"type": "backeb",
+		"period": 8.6604731
+	},
+	"229781304": {
+		"type": "backeb",
+		"period": 8.3038411
+	},
+	"229782543": {
+		"type": "backeb",
+		"period": 6.6924406
+	},
+	"229782843": {
+		"type": "backeb",
+		"period": 3.4301099
+	},
+	"229788552": {
+		"type": "backeb",
+		"period": 8.9846663
+	},
+	"229796890": {
+		"type": "backeb",
+		"period": 4.8761548
+	},
+	"229798535": {
+		"type": "backeb",
+		"period": 8.8071051
+	},
+	"229912335": {
+		"type": "backeb",
+		"period": 5.8046007
+	},
+	"229938859": {
+		"type": "backeb",
+		"period": 8.2539999
+	},
+	"229939499": {
+		"type": "backeb",
+		"period": 5.9897157
+	},
+	"229950023": {
+		"type": "backeb",
+		"period": 6.7845437
+	},
+	"229955051": {
+		"type": "backeb",
+		"period": 8.113613
+	},
+	"229960462": {
+		"type": "backeb",
+		"period": 4.1801336
+	},
+	"229963053": {
+		"type": "backeb",
+		"period": 9.0893462
+	},
+	"229973176": {
+		"type": "backeb",
+		"period": 4.2664548
+	},
+	"230010430": {
+		"type": "backeb",
+		"period": 4.8125668
+	},
+	"230011056": {
+		"type": "backeb",
+		"period": 3.0021953
+	},
+	"230016050": {
+		"type": "backeb",
+		"period": 7.6892836
+	},
+	"230028622": {
+		"type": "backeb",
+		"period": 9.9656259
+	},
+	"230381544": {
+		"type": "backeb",
+		"period": 8.3135313
+	},
+	"230391988": {
+		"type": "backeb",
+		"period": 6.4150773
+	},
+	"230395127": {
+		"type": "backeb",
+		"period": 3.8858379
+	},
+	"233576027": {
+		"type": "backeb",
+		"period": 3.375549
+	},
+	"233576098": {
+		"type": "backeb",
+		"period": 9.576442
+	},
+	"233576190": {
+		"type": "backeb",
+		"period": 9.3788548
+	},
+	"233577023": {
+		"type": "backeb",
+		"period": 6.045956
+	},
+	"235680194": {
+		"type": "backeb",
+		"period": 3.2129379
+	},
+	"236770208": {
+		"type": "backeb",
+		"period": 4.6563828
+	},
+	"237200542": {
+		"type": "backeb",
+		"period": 8.1811622
+	},
+	"237217345": {
+		"type": "backeb",
+		"period": 4.2834661
+	},
+	"237231118": {
+		"type": "backeb",
+		"period": 4.2913158
+	},
+	"237234494": {
+		"type": "backeb",
+		"period": 7.857727
+	},
+	"237278708": {
+		"type": "backeb",
+		"period": 2.3171605
+	},
+	"237279259": {
+		"type": "backeb",
+		"period": 9.3270695
+	},
+	"255869354": {
+		"type": "backeb",
+		"period": 9.3489201
+	},
+	"256299688": {
+		"type": "backeb",
+		"period": 3.7337998
+	},
+	"256322972": {
+		"type": "backeb",
+		"period": 7.1229051
+	},
+	"256379705": {
+		"type": "backeb",
+		"period": 9.0730511
+	},
+	"258351789": {
+		"type": "backeb",
+		"period": 4.6448608
+	},
+	"258353762": {
+		"type": "backeb",
+		"period": 3.0383395
+	},
+	"258701815": {
+		"type": "backeb",
+		"period": 3.0278606
+	},
+	"258802094": {
+		"type": "backeb",
+		"period": 8.279854
+	},
+	"258827509": {
+		"type": "backeb",
+		"period": 7.6039996
+	},
+	"258830281": {
+		"type": "backeb",
+		"period": 8.7329501
+	},
+	"258830544": {
+		"type": "backeb",
+		"period": 5.9867669
+	},
+	"258872498": {
+		"type": "backeb",
+		"period": 6.2139209
+	},
+	"258874985": {
+		"type": "backeb",
+		"period": 4.6748587
+	},
+	"258924113": {
+		"type": "backeb",
+		"period": 7.9071524
+	},
+	"258958321": {
+		"type": "backeb",
+		"period": 4.2251892
+	},
+	"259002586": {
+		"type": "backeb",
+		"period": 8.7685387
+	},
+	"259004487": {
+		"type": "backeb",
+		"period": 3.2376683
+	},
+	"259132248": {
+		"type": "backeb",
+		"period": 6.6652129
+	},
+	"259264943": {
+		"type": "backeb",
+		"period": 7.6374136
+	},
+	"259270741": {
+		"type": "backeb",
+		"period": 2.8287385
+	},
+	"264173786": {
+		"type": "backeb",
+		"period": 8.4636866
+	},
+	"264217730": {
+		"type": "backeb",
+		"period": 4.1355968
+	},
+	"264250274": {
+		"type": "backeb",
+		"period": 8.966702
+	},
+	"267544546": {
+		"type": "backeb",
+		"period": 5.184824
+	},
+	"268055613": {
+		"type": "backeb",
+		"period": 5.5511117
+	},
+	"269660379": {
+		"type": "backeb",
+		"period": 2.4500173
+	},
+	"275689069": {
+		"type": "backeb",
+		"period": 6.5292793
+	},
+	"280033505": {
+		"type": "backeb",
+		"period": 9.5048869
+	},
+	"280035613": {
+		"type": "backeb",
+		"period": 8.8187118
+	},
+	"280068709": {
+		"type": "backeb",
+		"period": 6.6357066
+	},
+	"280074385": {
+		"type": "backeb",
+		"period": 2.9176858
+	},
+	"326258261": {
+		"type": "backeb",
+		"period": 7.3461187
+	},
+	"356868754": {
+		"type": "backeb",
+		"period": 8.1601166
+	},
+	"356871721": {
+		"type": "backeb",
+		"period": 4.1568929
+	},
+	"362226204": {
+		"type": "backeb",
+		"period": 5.4792937
+	},
+	"362226269": {
+		"type": "backeb",
+		"period": 5.9099771
+	},
+	"366435680": {
+		"type": "backeb",
+		"period": 8.0517822
+	},
+	"366490487": {
+		"type": "backeb",
+		"period": 6.2812856
+	},
+	"394130811": {
+		"type": "backeb",
+		"period": 4.6939021
+	},
+	"406857185": {
+		"type": "backeb",
+		"period": 7.7562057
+	},
+	"417701650": {
+		"type": "backeb",
+		"period": 3.9050777
+	},
+	"417735367": {
+		"type": "backeb",
+		"period": 9.4689619
+	},
+	"420108885": {
+		"type": "backeb",
+		"period": 9.8870862
+	},
+	"420112589": {
+		"type": "backeb",
+		"period": 6.6705617
+	},
+	"420113738": {
+		"type": "backeb",
+		"period": 9.5141745
+	},
+	"420131865": {
+		"type": "backeb",
+		"period": 5.0334976
+	},
+	"420132498": {
+		"type": "backeb",
+		"period": 9.6292728
+	},
+	"420136809": {
+		"type": "backeb",
+		"period": 9.8440847
+	},
+	"420137596": {
+		"type": "backeb",
+		"period": 6.235892
+	},
+	"467288726": {
+		"type": "backeb",
+		"period": 4.3063325
+	},
+	"160551155": {
+		"type": "backeb",
+		"period": 3.1256839
+	},
+	"160551168": {
+		"type": "backeb",
+		"period": 7.2499693
+	},
+	"160583286": {
+		"type": "backeb",
+		"period": 6.3585469
+	},
+	"160583426": {
+		"type": "backeb",
+		"period": 8.2641925
+	},
+	"160601181": {
+		"type": "backeb",
+		"period": 8.1152643
+	},
+	"160601786": {
+		"type": "backeb",
+		"period": 4.982482
+	},
+	"160602372": {
+		"type": "backeb",
+		"period": 3.2664836
+	},
+	"219096713": {
+		"type": "backeb",
+		"period": 6.02476
+	},
+	"219104773": {
+		"type": "backeb",
+		"period": 4.828777
+	},
+	"219109297": {
+		"type": "backeb",
+		"period": 8.8200876
+	},
+	"219118188": {
+		"type": "backeb",
+		"period": 3.2762046
+	},
+	"219854401": {
+		"type": "backeb",
+		"period": 3.5289891
+	},
+	"219863672": {
+		"type": "backeb",
+		"period": 7.6333824
+	},
+	"219864648": {
+		"type": "backeb",
+		"period": 2.2308468
+	},
+	"219864655": {
+		"type": "backeb",
+		"period": 6.284168
+	},
+	"219871477": {
+		"type": "backeb",
+		"period": 6.374488
+	},
+	"219878689": {
+		"type": "backeb",
+		"period": 5.2881447
+	},
+	"219882508": {
+		"type": "backeb",
+		"period": 8.4125922
+	},
+	"219897487": {
+		"type": "backeb",
+		"period": 2.01062
+	},
+	"229581256": {
+		"type": "backeb",
+		"period": 8.2976398
+	},
+	"229581728": {
+		"type": "backeb",
+		"period": 8.7622565
+	},
+	"229582596": {
+		"type": "backeb",
+		"period": 3.419238
+	},
+	"229583294": {
+		"type": "backeb",
+		"period": 7.2140368
+	},
+	"229584815": {
+		"type": "backeb",
+		"period": 5.0251513
+	},
+	"229586455": {
+		"type": "backeb",
+		"period": 3.1013713
+	},
+	"229586495": {
+		"type": "backeb",
+		"period": 8.9565912
+	},
+	"229586790": {
+		"type": "backeb",
+		"period": 2.0928189
+	},
+	"229587776": {
+		"type": "backeb",
+		"period": 6.5188764
+	},
+	"229588573": {
+		"type": "backeb",
+		"period": 5.5100423
+	},
+	"229596879": {
+		"type": "backeb",
+		"period": 2.9418368
+	},
+	"229609572": {
+		"type": "backeb",
+		"period": 5.0965348
+	},
+	"229612184": {
+		"type": "backeb",
+		"period": 8.8844349
+	},
+	"229613641": {
+		"type": "backeb",
+		"period": 7.7546223
+	},
+	"229618154": {
+		"type": "backeb",
+		"period": 3.8972128
+	},
+	"229639058": {
+		"type": "backeb",
+		"period": 9.2208476
+	},
+	"229639858": {
+		"type": "backeb",
+		"period": 4.0047448
+	},
+	"229640091": {
+		"type": "backeb",
+		"period": 3.6486052
+	},
+	"229642444": {
+		"type": "backeb",
+		"period": 5.9219582
+	},
+	"229673773": {
+		"type": "backeb",
+		"period": 3.2501812
+	},
+	"229701512": {
+		"type": "backeb",
+		"period": 9.6233837
+	},
+	"230069050": {
+		"type": "backeb",
+		"period": 7.8522437
+	},
+	"230079674": {
+		"type": "backeb",
+		"period": 4.6298108
+	},
+	"230091561": {
+		"type": "backeb",
+		"period": 4.0566366
+	},
+	"230111644": {
+		"type": "backeb",
+		"period": 9.7291454
+	},
+	"230111744": {
+		"type": "backeb",
+		"period": 7.6029977
+	},
+	"230117844": {
+		"type": "backeb",
+		"period": 7.8428031
+	},
+	"230124372": {
+		"type": "backeb",
+		"period": 2.6565764
+	},
+	"230124520": {
+		"type": "backeb",
+		"period": 6.5424847
+	},
+	"233010977": {
+		"type": "backeb",
+		"period": 8.3579776
+	},
+	"233195546": {
+		"type": "backeb",
+		"period": 2.9613367
+	},
+	"233196730": {
+		"type": "backeb",
+		"period": 3.2965796
+	},
+	"233199387": {
+		"type": "backeb",
+		"period": 8.2877437
+	},
+	"233199700": {
+		"type": "backeb",
+		"period": 9.4267615
+	},
+	"233202815": {
+		"type": "backeb",
+		"period": 2.9120762
+	},
+	"233211748": {
+		"type": "backeb",
+		"period": 2.6408959
+	},
+	"233495805": {
+		"type": "backeb",
+		"period": 5.024485
+	},
+	"233496577": {
+		"type": "backeb",
+		"period": 7.4773318
+	},
+	"233497034": {
+		"type": "backeb",
+		"period": 3.807307
+	},
+	"235679295": {
+		"type": "backeb",
+		"period": 2.2008813
+	},
+	"235682979": {
+		"type": "backeb",
+		"period": 2.0656482
+	},
+	"236757389": {
+		"type": "backeb",
+		"period": 4.4063637
+	},
+	"236758300": {
+		"type": "backeb",
+		"period": 4.9589757
+	},
+	"237103436": {
+		"type": "backeb",
+		"period": 7.4486697
+	},
+	"288315664": {
+		"type": "backeb",
+		"period": 2.4455499
+	},
+	"288344769": {
+		"type": "backeb",
+		"period": 5.9084277
+	},
+	"288405672": {
+		"type": "backeb",
+		"period": 7.383925
+	},
+	"288430685": {
+		"type": "backeb",
+		"period": 9.5632481
+	},
+	"288468223": {
+		"type": "backeb",
+		"period": 9.0055244
+	},
+	"311233735": {
+		"type": "backeb",
+		"period": 5.4090852
+	},
+	"329153513": {
+		"type": "backeb",
+		"period": 7.1603725
+	},
+	"356700695": {
+		"type": "backeb",
+		"period": 6.8215718
+	},
+	"356785777": {
+		"type": "backeb",
+		"period": 4.6419296
+	},
+	"356785943": {
+		"type": "backeb",
+		"period": 8.1668023
+	},
+	"356788481": {
+		"type": "backeb",
+		"period": 7.3209115
+	},
+	"357498294": {
+		"type": "backeb",
+		"period": 9.3562578
+	},
+	"362259362": {
+		"type": "backeb",
+		"period": 2.629401
+	},
+	"362259390": {
+		"type": "backeb",
+		"period": 4.7843839
+	},
+	"367838931": {
+		"type": "backeb",
+		"period": 9.8943994
+	},
+	"367854092": {
+		"type": "backeb",
+		"period": 8.4352559
+	},
+	"367855005": {
+		"type": "backeb",
+		"period": 7.6371855
+	},
+	"376879869": {
+		"type": "backeb",
+		"period": 6.3882038
+	},
+	"376925533": {
+		"type": "backeb",
+		"period": 5.9522065
+	},
+	"376926030": {
+		"type": "backeb",
+		"period": 9.1440954
+	},
+	"406855037": {
+		"type": "backeb",
+		"period": 2.9765164
+	},
+	"406855226": {
+		"type": "backeb",
+		"period": 3.4926521
+	},
+	"420107466": {
+		"type": "backeb",
+		"period": 8.54036
+	},
+	"420136179": {
+		"type": "backeb",
+		"period": 7.1896366
+	},
+	"441716761": {
+		"type": "backeb",
+		"period": 3.9930146
+	},
+	"441723963": {
+		"type": "backeb",
+		"period": 2.114088
+	},
+	"441728026": {
+		"type": "backeb",
+		"period": 4.1029594
+	},
+	"441728533": {
+		"type": "backeb",
+		"period": 7.5759539
+	},
+	"441730929": {
+		"type": "backeb",
+		"period": 7.5089456
+	},
+	"441733151": {
+		"type": "backeb",
+		"period": 3.3287188
+	},
+	"441737397": {
+		"type": "backeb",
+		"period": 3.098088
+	},
+	"441738253": {
+		"type": "backeb",
+		"period": 4.3347187
+	},
+	"441792490": {
+		"type": "backeb",
+		"period": 2.714473
+	},
+	"441794179": {
+		"type": "backeb",
+		"period": 3.2399965
+	},
+	"441794991": {
+		"type": "backeb",
+		"period": 9.7406779
+	},
+	"441795233": {
+		"type": "backeb",
+		"period": 7.9924553
+	},
+	"441795296": {
+		"type": "backeb",
+		"period": 6.5816301
+	},
+	"441797645": {
+		"type": "backeb",
+		"period": 2.08133
+	},
+	"441801836": {
+		"type": "backeb",
+		"period": 5.8050115
+	},
+	"441803615": {
+		"type": "backeb",
+		"period": 8.6748183
+	},
+	"441810984": {
+		"type": "backeb",
+		"period": 7.2733974
+	},
+	"441813841": {
+		"type": "backeb",
+		"period": 8.4213536
+	},
+}
