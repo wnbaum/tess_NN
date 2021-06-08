@@ -3,16 +3,6 @@ import numpy as np
 
 import tensorflow as tf
 
-try:
-    # Disable all GPUS
-    tf.config.set_visible_devices([], 'GPU')
-    visible_devices = tf.config.get_visible_devices()
-    for device in visible_devices:
-        assert device.device_type != 'GPU'
-except:
-    # Invalid device or cannot modify virtual devices once initialized.
-    pass
-
 g_train = []
 l_train = []
 s_train = []
@@ -49,7 +39,12 @@ random.Random(seed).shuffle(g_train)
 random.Random(seed).shuffle(s_train)
 random.Random(seed).shuffle(y_train)
 
-size = 1515
+size = 700
+
+l_test = l_train[size:1515]
+g_test = g_train[size:1515]
+s_test = s_train[size:1515]
+y_test = y_train[size:1515]
 
 l_train = l_train[0:size]
 g_train = g_train[0:size]
@@ -66,10 +61,20 @@ g_train = np.array(g_train)
 s_train = np.array(s_train) 
 y_train = np.array(y_train) 
 
+l_test = np.array(l_test)
+g_test = np.array(g_test)
+s_test = np.array(s_test) 
+y_test = np.array(y_test) 
+
 l_train[np.isnan(l_train)] = 0
 g_train[np.isnan(g_train)] = 0
 s_train[np.isnan(s_train)] = 0
 y_train[np.isnan(y_train)] = 0
+
+l_test[np.isnan(l_test)] = 0
+g_test[np.isnan(g_test)] = 0
+s_test[np.isnan(s_test)] = 0
+y_test[np.isnan(y_test)] = 0
 
 print(l_train[0])
 
@@ -80,69 +85,42 @@ from keras.losses import BinaryCrossentropy
 from keras.optimizers import Adam, SGD
 
 # define two sets of inputs
-local_input = Input(shape=(100,1)) # 100 bins
-global_input = Input(shape=(1000,1)) # 1000 bins
+local_input = Input(shape=(100,)) # 100 bins
+global_input = Input(shape=(1000,)) # 1000 bins
 
 conv_act = "relu"
 dense_act = "relu"
-softmax_act = "softmax"
+softmax_act = "relu"
 
 # local branch
-l = Dense(16, activation=conv_act)(local_input)
-l = Conv1D(16, 5, activation=conv_act)(l)
-l = Conv1D(16, 5, activation=conv_act)(l)
-l = MaxPool1D(7, 2)(l)
-l = Conv1D(32, 5, activation=conv_act)(l)
-l = Conv1D(32, 5, activation=conv_act)(l)
-l = MaxPool1D(7, 2)(l)
-l = Flatten()(l)
+l = Dense(1024, activation=softmax_act)(local_input)
+l = Dense(512, activation=softmax_act)(l)
+l = Dense(256, activation=softmax_act)(l)
+l = Dense(128, activation=softmax_act)(l)
+l = Dense(64, activation=softmax_act)(l)
+l = Dense(32, activation=softmax_act)(l)
+l = Dense(16, activation=softmax_act)(l)
+l = Dense(8, activation=softmax_act)(l)
+l = Dense(4, activation=softmax_act)(l)
+l = Dense(2, activation='softmax')(l)
 l = Model(inputs=local_input, outputs=l)
 
-# global branch
-g = Conv1D(16, 5, activation=conv_act)(global_input)
-g = Conv1D(16, 5, activation=conv_act)(g)
-g = MaxPool1D(5, 2)(g)
-g = Conv1D(32, 5, activation=conv_act)(g)
-g = Conv1D(32, 5, activation=conv_act)(g)
-g = MaxPool1D(5, 2)(g)
-g = Conv1D(64, 5, activation=conv_act)(g)
-g = Conv1D(64, 5, activation=conv_act)(g)
-g = MaxPool1D(5, 2)(g)
-g = Conv1D(128, 5, activation=conv_act)(g)
-g = Conv1D(128, 5, activation=conv_act)(g)
-g = MaxPool1D(5, 2)(g)
-g = Conv1D(256, 5, activation=conv_act)(g)
-g = Conv1D(256, 5, activation=conv_act)(g)
-g = MaxPool1D(5, 2)(g)
-g = Flatten()(g)
-g = Model(inputs=global_input, outputs=g)
-
-# combine branches
-combined = concatenate([l.output, g.output])
-
-# connect layers
-z = Dense(256, activation=dense_act)(combined)
-z = Dense(256, activation=dense_act)(z)
-z = Dense(256, activation=dense_act)(z)
-z = Dense(2, activation=softmax_act)(z)
-
-# our model will accept the inputs of the two branches and
-# then output a single value
-model = Model(inputs=[l.input, g.input], outputs=z)
-
-model.summary()
+l.summary()
 
 opt = Adam(learning_rate=0.01)
 
-model.compile(optimizer=opt,
+l.compile(optimizer=opt,
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-history = model.fit([l_train, g_train], s_train, epochs=10, batch_size=32)
+history = l.fit(l_train, s_train, epochs=1000, batch_size=32)
+
+results = l.evaluate(l_test, s_test, batch_size=32)
+print("test loss, test acc:", results)
 
 import matplotlib.pyplot as plt
 
-weights = model.get_weights()
+weights = l.get_weights()
 #print(weights)
 plt.hist(np.array(weights).flatten(), 10)
 plt.show()

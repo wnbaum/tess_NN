@@ -10,8 +10,8 @@ import lightkurve as lk
 
 import json
 
-gBINS = 1000
-lBINS = 100
+gBINS = 2000
+lBINS = 200
 
 labels_file = "C:/Users/wnbau/Documents/Programming Projects/NeuralNetworks/Astronomy/files/all_labels.json"
 labels_dict = {}
@@ -80,21 +80,21 @@ for file in file_paths:
     global_lc = global_lc.bin(bins=gBINS)
     local_lc = local_lc.bin(bins=lBINS)
 
-    np.save("./processed/" + data[0].header['OBJECT'][4:] + "_g", np.array(global_lc.flux))
-    np.save("./processed/" + data[0].header['OBJECT'][4:] + "_l", np.array(local_lc.flux))
+    np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_g", np.array(global_lc.flux))
+    np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_l", np.array(local_lc.flux))
 
     if (sim_data["type"] == "variation"):
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,0.0,0.0,1.0]))
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,0.0,0.0,1.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
     elif (sim_data["type"] == "planet"):
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,0.0,1.0,0.0]))
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_s", np.array([1.0,0.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,0.0,1.0,0.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_s", np.array([1.0,0.0]))
     elif (sim_data["type"] == "backeb"):
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_y", np.array([1.0,0.0,0.0,0.0]))
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_y", np.array([1.0,0.0,0.0,0.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
     else:
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,1.0,0.0,0.0]))
-        np.save("./processed/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_y", np.array([0.0,1.0,0.0,0.0]))
+        np.save("./processed2/" + data[0].header['OBJECT'][4:] + "_s", np.array([0.0,1.0]))
     
     count += 1
     if count % 50 == 0:
